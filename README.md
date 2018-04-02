@@ -1,1 +1,0 @@
-# mykimdesign.github.io
