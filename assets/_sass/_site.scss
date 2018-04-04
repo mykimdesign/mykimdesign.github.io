@@ -195,33 +195,10 @@ canvas {
   }
 }
 
-.posts-menu-icon {
-  position: absolute;
-  top: 30px;
-  right: 90px;
-  width: 20px;
-  height: 25px;
-  border: 2px solid $gray;
-  background: $white;
+.favorite-menu-icon {
   &:before {
-    content: '';
-    width: 20px;
-    height: 25px;
-    position: absolute;
-    right: 2px;
+    content: '\f005';
     border: 2px solid $gray;
-    top: 2px;
-    background: $white;
-  }
-  &:after {
-    content: '';
-    width: 20px;
-    height: 25px;
-    border: 2px solid $gray;
-    position: absolute;
-    right: 6px;
-    top: 6px;
-    background: $white;
   }
   &:hover {
     border-color: $green;
