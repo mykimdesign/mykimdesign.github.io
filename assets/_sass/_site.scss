@@ -57,6 +57,7 @@ canvas {
 .menu-icon {
     display: flex;
     flex-direction: column;
+    font-family: FontAwesome;
 }
 
 .menu-title {
@@ -129,7 +130,7 @@ canvas {
   border: 2px solid $gray;
   background: $white;
   &:before {
-    content: '';
+    content: '\f005';
     width: 20px;
     height: 25px;
     position: absolute;
