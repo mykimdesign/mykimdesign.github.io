@@ -1,7 +1,7 @@
 # Site
 title: MinYoung Kim
 description: Web Designer
-url: https://taylantatli.github.io/Halve
+url: https://mykimdesign.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -24,6 +24,7 @@ kramdown:
 sass:
   sass_dir:         assets/_sass
   style:            compressed
+baseurl: ""
 
 # Google Analytics
 #google-analytics: UA-XXXXX-Y
@@ -63,5 +64,3 @@ gems:
 # Exclude list
 include: [_pages]
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
-
-baseurl: "/blog"
