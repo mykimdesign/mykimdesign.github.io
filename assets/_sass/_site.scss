@@ -181,13 +181,11 @@ canvas {
 .favorite-menu-icon {
   position: absolute;
   top: 30px;
-  right: 30px;
-  width: 15px;
-  height: 15px;
+  right: 90px;
+  width: 20px;
+  height: 25px;
   border: 2px solid $gray;
-  border-radius: 3px;
-  cursor: pointer;
-  z-index: 3;
+  background: $white;
   &:before {
     content: '';
     width: 20px;
