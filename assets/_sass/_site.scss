@@ -122,8 +122,12 @@ canvas {
 }
 
 .works-menu-icon {
+  display: flex;
+  flex-direction: column;
   &:before {
     content: '\f03a';
+    color: $gray;
+      
     width: 20px;
     height: 25px;
     position: absolute;
@@ -138,8 +142,11 @@ canvas {
 }
 
 .study-menu-icon {
+  display: flex;
+  flex-direction: column;
   &:before {
     content: '\f303';
+    color: $gray;
   }
   &:hover {
     color: $green;
@@ -147,9 +154,11 @@ canvas {
 }
 
 .favorite-menu-icon {
+  display: flex;
+  flex-direction: column;
   &:before {
     content: '\f005';
-    border: 2px solid $gray;
+    color: $gray;
   }
   &:hover {
     color: $green;
