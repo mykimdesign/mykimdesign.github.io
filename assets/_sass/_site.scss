@@ -54,12 +54,6 @@ canvas {
   display: flex;
 }
 
-.menu-icon {
-    display: flex;
-    flex-direction: column;
-    font-family: FontAwesome;
-}
-
 .menu-title {
   font-size: 12px;
   color: #999;
@@ -121,13 +115,14 @@ canvas {
   }
 }
 
-.works-menu-icon {
-  display: flex;
-  flex-direction: column;
+.menu-icon {
+  position: absolute;
+  width: 20px;
+  height: 25px;
+  border: 2px solid $gray;
+  background: $white;
   &:before {
-    content: '\f03a';
-    color: $gray;
-      
+    content: '';
     width: 20px;
     height: 25px;
     position: absolute;
@@ -136,36 +131,43 @@ canvas {
     top: 2px;
     background: $white;
   }
-  &:hover {
-    color: $green;
+  &:after {
+    content: '';
+    width: 20px;
+    height: 25px;
+    border: 2px solid $gray;
+    position: absolute;
+    right: 6px;
+    top: 6px;
+    background: $white;
   }
+  &:hover {
+    border-color: $green;
+    &:before,
+    &:after {
+      border-color: $green;
+    }
+  }
+}
+
+.posts-menu-icon {
+    top: 30px;
+    right: 144px;
 }
 
 .study-menu-icon {
-  display: flex;
-  flex-direction: column;
-  &:before {
-    content: '\f303';
-    color: $gray;
-  }
-  &:hover {
-    color: $green;
-  }
+    top: 30px;
+    right: 87px;
 }
 
 .favorite-menu-icon {
-  display: flex;
-  flex-direction: column;
-  &:before {
-    content: '\f005';
-    color: $gray;
-  }
-  &:hover {
-    color: $green;
-  }
+    top: 30px;
+    right: 30px;
 }
 
 .posts-link,
+.study-link,
+.favorite-link,
 .projects-link {
   position: absolute;
   top: 73px;
@@ -174,11 +176,16 @@ canvas {
 }
 
 .posts-link {
-  right: 90px;
+  right: 142px;
 }
 
+.study-link {
+  right: 85px;
+}
+
+.favorite-link,
 .projects-link {
-  right: 20px;
+  right: 21px;
 }
 
 .overlay {

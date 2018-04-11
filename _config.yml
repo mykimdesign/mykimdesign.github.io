@@ -1,6 +1,6 @@
 # Site
 title: MinYoung Kim
-description: Web Designer
+description: Web Designer, UX Designer
 url: https://mykimdesign.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -64,3 +64,8 @@ gems:
 # Exclude list
 include: [_pages]
 exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+
+# For CORS
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
