@@ -117,6 +117,20 @@ canvas {
 
 .menu-icon {
   position: absolute;
+  &:hover {
+    border-color: $green;
+    color: $green;
+    &:before,
+    &:after {
+      border-color: $green;
+      color: $green;
+    }
+  }
+}
+
+.posts-menu-icon {
+  top: 30px;
+  right: 144px;
   width: 20px;
   height: 25px;
   border: 2px solid $gray;
@@ -141,28 +155,63 @@ canvas {
     top: 6px;
     background: $white;
   }
-  &:hover {
-    border-color: $green;
-    &:before,
-    &:after {
-      border-color: $green;
-    }
-  }
-}
-
-.posts-menu-icon {
-    top: 30px;
-    right: 144px;
 }
 
 .study-menu-icon {
-    top: 30px;
-    right: 87px;
+  top: 30px;
+  right: 96px;
+  width: 12px;
+  height: 29px;
+  background: $white;
+  border-style: solid;
+  border-color: $gray;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-top-width: 2px;
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
+    /*
+  transform: rotate(40deg);
+  -ms-transform: rotate(40deg);
+  -webkit-transform: rotate(40deg);
+  -moz-transform: rotate(40deg);
+  -o-transform: rotate(40deg);
+    */
+  &:before {
+    content: '';
+    position: absolute;
+    top: 23px;
+    right: 0px;
+    width: 8px;
+    height: 8px;
+    border-right: 2px solid $gray;
+    border-bottom: 2px solid $gray;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+
+  }
+  &:after {
+    position: absolute;
+    right: -1px;
+    top: 6px;
+    content: '';
+    width: 11px;
+    border: 1px solid $gray;
+  }
 }
 
-.favorite-menu-icon {
+a.favorite-menu-icon {
     top: 30px;
     right: 30px;
+    color: $gray;
+    &:before {
+      content: "\f006";
+      font-size: 2em;
+      font-family: FontAwesome;
+    }
 }
 
 .posts-link,
