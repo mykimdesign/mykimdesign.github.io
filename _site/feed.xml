@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-03T15:59:15+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/study/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/study</id><content type="html" xml:base="http://localhost:4000/study/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-24T15:26:16+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/study/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/study</id><content type="html" xml:base="http://localhost:4000/study/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
  PPT나 포토샵으로는 진행하기 어려운 부분을 프로토타이핑 툴을 통해서 애니메이션과 인터랙션 기능을 쉽게 해결할 수 있습니다.
- 시중에 나와있는 수많은 프로토타이핑 툴을 조사, 비교하여 디자인 팀에 맞는 최적의 툴을 조사해 보았습니다.&lt;/p&gt;
+ 시중에 나와있는 수많은 프로토타이핑 툴을 조사, 비교하여 UX팀에 맞는 최적의 툴을 조사해 보았습니다.
+ &lt;br /&gt;
+ &lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;비교&quot;&gt;비교&lt;/h2&gt;
 
@@ -17,7 +19,7 @@
     &lt;/thead&gt;
     &lt;tbody&gt;
      &lt;tr&gt;
-        &lt;td&gt;Adobe XD&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://www.adobe.com/kr/products/catalog.html&quot;&gt;Adobe XD&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;OS X&lt;/td&gt; 
         &lt;td&gt;Android, iOS, Web&lt;/td&gt;
         &lt;td&gt;HTML&lt;/td&gt;
@@ -25,7 +27,7 @@
         &lt;td&gt;$19/mo.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Atomic&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://atomic.io/&quot;&gt;Atomic&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;Web&lt;/td&gt; 
         &lt;td&gt;Any&lt;/td&gt;
         &lt;td&gt;HTML&lt;/td&gt;
@@ -33,7 +35,7 @@
         &lt;td&gt;$0/mo.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Axure&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;http://www.axure.com/&quot;&gt;Axure&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;OS X, Windows&lt;/td&gt; 
         &lt;td&gt;Any&lt;/td&gt;
         &lt;td&gt;HTML, PDF&lt;/td&gt;
@@ -41,7 +43,7 @@
         &lt;td&gt;$49/mo.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Justinmind&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;http://www.justinmind.com/&quot;&gt;Justinmind&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;OS X, Windows&lt;/td&gt; 
         &lt;td&gt;Android, iOS, Web&lt;/td&gt;
         &lt;td&gt;HTML, App Player&lt;/td&gt;
@@ -49,7 +51,7 @@
         &lt;td&gt;$29/mo.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Marvel Apps&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://marvelapp.com/apps/&quot;&gt;Marvel Apps&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;Android, iOS&lt;/td&gt; 
         &lt;td&gt;Android, iOS&lt;/td&gt;
         &lt;td&gt;HTML, App Player&lt;/td&gt;
@@ -57,7 +59,7 @@
         &lt;td&gt;Free&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Oven&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://ovenapp.io/&quot;&gt;Oven&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;Web&lt;/td&gt; 
         &lt;td&gt;Any&lt;/td&gt;
         &lt;td&gt;HTML, PDF&lt;/td&gt;
@@ -65,7 +67,7 @@
         &lt;td&gt;Free&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Pixate&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;http://www.pixate.com/&quot;&gt;Pixate&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;Web&lt;/td&gt; 
         &lt;td&gt;Android, iOS&lt;/td&gt;
         &lt;td&gt;App Player&lt;/td&gt;
@@ -73,7 +75,7 @@
         &lt;td&gt;$0/mo.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Proto.io&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://proto.io/&quot;&gt;Proto.io&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;Web&lt;/td&gt; 
         &lt;td&gt;Any&lt;/td&gt;
         &lt;td&gt;HTML, PDF, App Player&lt;/td&gt;
@@ -81,7 +83,7 @@
         &lt;td&gt;$29/mo.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;UXPin&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://www.uxpin.com/&quot;&gt;UXPin&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;Web&lt;/td&gt; 
         &lt;td&gt;Any&lt;/td&gt;
         &lt;td&gt;HTML, PDF&lt;/td&gt;
@@ -89,7 +91,7 @@
         &lt;td&gt;$49/mo.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Weld&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://www.weld.io/&quot;&gt;Weld&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;Web&lt;/td&gt; 
         &lt;td&gt;Any&lt;/td&gt;
         &lt;td&gt;HTML&lt;/td&gt;
@@ -98,15 +100,18 @@
       &lt;/tr&gt;
     &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;리뷰&quot;&gt;리뷰&lt;/h2&gt;
 
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-8.png&quot; alt=&quot;UXPin&quot; style=&quot;width: 120px; margin: 0;&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;툴 이름 : UXPin + 링크&lt;/li&gt;
-  &lt;li&gt;소개 영상: + 링크&lt;/li&gt;
-  &lt;li&gt;학습: 쉬움&lt;/li&gt;
-  &lt;li&gt;인터랙션 구현정도: 쉬움&lt;/li&gt;
-  &lt;li&gt;장점:
+  &lt;li&gt;툴 이름 : &lt;a href=&quot;https://www.uxpin.com/&quot;&gt;UXPin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;소개 영상 : &lt;a href=&quot;https://vimeo.com/154221090&quot;&gt;Introducing UXPin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;학습 : 쉬움 &lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;/li&gt;
+  &lt;li&gt;인터랙션 구현정도 : 쉬움 &lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;/li&gt;
+  &lt;li&gt;장점
     &lt;ol&gt;
       &lt;li&gt;브라우저 상에서 작업 가능.&lt;/li&gt;
       &lt;li&gt;실시간으로 저장됨.&lt;/li&gt;
@@ -115,58 +120,92 @@
       &lt;li&gt;기본적인 인터랙션 구현이 가능함.&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;단점:
+  &lt;li&gt;단점
     &lt;ol&gt;
       &lt;li&gt;디테일한 인터랙션 작업은 어려움.&lt;/li&gt;
       &lt;li&gt;수정사항이 실시간으로 바로 반영되지 않을때가 있음.&lt;/li&gt;
       &lt;li&gt;Libraries에서 제공하는 아이콘, 버튼 등을 사용할 때 버벅거리며 멈추는 현상이 있음.&lt;/li&gt;
-      &lt;li&gt;UI 요소를 드래그 하거나 배치할 때, Location과 Size의 정보 제공 안됨.&lt;/li&gt;
+      &lt;li&gt;UI 요소를 드래그 하거나 배치할 때, Location과 Size의 정보 제공이 안됨.&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;작업물: UXPin 사용후기 + 링크&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;기본화면&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;툴 이름 : Justinmind + 링크&lt;/li&gt;
-  &lt;li&gt;소개 영상: + 링크&lt;/li&gt;
-  &lt;li&gt;학습: 보통&lt;/li&gt;
-  &lt;li&gt;인터랙션 구현정도: 어려움&lt;/li&gt;
-  &lt;li&gt;장점:
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/study/20180503/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-1.jpg&quot; alt=&quot;UXPin&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;UXPin 기본 화면&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-9.png&quot; alt=&quot;Justinmind&quot; style=&quot;width: 120px; margin: 0;&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;툴 이름 : &lt;a href=&quot;http://www.justinmind.com/&quot;&gt;Justinmind&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;소개 영상 : &lt;a href=&quot;https://www.youtube.com/watch?v=kUes0bJYokU&amp;amp;feature=youtu.be&quot;&gt;Introducing Justinmind&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;학습 : 보통 &lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;/li&gt;
+  &lt;li&gt;인터랙션 구현정도 : 어려움 &lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;/li&gt;
+  &lt;li&gt;장점
     &lt;ol&gt;
       &lt;li&gt;overview가 잘 되어 있음.&lt;/li&gt;
       &lt;li&gt;포토샵과 비슷한 구조.&lt;/li&gt;
-      &lt;li&gt;UI요소를 드래그 하거나 배치할 때, Location과 Size의 정보 제공.&lt;/li&gt;
+      &lt;li&gt;UI 요소를 드래그 하거나 배치할 때, Location과 Size의 정보 제공.&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;단점:
+  &lt;li&gt;단점
     &lt;ol&gt;
       &lt;li&gt;사용하기 무거움.&lt;/li&gt;
       &lt;li&gt;color 설정이 익숙하지 않음.&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;기본화면&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;툴 이름 : Axure + 링크&lt;/li&gt;
-  &lt;li&gt;소개 영상: + 링크&lt;/li&gt;
-  &lt;li&gt;트레이닝 링크: + 링크&lt;/li&gt;
-  &lt;li&gt;학습: 보통&lt;/li&gt;
-  &lt;li&gt;인터랙션 구현정도: 보통과 어려움 사이&lt;/li&gt;
-  &lt;li&gt;장점:
-  1.국내, 해외에서 가장 많이 사용되고 있는 프로토타이핑 툴.
-  2.다른 툴 보다 정보가 많아 배우기에 좋음.
-  3.UI요소를 드래그 하거나 배치할 때, Location과 Size의 정보 제공.
-  4.Dynamic Panel 기능으로 더 정밀한 디자인 작업이 가능.&lt;/li&gt;
-  &lt;li&gt;단점:
-  1.학습에 있어 시간이 꽤 소요됨.
-  2.Axure 툴 구조가 한눈에 들어오지 않음.
-  3.UI Kits가 대부분 유료.
-  4.기본으로 제공해주는 chart가 없음.&lt;/li&gt;
-  &lt;li&gt;작업물: Axure 사용후기 + 링크&lt;/li&gt;
-  &lt;li&gt;기본화면&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;최종평가&quot;&gt;최종평가&lt;/h2&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">Halve Jekyll Theme</title><link href="http://localhost:4000/halve-theme/" rel="alternate" type="text/html" title="Halve Jekyll Theme" /><published>2016-05-29T00:00:00+09:00</published><updated>2016-05-29T00:00:00+09:00</updated><id>http://localhost:4000/halve-theme</id><content type="html" xml:base="http://localhost:4000/halve-theme/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/halve-home-image.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/halve-home-image.png&quot; alt=&quot;Home Page of Halve&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/study/20180503/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-2.jpg&quot; alt=&quot;Justinmind&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;Justinmind 기본 화면&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-10.png&quot; alt=&quot;Axure&quot; style=&quot;width: 120px; margin: 0;&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;툴 이름 : &lt;a href=&quot;http://www.axure.com/&quot;&gt;Axure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;소개 영상 : &lt;a href=&quot;https://www.youtube.com/watch?v=N-iLX6w_QEk&amp;amp;feature=youtu.be&quot;&gt;Introducing Axure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;트레이닝 링크 : &lt;a href=&quot;https://www.axure.com/support/training/core/1-basics&quot;&gt;Training Axure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;학습 : 보통 &lt;i class=&quot;fas fa-star&quot;&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;/i&gt;&lt;/i&gt;&lt;/li&gt;
+  &lt;li&gt;인터랙션 구현정도 : 보통과 어려움 사이 &lt;i class=&quot;fas fa-star&quot;&gt;&lt;i class=&quot;fas fa-star&quot;&gt;&lt;/i&gt;&lt;/i&gt;&lt;/li&gt;
+  &lt;li&gt;장점
+    &lt;ol&gt;
+      &lt;li&gt;국내, 해외에서 가장 많이 사용되고 있는 프로토타이핑 툴.&lt;/li&gt;
+      &lt;li&gt;다른 툴 보다 정보가 많아 배우기에 좋음.&lt;/li&gt;
+      &lt;li&gt;UI 요소를 드래그 하거나 배치할 때, Location과 Size의 정보 제공.&lt;/li&gt;
+      &lt;li&gt;Dynamic Panel 기능으로 더 정밀한 디자인 작업이 가능.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;단점
+    &lt;ol&gt;
+      &lt;li&gt;학습에 있어 시간이 꽤 소요됨.&lt;/li&gt;
+      &lt;li&gt;Axure 툴 구조가 한눈에 들어오지 않음.&lt;/li&gt;
+      &lt;li&gt;UI Kits가 대부분 유료.&lt;/li&gt;
+      &lt;li&gt;기본으로 제공해주는 chart가 없음.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;작업물 : &lt;a href=&quot;http://localhost:4000/images/study/20180503/proto-axure.zip&quot; download=&quot;&quot;&gt;Axure 사용후기&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/study/20180503/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-3.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;Axure 기본 화면&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;최종평가&quot;&gt;최종평가&lt;/h2&gt;
+
+&lt;p&gt;프로토타이핑 툴의 사용에 있어서 제일 중요하게 생각했던 부분은 ‘UX팀이 쉽게 사용할 수 있는가’와 ‘개발팀과의 소통이 원활하게 될수 있는 다양한 기능이 들어있는가’ 였습니다. 3가지의 후보 중에서 학습 시간이 조금은 소요되지만 인지도가 높아서 내가 필요한 정보를 쉽게 찾을수 있었던 ‘Axure’를 최종 결정하게 되었습니다.
+&lt;br /&gt;
+&lt;br /&gt;
+툴디자인&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-4.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;br /&gt;
+학습&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-5.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;br /&gt;
+인터랙션 기능&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-6.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;br /&gt;
+사용성(인지도)&lt;br /&gt;
+&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-7.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">Halve Jekyll Theme</title><link href="http://localhost:4000/halve-theme/" rel="alternate" type="text/html" title="Halve Jekyll Theme" /><published>2016-05-29T00:00:00+09:00</published><updated>2016-05-29T00:00:00+09:00</updated><id>http://localhost:4000/halve-theme</id><content type="html" xml:base="http://localhost:4000/halve-theme/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/halve-home-image.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/halve-home-image.png&quot; alt=&quot;Home Page of Halve&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;center&gt;&lt;b&gt;Halve&lt;/b&gt; is a stylish, two-column jekyll theme.&lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;

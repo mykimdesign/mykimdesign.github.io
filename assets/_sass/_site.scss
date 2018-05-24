@@ -205,7 +205,7 @@ canvas {
 
 a.favorite-menu-icon {
     top: 30px;
-    right: 30px;
+    right: 33px;
     color: $gray;
     &:before {
       content: "\f006";
@@ -527,6 +527,7 @@ a.favorite-menu-icon {
       height: auto;
       display: block;
       max-width: 800px;
+      font-weight: 100;
     }
   }
   .logo {
@@ -575,6 +576,7 @@ a.favorite-menu-icon {
     }
     p {
       font-size: 13px;
+      font-weight: 100;
       color: darken($white, 40);
     }
     .date {
@@ -604,6 +606,7 @@ a.favorite-menu-icon {
     display: inline-block;
     background: darken($white, 5%);
     padding: 7px 10px;
+    margin-bottom: 5px;
     color: lighten($black, 28%);
     font-size: 11px;
     text-transform: uppercase;
@@ -662,6 +665,10 @@ a.favorite-menu-icon {
       }
     }
   }
+    i {
+      font-family: FontAwesome;
+      color: #ffd700;
+    }
 }
 
 .demo {
@@ -680,7 +687,6 @@ a.favorite-menu-icon {
     font-size: 80px;
   }
   .tags > li {
-    margin-bottom: 5px;
     background: none;
     border: 1px solid rgba($white, 0.4);
     color: $white;
@@ -748,6 +754,7 @@ a.favorite-menu-icon {
   display: -webkit-flex;
   display: flex;
   align-items: center;
+  font-size: initial;
   &:before {
     content: '';
     -webkit-box-flex: 1;
