@@ -249,6 +249,10 @@ thead {
   border-bottom: 1px solid darken($white, 7%);
 }
 
+tr.active {
+  background: rgba($green, 0.2);
+}
+
 tr,
 td {
   border-bottom: 1px solid darken($white, 7%);
