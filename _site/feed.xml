@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-04T15:42:12+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/prototyping-tool/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/prototyping-tool</id><content type="html" xml:base="http://localhost:4000/prototyping-tool/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-04T17:15:41+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/prototyping-tool/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/prototyping-tool</id><content type="html" xml:base="http://localhost:4000/prototyping-tool/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
  PPT나 포토샵으로는 진행하기 어려운 부분을 프로토타이핑 툴을 통해서 애니메이션과 인터랙션 기능을 쉽게 해결할 수 있습니다.
  시중에 나와있는 수많은 프로토타이핑 툴을 조사, 비교하여 UX팀에 맞는 최적의 툴을 조사해 보았습니다.
  &lt;br /&gt;
@@ -197,7 +197,7 @@
 인터랙션 기능&lt;br /&gt;
 &lt;img src=&quot;http://localhost:4000/images/study/20180503/image-6.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;br /&gt;
 사용성(인지도)&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-7.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">Guide: A-Cubed Dashboard &amp;amp; Widget</title><link href="http://localhost:4000/guide-acubed-dashboard/" rel="alternate" type="text/html" title="Guide: A-Cubed Dashboard &amp; Widget" /><published>2016-09-06T00:00:00+09:00</published><updated>2016-09-06T00:00:00+09:00</updated><id>http://localhost:4000/guide-acubed-dashboard</id><content type="html" xml:base="http://localhost:4000/guide-acubed-dashboard/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Widget 가이드 제공&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-7.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">A-Cubed: Dashboard &amp;amp; Widget</title><link href="http://localhost:4000/acubed-dashboard-widget/" rel="alternate" type="text/html" title="A-Cubed: Dashboard &amp; Widget" /><published>2016-09-06T00:00:00+09:00</published><updated>2016-09-06T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-widget</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-widget/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Widget 가이드 제공&lt;/p&gt;
 
 &lt;h3 id=&quot;1-add-widget&quot;&gt;1. Add Widget&lt;/h3&gt;
 
@@ -260,7 +260,215 @@
 &lt;p&gt;Widget의 오른쪽 상단 버튼(파란영역부분)을 클릭하여 Widget을 삭제할 수 있다.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-16.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-16.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="html" /><category term="css" /><category term="guide" /><category term="dashboard" /><summary type="html">A-Cubed Dashboard &amp;amp; Widget 가이드 제공</summary></entry><entry><title type="html">(보류)Markup: A-Cubed Buttons</title><link href="http://localhost:4000/markup-acubed-buttons/" rel="alternate" type="text/html" title="(보류)Markup: A-Cubed Buttons" /><published>2015-06-01T00:00:00+09:00</published><updated>2015-06-01T00:00:00+09:00</updated><id>http://localhost:4000/markup-acubed-buttons</id><content type="html" xml:base="http://localhost:4000/markup-acubed-buttons/">&lt;p&gt;Bootstrap을 이용한 A-Cubed Buttons Design.
+&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="widget" /><summary type="html">A-Cubed Dashboard &amp;amp; Widget 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Dashboard &amp;amp; Sidebar</title><link href="http://localhost:4000/acubed-dashboard-sidebar/" rel="alternate" type="text/html" title="A-Cubed: Dashboard &amp; Sidebar" /><published>2015-12-21T00:00:00+09:00</published><updated>2015-12-21T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-sidebar</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-sidebar/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Sidebar 가이드 제공&lt;/p&gt;
+
+&lt;h3 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h3&gt;
+
+&lt;p&gt;Dashboard의 headbar에서 Dashboard를 추가 또는 삭제 할 수 있다.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.a3-header {
+  height: 40px;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-1.jpg&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-2.jpg&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sidebar&quot;&gt;Sidebar&lt;/h3&gt;
+
+&lt;p&gt;Dashboard의 head bar에서 Dashboard를 추가 또는 삭제 할 수 있다.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.a3-wrapper .a3-sidebar-wrapper {
+  width: 250px;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-3.jpg&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;Dashboard List&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-4.jpg&quot; alt=&quot;widget list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;Widget List&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-5.jpg&quot; alt=&quot;acubed net&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;A-Cubed Net&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-6.jpg&quot; alt=&quot;acubed map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;A-Cubed Map&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-7.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;Notification&lt;/center&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="sidebar" /><summary type="html">A-Cubed Dashboard &amp;amp; Sidebar 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Dashboard List</title><link href="http://localhost:4000/acubed-dashboard-list/" rel="alternate" type="text/html" title="A-Cubed: Dashboard List" /><published>2015-09-24T00:00:00+09:00</published><updated>2015-09-24T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-list</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-list/">&lt;p&gt;A-Cubed Sidebar의 Dashboard List 가이드 제공&lt;/p&gt;
+
+&lt;h3 id=&quot;1-default-the-view-of-dashboard-list-sidebar&quot;&gt;1. Default the View of Dashboard List Sidebar.&lt;/h3&gt;
+
+&lt;p&gt;해당 아이콘을 hover하면 title 속성이 제공된다.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;title = Dashboard List
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-1.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;해당 아이콘을 클릭하면 Dashboard List Sidebar가 나타난다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-2.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-resize-the-view-of-dashboard-list-sidebar&quot;&gt;2. Resize the View of Dashboard List Sidebar.&lt;/h3&gt;
+
+&lt;p&gt;Dashboard List Sidebar 상단의 버튼(파란부분영역)을 클릭하면 Sidebar 화면 전체 보기가 가능하다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-3.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-4.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-4.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dashboard List Sidebar 상단의 버튼(파란부분영역)을 클릭하면 원래 화면 크기로 돌아온다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-5.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-5.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-6.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-move-the-dashboard-card&quot;&gt;3. Move the Dashboard Card.&lt;/h3&gt;
+
+&lt;p&gt;Dashboard List의 Dashboard Card는 드래그하여 다른 위치로 이동 가능하다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-7.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-7.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-8.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-8.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-9.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-9.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;Default Size&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-10.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-10.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-11.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-11.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-12.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-12.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;Full Size&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-move-the-widgets-in-dashboard-card-list-from-side-to-side&quot;&gt;4. Move the Widgets in Dashboard Card list from side to side.&lt;/h3&gt;
+
+&lt;p&gt;Dashboard Card의 Widget List는 4개 이상일 경우 좌우로 이동 가능하다.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Widget List(파란부분영역)에 mouse hover시, 좌우 화살표가 나타나며 Widget 확인이 가능하다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-13.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-13.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-14.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-14.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-15.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-15.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-managing-shared&quot;&gt;5. Managing Shared.&lt;/h3&gt;
+
+&lt;p&gt;Dashboard Card안에서 공유된 공유자의 인원수 확인이 가능하며 공유자 추가 또는 제거가 가능하다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-16.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-16.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-17.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-17.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-18.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-18.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-19.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-19.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-20.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-20.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-21.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-21.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;6-go-to-the-dashboard-from-the-dashboard-list-selected&quot;&gt;6. Go to the Dashboard from the Dashboard List selected.&lt;/h3&gt;
+
+&lt;p&gt;Dashboard List에서 Dashboard Card를 클릭하면 선택된 Dashboard 페이지로 이동한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-22.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-22.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-23.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-23.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;7-remove-the-dashboard-card&quot;&gt;7. Remove the Dashboard Card.&lt;/h3&gt;
+
+&lt;p&gt;Dashboard List의 Dashboard Card는 삭제가 가능하다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-24.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-24.png&quot; alt=&quot;remove dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-25.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-25.png&quot; alt=&quot;remove dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;8-managing-trash-dashboard&quot;&gt;8. Managing Trash dashboard.&lt;/h3&gt;
+
+&lt;p&gt;휴지통 아이콘(파란부분영역)을 클릭하면 Delete Dashboard Modal이 오픈된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-26.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-26.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-27.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-27.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;상단의 ‘Select All’ 버튼을 클릭하면 Delete Dashboard Modal에 있는 모든 Dashboard Card가 선택된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-28.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-28.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-29.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-29.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;상단의 ‘Unselect All’ 버튼을 클릭하면 Delete Dashboard Modal에 있는 모든 Dashboard Card가 선택 해지된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-30.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-30.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-31.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-31.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;지우거나 복원시키고자 하는 Dashboard Card를 직접 선택할수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-32.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-32.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-33.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-33.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Delete Dashboard Modal에서 Dashboard Card를 선택하고 ‘Restoration’ 버튼을 클릭하면 해당 Dashboard Card가 복원된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-34.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-34.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-35.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-35.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;지우고자 하는 Dashboard Card 선택후, ‘Empty’ 버튼을 클릭하면 최종확인 alert이 오픈된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-36.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-36.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-37.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-37.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;alert를 확인후, 최종 ‘Empty’ 버튼을 클릭하면 toast message가 나타났다 사라지면서 선택된 Dashboard Card가 삭제된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-38.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-38.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-39.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-39.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;오른쪽 상단, 닫기버튼(파란영역부분)을 클릭하면 Delete Dashboard Modal이 닫힌다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-40.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-40.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-41.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-41.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard list" /><category term="sidebar" /><summary type="html">A-Cubed Sidebar의 Dashboard List 가이드 제공</summary></entry><entry><title type="html">(보류)Markup: A-Cubed Buttons</title><link href="http://localhost:4000/markup-acubed-buttons/" rel="alternate" type="text/html" title="(보류)Markup: A-Cubed Buttons" /><published>2015-06-01T00:00:00+09:00</published><updated>2015-06-01T00:00:00+09:00</updated><id>http://localhost:4000/markup-acubed-buttons</id><content type="html" xml:base="http://localhost:4000/markup-acubed-buttons/">&lt;p&gt;Bootstrap을 이용한 A-Cubed Buttons Design.
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 

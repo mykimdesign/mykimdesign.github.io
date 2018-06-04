@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "Guide: A-Cubed Dashboard & Widget"
+title:  "A-Cubed: Dashboard & Widget"
 date:   2016-09-06
 categories:
   - Markup
 tags:
   - A-Cubed
+  - guide
   - html
   - css
-  - guide
   - dashboard
+  - widget
 ---
 
 A-Cubed Dashboard & Widget 가이드 제공
