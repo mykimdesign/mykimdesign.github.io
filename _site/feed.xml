@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-04T17:15:41+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/prototyping-tool/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/prototyping-tool</id><content type="html" xml:base="http://localhost:4000/prototyping-tool/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-07T16:05:35+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/prototyping-tool/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/prototyping-tool</id><content type="html" xml:base="http://localhost:4000/prototyping-tool/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
  PPT나 포토샵으로는 진행하기 어려운 부분을 프로토타이핑 툴을 통해서 애니메이션과 인터랙션 기능을 쉽게 해결할 수 있습니다.
  시중에 나와있는 수많은 프로토타이핑 툴을 조사, 비교하여 UX팀에 맞는 최적의 툴을 조사해 보았습니다.
  &lt;br /&gt;
@@ -260,7 +260,106 @@
 &lt;p&gt;Widget의 오른쪽 상단 버튼(파란영역부분)을 클릭하여 Widget을 삭제할 수 있다.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-16.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-16.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="widget" /><summary type="html">A-Cubed Dashboard &amp;amp; Widget 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Dashboard &amp;amp; Sidebar</title><link href="http://localhost:4000/acubed-dashboard-sidebar/" rel="alternate" type="text/html" title="A-Cubed: Dashboard &amp; Sidebar" /><published>2015-12-21T00:00:00+09:00</published><updated>2015-12-21T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-sidebar</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-sidebar/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Sidebar 가이드 제공&lt;/p&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="widget" /><summary type="html">A-Cubed Dashboard &amp;amp; Widget 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Platform Prototype</title><link href="http://localhost:4000/acubed-platform-prototype/" rel="alternate" type="text/html" title="A-Cubed: Platform Prototype" /><published>2016-07-29T00:00:00+09:00</published><updated>2016-07-29T00:00:00+09:00</updated><id>http://localhost:4000/acubed-platform-prototype</id><content type="html" xml:base="http://localhost:4000/acubed-platform-prototype/">&lt;p&gt;A-Cubed Platform Prototype&lt;/p&gt;
+
+&lt;h3 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-1.jpg&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dashboard-with-widget-list&quot;&gt;Dashboard with Widget List&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-2.jpg&quot; alt=&quot;widget list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;communcation--drill-down-layer-in-widget-container&quot;&gt;Communcation &amp;amp; Drill down layer in widget container&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-3.jpg&quot; alt=&quot;drill down&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dashboard-list&quot;&gt;Dashboard List&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-4.jpg&quot; alt=&quot;dashabord list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;delete-dashboard&quot;&gt;Delete Dashboard&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-5.jpg&quot; alt=&quot;delete dashabord&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cubenet&quot;&gt;CubeNet&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-6.jpg&quot; alt=&quot;cubenet&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;map&quot;&gt;Map&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-7.jpg&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;notification&quot;&gt;Notification&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-8.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;application-list&quot;&gt;Application List&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-9.jpg&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;drilldown-to-app&quot;&gt;DrillDown to App&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-10.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-10.jpg&quot; alt=&quot;application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="platform" /><category term="prototype" /><category term="html" /><category term="css" /><summary type="html">A-Cubed Platform Prototype</summary></entry><entry><title type="html">A-Cubed: App Configuration</title><link href="http://localhost:4000/app-configuration/" rel="alternate" type="text/html" title="A-Cubed: App Configuration" /><published>2016-07-18T00:00:00+09:00</published><updated>2016-07-18T00:00:00+09:00</updated><id>http://localhost:4000/app-configuration</id><content type="html" xml:base="http://localhost:4000/app-configuration/">&lt;p&gt;A-Cubed App Configuration 가이드 제공&lt;/p&gt;
+
+&lt;h3 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h3&gt;
+
+&lt;p&gt;최초 Configuration 오픈시 좌측 메뉴는 오픈되어있다.
+닫기 버튼 클릭시 메뉴는 좌측으로 이동되면서 닫힌다.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;버튼 &amp;lt;a class=&quot;btn btn-default a3-menu-close&quot; title=&quot;Close menu&quot;&amp;gt;&amp;lt;/a&amp;gt;
+레이어 &amp;lt;div class=&quot;a3-workspace-container menu-close&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160718/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160718/image-1.jpg&quot; alt=&quot;app configuration&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;열기 버튼 클릭시 메뉴는 좌측으로 이동되면서 닫힌다.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;버튼 &amp;lt;a class=&quot;btn btn-default a3-menu-open&quot; title=&quot;Open menu&quot;&amp;gt;&amp;lt;/a&amp;gt;
+레이어 &amp;lt;div class=&quot;a3-workspace-container menu-open&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160718/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160718/image-2.jpg&quot; alt=&quot;app configuration&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">A-Cubed App Configuration 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Map</title><link href="http://localhost:4000/acubed-map/" rel="alternate" type="text/html" title="A-Cubed: Map" /><published>2016-05-23T00:00:00+09:00</published><updated>2016-05-23T00:00:00+09:00</updated><id>http://localhost:4000/acubed-map</id><content type="html" xml:base="http://localhost:4000/acubed-map/">&lt;p&gt;A-Cubed Map 가이드 제공&lt;/p&gt;
+
+&lt;h3 id=&quot;1-radial-view&quot;&gt;1. Radial View&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-1.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-2.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-3.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-4.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-4.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-5.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-5.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tree-view&quot;&gt;Tree View&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-6.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="prototype" /><category term="html" /><category term="css" /><summary type="html">A-Cubed Map 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Dashboard &amp;amp; Sidebar</title><link href="http://localhost:4000/acubed-dashboard-sidebar/" rel="alternate" type="text/html" title="A-Cubed: Dashboard &amp; Sidebar" /><published>2015-12-21T00:00:00+09:00</published><updated>2015-12-21T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-sidebar</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-sidebar/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Sidebar 가이드 제공&lt;/p&gt;
 
 &lt;h3 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h3&gt;
 
