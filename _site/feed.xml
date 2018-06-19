@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-19T17:56:42+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/prototyping-tool/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/prototyping-tool</id><content type="html" xml:base="http://localhost:4000/prototyping-tool/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-19T19:44:40+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/prototyping-tool/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/prototyping-tool</id><content type="html" xml:base="http://localhost:4000/prototyping-tool/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
  PPT나 포토샵으로는 진행하기 어려운 부분을 프로토타이핑 툴을 통해서 애니메이션과 인터랙션 기능을 쉽게 해결할 수 있습니다.
  시중에 나와있는 수많은 프로토타이핑 툴을 조사, 비교하여 UX팀에 맞는 최적의 툴을 조사해 보았습니다.
  &lt;br /&gt;
@@ -197,7 +197,368 @@
 인터랙션 기능&lt;br /&gt;
 &lt;img src=&quot;http://localhost:4000/images/study/20180503/image-6.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;br /&gt;
 사용성(인지도)&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-7.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">A-Cubed: Dashboard &amp;amp; Widget</title><link href="http://localhost:4000/acubed-dashboard-widget/" rel="alternate" type="text/html" title="A-Cubed: Dashboard &amp; Widget" /><published>2016-09-06T00:00:00+09:00</published><updated>2016-09-06T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-widget</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-widget/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Widget 가이드 제공&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-7.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">Color Guide</title><link href="http://localhost:4000/color-guide/" rel="alternate" type="text/html" title="Color Guide" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/color-guide</id><content type="html" xml:base="http://localhost:4000/color-guide/">&lt;h3 id=&quot;chart-fonts--grid&quot;&gt;Chart Fonts &amp;amp; Grid&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;폰트 사이즈 : 11px&lt;/li&gt;
+  &lt;li&gt;색상 #555555&lt;/li&gt;
+  &lt;li&gt;Outline : #55555&lt;/li&gt;
+  &lt;li&gt;Inline : #dddddd
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tablegrid-colors&quot;&gt;Table(Grid) Colors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;row hover : #eeeeee&lt;/li&gt;
+  &lt;li&gt;row selected : #DAECF5
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;chart-colors&quot;&gt;Chart Colors&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Status chart color
+    &lt;ul&gt;
+      &lt;li&gt;차트가 Status를 가질때&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Basic chart color
+    &lt;ul&gt;
+      &lt;li&gt;Basic 하게 사용하는 색상 (UX팀에서 사용하는 칼라)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Separation chart color
+    &lt;ul&gt;
+      &lt;li&gt;차트에서 구분을 위하여 순차적으로 뿌려주는 색상 ( Gantt, Trend Chart)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Basic bar chart color
+    &lt;ul&gt;
+      &lt;li&gt;기본 바차트 (바차트가 추가 될 경우 순차적으로 사용)
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;status-colors-code&quot;&gt;Status colors #Code&lt;/h3&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;/th&gt; 
+        &lt;th&gt;1&lt;/th&gt;
+        &lt;th&gt;2&lt;/th&gt;
+        &lt;th&gt;3&lt;/th&gt;
+        &lt;th&gt;4&lt;/th&gt;
+        &lt;th&gt;5&lt;/th&gt;
+        &lt;th&gt;6&lt;/th&gt;
+        &lt;th&gt;7&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+     &lt;tr&gt;
+        &lt;td&gt;Default&lt;/td&gt;
+        &lt;td&gt;0&lt;/td&gt; 
+        &lt;td&gt;555555&lt;/td&gt;
+        &lt;td&gt;ff3d3d&lt;/td&gt;
+        &lt;td&gt;ff8519&lt;/td&gt;
+        &lt;td&gt;ffba00&lt;/td&gt;
+        &lt;td&gt;a2c900&lt;/td&gt;
+        &lt;td&gt;21b100&lt;/td&gt;
+        &lt;td&gt;3793ff&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;basic-colors-code&quot;&gt;Basic colors #Code&lt;/h3&gt;
+
+&lt;div style=&quot;width:100%; overflow:auto;&quot;&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;/th&gt; 
+        &lt;th&gt;1&lt;/th&gt;
+        &lt;th&gt;2&lt;/th&gt;
+        &lt;th&gt;3&lt;/th&gt;
+        &lt;th&gt;4&lt;/th&gt;
+        &lt;th&gt;5&lt;/th&gt;
+        &lt;th&gt;6&lt;/th&gt;
+        &lt;th&gt;7&lt;/th&gt;
+        &lt;th&gt;8&lt;/th&gt; 
+        &lt;th&gt;9&lt;/th&gt;
+        &lt;th&gt;10&lt;/th&gt;
+        &lt;th&gt;11&lt;/th&gt;
+        &lt;th&gt;12&lt;/th&gt;
+        &lt;th&gt;13&lt;/th&gt;
+        &lt;th&gt;14&lt;/th&gt;
+        &lt;th&gt;15&lt;/th&gt;
+        &lt;th&gt;16&lt;/th&gt;
+        &lt;th&gt;17&lt;/th&gt;
+        &lt;th&gt;18&lt;/th&gt;
+        &lt;th&gt;19&lt;/th&gt;
+        &lt;th&gt;20&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+     &lt;tr&gt;
+        &lt;td&gt;Selected&lt;/td&gt;
+        &lt;td&gt;0&lt;/td&gt; 
+        &lt;td&gt;cc3131&lt;/td&gt;
+        &lt;td&gt;cc4729&lt;/td&gt;
+        &lt;td&gt;cc5e29&lt;/td&gt;
+        &lt;td&gt;cc7529&lt;/td&gt;
+        &lt;td&gt;cc8c29&lt;/td&gt;
+        &lt;td&gt;c6b700&lt;/td&gt;
+        &lt;td&gt;8fb200&lt;/td&gt;
+        &lt;td&gt;51a800&lt;/td&gt;
+        &lt;td&gt;1e9e00&lt;/td&gt;
+        &lt;td&gt;1a8e00&lt;/td&gt;
+        &lt;td&gt;008e78&lt;/td&gt;
+        &lt;td&gt;009fa7&lt;/td&gt;
+        &lt;td&gt;0086ba&lt;/td&gt;
+        &lt;td&gt;3163cc&lt;/td&gt;
+        &lt;td&gt;4e5ac2&lt;/td&gt;
+        &lt;td&gt;724abf&lt;/td&gt;
+        &lt;td&gt;9532a8&lt;/td&gt;
+        &lt;td&gt;b43b82&lt;/td&gt;
+        &lt;td&gt;cc3c66&lt;/td&gt;
+        &lt;td&gt;9a8878&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Default&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt; 
+        &lt;td&gt;ff3d3d&lt;/td&gt;
+        &lt;td&gt;ff5933&lt;/td&gt;
+        &lt;td&gt;ff7633&lt;/td&gt;
+        &lt;td&gt;ff9333&lt;/td&gt;
+        &lt;td&gt;ffb847&lt;/td&gt;
+        &lt;td&gt;ffd400&lt;/td&gt;
+        &lt;td&gt;b3de00&lt;/td&gt;
+        &lt;td&gt;66d200&lt;/td&gt;
+        &lt;td&gt;25c500&lt;/td&gt;
+        &lt;td&gt;21b100&lt;/td&gt;
+        &lt;td&gt;19baa1&lt;/td&gt;
+        &lt;td&gt;00c7d1&lt;/td&gt;
+        &lt;td&gt;00a7e8&lt;/td&gt;
+        &lt;td&gt;3d7cff&lt;/td&gt;
+        &lt;td&gt;6270f2&lt;/td&gt;
+        &lt;td&gt;8e5def&lt;/td&gt;
+        &lt;td&gt;ba3ed2&lt;/td&gt;
+        &lt;td&gt;e14aa3&lt;/td&gt;
+        &lt;td&gt;ff4b80&lt;/td&gt;
+        &lt;td&gt;c1aa96&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Opacity 90%&lt;/td&gt;
+        &lt;td&gt;2&lt;/td&gt; 
+        &lt;td&gt;ff5050&lt;/td&gt;
+        &lt;td&gt;ff6947&lt;/td&gt;
+        &lt;td&gt;ff8347&lt;/td&gt;
+        &lt;td&gt;ff9e47&lt;/td&gt;
+        &lt;td&gt;ffb847&lt;/td&gt;
+        &lt;td&gt;ffd819&lt;/td&gt;
+        &lt;td&gt;bae119&lt;/td&gt;
+        &lt;td&gt;75d619&lt;/td&gt;
+        &lt;td&gt;3acb19&lt;/td&gt;
+        &lt;td&gt;37b919&lt;/td&gt;
+        &lt;td&gt;1abaa2&lt;/td&gt;
+        &lt;td&gt;19ccd6&lt;/td&gt;
+        &lt;td&gt;19b0ea&lt;/td&gt;
+        &lt;td&gt;5089ff&lt;/td&gt;
+        &lt;td&gt;717ef3&lt;/td&gt;
+        &lt;td&gt;996df1&lt;/td&gt;
+        &lt;td&gt;c151d6&lt;/td&gt;
+        &lt;td&gt;e45cac&lt;/td&gt;
+        &lt;td&gt;ff5d8c&lt;/td&gt;
+        &lt;td&gt;c7b2a0&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Opacity 80%&lt;/td&gt;
+        &lt;td&gt;3&lt;/td&gt; 
+        &lt;td&gt;ff6464&lt;/td&gt;
+        &lt;td&gt;ff7a5c&lt;/td&gt;
+        &lt;td&gt;ff915c&lt;/td&gt;
+        &lt;td&gt;ffa95c&lt;/td&gt;
+        &lt;td&gt;ffc05c&lt;/td&gt;
+        &lt;td&gt;ffdd33&lt;/td&gt;
+        &lt;td&gt;c2e533&lt;/td&gt;
+        &lt;td&gt;85db33&lt;/td&gt;
+        &lt;td&gt;51d133&lt;/td&gt;
+        &lt;td&gt;4dc133&lt;/td&gt;
+        &lt;td&gt;33c1ac&lt;/td&gt;
+        &lt;td&gt;33d2da&lt;/td&gt;
+        &lt;td&gt;33b9ed&lt;/td&gt;
+        &lt;td&gt;6496ff&lt;/td&gt;
+        &lt;td&gt;818df5&lt;/td&gt;
+        &lt;td&gt;a57df2&lt;/td&gt;
+        &lt;td&gt;c865db&lt;/td&gt;
+        &lt;td&gt;e76eb5&lt;/td&gt;
+        &lt;td&gt;ff6f99&lt;/td&gt;
+        &lt;td&gt;cdbbab&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Opacity 70%&lt;/td&gt;
+        &lt;td&gt;4&lt;/td&gt; 
+        &lt;td&gt;ff7777&lt;/td&gt;
+        &lt;td&gt;ff8a70&lt;/td&gt;
+        &lt;td&gt;ff9f70&lt;/td&gt;
+        &lt;td&gt;ffb370&lt;/td&gt;
+        &lt;td&gt;ffc870&lt;/td&gt;
+        &lt;td&gt;ffe14c&lt;/td&gt;
+        &lt;td&gt;cae84c&lt;/td&gt;
+        &lt;td&gt;94df4c&lt;/td&gt;
+        &lt;td&gt;66d64c&lt;/td&gt;
+        &lt;td&gt;63c84c&lt;/td&gt;
+        &lt;td&gt;4cc9b6&lt;/td&gt;
+        &lt;td&gt;4cd8df&lt;/td&gt;
+        &lt;td&gt;4cc1ef&lt;/td&gt;
+        &lt;td&gt;77a3ff&lt;/td&gt;
+        &lt;td&gt;919bf6&lt;/td&gt;
+        &lt;td&gt;b08df4&lt;/td&gt;
+        &lt;td&gt;cf78df&lt;/td&gt;
+        &lt;td&gt;ea80be&lt;/td&gt;
+        &lt;td&gt;ff81a6&lt;/td&gt;
+        &lt;td&gt;d3c3b5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Opacity 60%&lt;/td&gt;
+        &lt;td&gt;5&lt;/td&gt; 
+        &lt;td&gt;ff8b8b&lt;/td&gt;
+        &lt;td&gt;ff9b85&lt;/td&gt;
+        &lt;td&gt;ffad85&lt;/td&gt;
+        &lt;td&gt;ffbe85&lt;/td&gt;
+        &lt;td&gt;ffd085&lt;/td&gt;
+        &lt;td&gt;ffe566&lt;/td&gt;
+        &lt;td&gt;d1eb66&lt;/td&gt;
+        &lt;td&gt;a3e466&lt;/td&gt;
+        &lt;td&gt;7cdc66&lt;/td&gt;
+        &lt;td&gt;7ad066&lt;/td&gt;
+        &lt;td&gt;66d1c1&lt;/td&gt;
+        &lt;td&gt;66dde3&lt;/td&gt;
+        &lt;td&gt;66caf1&lt;/td&gt;
+        &lt;td&gt;8bb0ff&lt;/td&gt;
+        &lt;td&gt;a1a9f7&lt;/td&gt;
+        &lt;td&gt;bb9ef5&lt;/td&gt;
+        &lt;td&gt;d68be4&lt;/td&gt;
+        &lt;td&gt;ed92c8&lt;/td&gt;
+        &lt;td&gt;ff93b3&lt;/td&gt;
+        &lt;td&gt;daccc0&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;separation-colors-code&quot;&gt;Separation colors #Code&lt;/h3&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;/th&gt; 
+        &lt;th&gt;1&lt;/th&gt;
+        &lt;th&gt;2&lt;/th&gt;
+        &lt;th&gt;3&lt;/th&gt;
+        &lt;th&gt;4&lt;/th&gt;
+        &lt;th&gt;5&lt;/th&gt;
+        &lt;th&gt;6&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+     &lt;tr&gt;
+        &lt;td&gt;Default&lt;/td&gt;
+        &lt;td&gt;0&lt;/td&gt; 
+        &lt;td&gt;5682c8&lt;/td&gt;
+        &lt;td&gt;90c44f&lt;/td&gt;
+        &lt;td&gt;c0afa1&lt;/td&gt;
+        &lt;td&gt;5c6992&lt;/td&gt;
+        &lt;td&gt;358ab1&lt;/td&gt;
+        &lt;td&gt;b29b5e&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;7&lt;/th&gt;
+        &lt;th&gt;8&lt;/th&gt; 
+        &lt;th&gt;9&lt;/th&gt;
+        &lt;th&gt;10&lt;/th&gt;
+        &lt;th&gt;11&lt;/th&gt;
+        &lt;th&gt;12&lt;/th&gt;
+        &lt;th&gt;13&lt;/th&gt;
+        &lt;th&gt;14&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+     &lt;tr&gt;
+        &lt;td&gt;8b9c7e&lt;/td&gt;
+        &lt;td&gt;8f9cdc&lt;/td&gt; 
+        &lt;td&gt;6c5d9d&lt;/td&gt;
+        &lt;td&gt;7c838a&lt;/td&gt;
+        &lt;td&gt;4e9f9b&lt;/td&gt;
+        &lt;td&gt;c7c598&lt;/td&gt;
+        &lt;td&gt;a5a064&lt;/td&gt;
+        &lt;td&gt;9e6c94&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;15&lt;/th&gt;
+        &lt;th&gt;16&lt;/th&gt; 
+        &lt;th&gt;17&lt;/th&gt;
+        &lt;th&gt;18&lt;/th&gt;
+        &lt;th&gt;19&lt;/th&gt;
+        &lt;th&gt;20&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+     &lt;tr&gt;
+        &lt;td&gt;4f6aa0&lt;/td&gt;
+        &lt;td&gt;4ea9c4&lt;/td&gt;
+        &lt;td&gt;5c9252&lt;/td&gt;
+        &lt;td&gt;48b374&lt;/td&gt;
+        &lt;td&gt;9b8241&lt;/td&gt;
+        &lt;td&gt;c09a83&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;basic-bar-chart-colors-code&quot;&gt;Basic bar chart colors #Code&lt;/h3&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;/th&gt; 
+        &lt;th&gt;1&lt;/th&gt;
+        &lt;th&gt;2&lt;/th&gt;
+        &lt;th&gt;3&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+     &lt;tr&gt;
+        &lt;td&gt;Default&lt;/td&gt;
+        &lt;td&gt;0&lt;/td&gt; 
+        &lt;td&gt;6e8ba0&lt;/td&gt;
+        &lt;td&gt;859e66&lt;/td&gt;
+        &lt;td&gt;5c9a8e&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">A-Cubed: Dashboard &amp;amp; Widget</title><link href="http://localhost:4000/acubed-dashboard-widget/" rel="alternate" type="text/html" title="A-Cubed: Dashboard &amp; Widget" /><published>2016-09-06T00:00:00+09:00</published><updated>2016-09-06T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-widget</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-widget/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Widget 가이드 제공&lt;/p&gt;
 
 &lt;h3 id=&quot;1-add-widget&quot;&gt;1. Add Widget&lt;/h3&gt;
 
@@ -260,7 +621,51 @@
 &lt;p&gt;Widget의 오른쪽 상단 버튼(파란영역부분)을 클릭하여 Widget을 삭제할 수 있다.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-16.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-16.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="widget" /><summary type="html">A-Cubed Dashboard &amp;amp; Widget 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Platform Prototype</title><link href="http://localhost:4000/acubed-platform-prototype/" rel="alternate" type="text/html" title="A-Cubed: Platform Prototype" /><published>2016-07-29T00:00:00+09:00</published><updated>2016-07-29T00:00:00+09:00</updated><id>http://localhost:4000/acubed-platform-prototype</id><content type="html" xml:base="http://localhost:4000/acubed-platform-prototype/">&lt;p&gt;A-Cubed Platform Prototype&lt;/p&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-17.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="widget" /><summary type="html">A-Cubed Dashboard &amp;amp; Widget 가이드 제공</summary></entry><entry><title type="html">FD-TA: Semicon West</title><link href="http://localhost:4000/fd-ta/" rel="alternate" type="text/html" title="FD-TA: Semicon West" /><published>2016-09-06T00:00:00+09:00</published><updated>2016-09-06T00:00:00+09:00</updated><id>http://localhost:4000/fd-ta</id><content type="html" xml:base="http://localhost:4000/fd-ta/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Widget 가이드 제공&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-6.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-7.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-8.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-9.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-10.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-10.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-11.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-11.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-12.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-12.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-13.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-13.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-14.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-14.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-15.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-15.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-16.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-16.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-17.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-17.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-18.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-18.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-19.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-19.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-20.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-20.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-21.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-21.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-22.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-22.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-23.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-23.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-24.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-24.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-25.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-25.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-26.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-26.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-27.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-27.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="widget" /><summary type="html">A-Cubed Dashboard &amp;amp; Widget 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Platform Prototype</title><link href="http://localhost:4000/acubed-platform-prototype/" rel="alternate" type="text/html" title="A-Cubed: Platform Prototype" /><published>2016-07-29T00:00:00+09:00</published><updated>2016-07-29T00:00:00+09:00</updated><id>http://localhost:4000/acubed-platform-prototype</id><content type="html" xml:base="http://localhost:4000/acubed-platform-prototype/">&lt;p&gt;A-Cubed Platform Prototype&lt;/p&gt;
 
 &lt;h3 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h3&gt;
 
@@ -341,7 +746,72 @@
 
 &lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160718/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160718/image-2.jpg&quot; alt=&quot;app configuration&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">A-Cubed App Configuration 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Map</title><link href="http://localhost:4000/acubed-map/" rel="alternate" type="text/html" title="A-Cubed: Map" /><published>2016-05-23T00:00:00+09:00</published><updated>2016-05-23T00:00:00+09:00</updated><id>http://localhost:4000/acubed-map</id><content type="html" xml:base="http://localhost:4000/acubed-map/">&lt;p&gt;A-Cubed Map 가이드 제공&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">A-Cubed App Configuration 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Application Configuration</title><link href="http://localhost:4000/application-configuration/" rel="alternate" type="text/html" title="A-Cubed: Application Configuration" /><published>2016-07-14T00:00:00+09:00</published><updated>2016-07-14T00:00:00+09:00</updated><id>http://localhost:4000/application-configuration</id><content type="html" xml:base="http://localhost:4000/application-configuration/">&lt;p&gt;A-Cubed Application Configuration 가이드 제공&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-1.jpg&quot; alt=&quot;application configuration&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-2.jpg&quot; alt=&quot;application configuration&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-3.jpg&quot; alt=&quot;application configuration&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-4.jpg&quot; alt=&quot;application configuration&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-5.jpg&quot; alt=&quot;application configuration&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="prototype" /><category term="html" /><category term="css" /><summary type="html">A-Cubed Application Configuration 가이드 제공</summary></entry><entry><title type="html">FD-TA: Widget &amp;amp; Takser</title><link href="http://localhost:4000/fd-ta-widget-tasker/" rel="alternate" type="text/html" title="FD-TA: Widget &amp; Takser" /><published>2016-07-04T00:00:00+09:00</published><updated>2016-07-04T00:00:00+09:00</updated><id>http://localhost:4000/fd-ta-widget-tasker</id><content type="html" xml:base="http://localhost:4000/fd-ta-widget-tasker/">&lt;p&gt;A-Cubed Sidebar의 Application List 가이드 제공&lt;/p&gt;
+
+&lt;h3 id=&quot;fault-detail-widget&quot;&gt;Fault Detail Widget&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;마우스 오버시 Legend Tooltip 으로 표현&lt;/li&gt;
+  &lt;li&gt;상단 바 차트에서 바 클릭시 차트 상단(중앙)의 legend와 Value 표시되고 하단의 가로 바 차트 값 변경.&lt;/li&gt;
+  &lt;li&gt;위젯 최초 로드시에 최근값이 선택되어져 있고 상단 Legend에 표시 된다.&lt;/li&gt;
+  &lt;li&gt;하단 탭 메뉴에서는 Value 표현 안됨&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-1.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fault-detailparameter---application&quot;&gt;Fault Detail(Parameter) - Application&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-2.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fault-detailwafer---application&quot;&gt;Fault Detail(Wafer) - Application&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-3.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;If we turn off one of the legend, for example OOC, OOC trend is turned into gray.
+&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-4.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We can select multiple wafers in this chart.
+&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-5.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fault-detailraw---application&quot;&gt;Fault Detail(Raw) - Application&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-6.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;We can find SPC detail information by selecting the SPC tab menu.&lt;/li&gt;
+  &lt;li&gt;Between SPC Model VS. Alarm Count Pareto chart and SPC Chart Gallery, a drop down box is existed and it contains SPC Chart type. ( RAW Chart, X-Bar, EWMA, etc.. )
+&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-7.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;We can find trace detail information by selecting the Trace tab menu.
+&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-8.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;We can find trace detail information by selecting the FD-TA tab menu.
+&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-9.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard list" /><category term="sidebar" /><summary type="html">A-Cubed Sidebar의 Application List 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Map</title><link href="http://localhost:4000/acubed-map/" rel="alternate" type="text/html" title="A-Cubed: Map" /><published>2016-05-23T00:00:00+09:00</published><updated>2016-05-23T00:00:00+09:00</updated><id>http://localhost:4000/acubed-map</id><content type="html" xml:base="http://localhost:4000/acubed-map/">&lt;p&gt;A-Cubed Map 가이드 제공&lt;/p&gt;
 
 &lt;h3 id=&quot;1-radial-view&quot;&gt;1. Radial View&lt;/h3&gt;
 
@@ -359,337 +829,53 @@
 
 &lt;h3 id=&quot;tree-view&quot;&gt;Tree View&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-6.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="prototype" /><category term="html" /><category term="css" /><summary type="html">A-Cubed Map 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Dashboard &amp;amp; Sidebar</title><link href="http://localhost:4000/acubed-dashboard-sidebar/" rel="alternate" type="text/html" title="A-Cubed: Dashboard &amp; Sidebar" /><published>2015-12-21T00:00:00+09:00</published><updated>2015-12-21T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-sidebar</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-sidebar/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Sidebar 가이드 제공&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-6.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="prototype" /><category term="html" /><category term="css" /><summary type="html">A-Cubed Map 가이드 제공</summary></entry><entry><title type="html">Context Menu</title><link href="http://localhost:4000/context-menu/" rel="alternate" type="text/html" title="Context Menu" /><published>2016-03-11T00:00:00+09:00</published><updated>2016-03-11T00:00:00+09:00</updated><id>http://localhost:4000/context-menu</id><content type="html" xml:base="http://localhost:4000/context-menu/">&lt;h3 id=&quot;chart-fonts--grid&quot;&gt;Chart Fonts &amp;amp; Grid&lt;/h3&gt;
 
-&lt;h3 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h3&gt;
-
-&lt;p&gt;Dashboard의 headbar에서 Dashboard를 추가 또는 삭제 할 수 있다.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.a3-header {
-  height: 40px;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-1.jpg&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-2.jpg&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;sidebar&quot;&gt;Sidebar&lt;/h3&gt;
-
-&lt;p&gt;Dashboard의 head bar에서 Dashboard를 추가 또는 삭제 할 수 있다.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.a3-wrapper .a3-sidebar-wrapper {
-  width: 250px;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-3.jpg&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;center&gt;Dashboard List&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-4.jpg&quot; alt=&quot;widget list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;center&gt;Widget List&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-5.jpg&quot; alt=&quot;acubed net&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;center&gt;A-Cubed Net&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-6.jpg&quot; alt=&quot;acubed map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;center&gt;A-Cubed Map&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20151221/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151221/image-7.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;center&gt;Notification&lt;/center&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="sidebar" /><summary type="html">A-Cubed Dashboard &amp;amp; Sidebar 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Dashboard List</title><link href="http://localhost:4000/acubed-dashboard-list/" rel="alternate" type="text/html" title="A-Cubed: Dashboard List" /><published>2015-09-24T00:00:00+09:00</published><updated>2015-09-24T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-list</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-list/">&lt;p&gt;A-Cubed Sidebar의 Dashboard List 가이드 제공&lt;/p&gt;
-
-&lt;h3 id=&quot;1-default-the-view-of-dashboard-list-sidebar&quot;&gt;1. Default the View of Dashboard List Sidebar.&lt;/h3&gt;
-
-&lt;p&gt;해당 아이콘을 hover하면 title 속성이 제공된다.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;title = Dashboard List
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-1.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;해당 아이콘을 클릭하면 Dashboard List Sidebar가 나타난다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-2.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;2-resize-the-view-of-dashboard-list-sidebar&quot;&gt;2. Resize the View of Dashboard List Sidebar.&lt;/h3&gt;
-
-&lt;p&gt;Dashboard List Sidebar 상단의 버튼(파란부분영역)을 클릭하면 Sidebar 화면 전체 보기가 가능하다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-3.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-4.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-4.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dashboard List Sidebar 상단의 버튼(파란부분영역)을 클릭하면 원래 화면 크기로 돌아온다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-5.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-5.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-6.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;3-move-the-dashboard-card&quot;&gt;3. Move the Dashboard Card.&lt;/h3&gt;
-
-&lt;p&gt;Dashboard List의 Dashboard Card는 드래그하여 다른 위치로 이동 가능하다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-7.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-7.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-8.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-8.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-9.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-9.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;center&gt;Default Size&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-10.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-10.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-11.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-11.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-12.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-12.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;center&gt;Full Size&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;4-move-the-widgets-in-dashboard-card-list-from-side-to-side&quot;&gt;4. Move the Widgets in Dashboard Card list from side to side.&lt;/h3&gt;
-
-&lt;p&gt;Dashboard Card의 Widget List는 4개 이상일 경우 좌우로 이동 가능하다.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Widget List(파란부분영역)에 mouse hover시, 좌우 화살표가 나타나며 Widget 확인이 가능하다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-13.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-13.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-14.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-14.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-15.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-15.png&quot; alt=&quot;dashboard list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;5-managing-shared&quot;&gt;5. Managing Shared.&lt;/h3&gt;
-
-&lt;p&gt;Dashboard Card안에서 공유된 공유자의 인원수 확인이 가능하며 공유자 추가 또는 제거가 가능하다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-16.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-16.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-17.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-17.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-18.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-18.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-19.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-19.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-20.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-20.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-21.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-21.png&quot; alt=&quot;add shared&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;6-go-to-the-dashboard-from-the-dashboard-list-selected&quot;&gt;6. Go to the Dashboard from the Dashboard List selected.&lt;/h3&gt;
-
-&lt;p&gt;Dashboard List에서 Dashboard Card를 클릭하면 선택된 Dashboard 페이지로 이동한다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-22.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-22.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-23.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-23.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;7-remove-the-dashboard-card&quot;&gt;7. Remove the Dashboard Card.&lt;/h3&gt;
-
-&lt;p&gt;Dashboard List의 Dashboard Card는 삭제가 가능하다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-24.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-24.png&quot; alt=&quot;remove dashboard&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-25.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-25.png&quot; alt=&quot;remove dashboard&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;8-managing-trash-dashboard&quot;&gt;8. Managing Trash dashboard.&lt;/h3&gt;
-
-&lt;p&gt;휴지통 아이콘(파란부분영역)을 클릭하면 Delete Dashboard Modal이 오픈된다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-26.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-26.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-27.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-27.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;상단의 ‘Select All’ 버튼을 클릭하면 Delete Dashboard Modal에 있는 모든 Dashboard Card가 선택된다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-28.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-28.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-29.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-29.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;상단의 ‘Unselect All’ 버튼을 클릭하면 Delete Dashboard Modal에 있는 모든 Dashboard Card가 선택 해지된다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-30.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-30.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-31.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-31.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;지우거나 복원시키고자 하는 Dashboard Card를 직접 선택할수 있다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-32.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-32.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-33.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-33.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Delete Dashboard Modal에서 Dashboard Card를 선택하고 ‘Restoration’ 버튼을 클릭하면 해당 Dashboard Card가 복원된다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-34.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-34.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-35.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-35.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;지우고자 하는 Dashboard Card 선택후, ‘Empty’ 버튼을 클릭하면 최종확인 alert이 오픈된다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-36.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-36.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-37.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-37.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;alert를 확인후, 최종 ‘Empty’ 버튼을 클릭하면 toast message가 나타났다 사라지면서 선택된 Dashboard Card가 삭제된다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-38.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-38.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-39.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-39.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;오른쪽 상단, 닫기버튼(파란영역부분)을 클릭하면 Delete Dashboard Modal이 닫힌다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-40.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-40.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-41.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-41.png&quot; alt=&quot;delete dashboard modal&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard list" /><category term="sidebar" /><summary type="html">A-Cubed Sidebar의 Dashboard List 가이드 제공</summary></entry><entry><title type="html">(보류)Markup: A-Cubed Buttons</title><link href="http://localhost:4000/markup-acubed-buttons/" rel="alternate" type="text/html" title="(보류)Markup: A-Cubed Buttons" /><published>2015-06-01T00:00:00+09:00</published><updated>2015-06-01T00:00:00+09:00</updated><id>http://localhost:4000/markup-acubed-buttons</id><content type="html" xml:base="http://localhost:4000/markup-acubed-buttons/">&lt;p&gt;Bootstrap을 이용한 A-Cubed Buttons Design.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
-
-&lt;p&gt;Make any link standout more when applying the &lt;code class=&quot;highlighter-rouge&quot;&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn_success&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Basic Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Selected Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;OK Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Cancel Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Apply Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn_danger&quot;&gt;Delete Button&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Primary Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn_success&quot;&gt;Success Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn_warning&quot;&gt;Warning Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn_danger&quot;&gt;Danger Button&lt;/a&gt;
-&lt;a href=&quot;#&quot; class=&quot;btn btn_info&quot;&gt;Info Button&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Primary Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Success Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn_success}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Warning Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn_warning}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Danger Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn_danger}
-&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Info Button Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;#link&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;{: .btn .btn_info}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;unordered-lists-nested&quot;&gt;Unordered Lists (Nested)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;List item one
+&lt;ol&gt;
+  &lt;li&gt;Information in Context menu.
     &lt;ul&gt;
-      &lt;li&gt;List item one
-        &lt;ul&gt;
-          &lt;li&gt;List item one&lt;/li&gt;
-          &lt;li&gt;List item two&lt;/li&gt;
-          &lt;li&gt;List item three&lt;/li&gt;
-          &lt;li&gt;List item four&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;List item two&lt;/li&gt;
-      &lt;li&gt;List item three&lt;/li&gt;
-      &lt;li&gt;List item four&lt;/li&gt;
+      &lt;li&gt;Application title&lt;/li&gt;
+      &lt;li&gt;Information list&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;List item two&lt;/li&gt;
-  &lt;li&gt;List item three&lt;/li&gt;
-  &lt;li&gt;List item four&lt;/li&gt;
+  &lt;li&gt;Internal Button in Context menu.
+    &lt;ul&gt;
+      &lt;li&gt;Detail view (Modal layer)&lt;/li&gt;
+      &lt;li&gt;Inner Drill Down (Data change)&lt;/li&gt;
+      &lt;li&gt;Unselection (선택 취소)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;External Button in Context menu.
+    &lt;ul&gt;
+      &lt;li&gt;Comment&lt;/li&gt;
+      &lt;li&gt;External Drill Down&lt;/li&gt;
+      &lt;li&gt;Synced Widget&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160311/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160311/image-1.jpg&quot; alt=&quot;icons&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Context menu icon design&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160311/image-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160311/image-2.png&quot; alt=&quot;context menu&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;font name
+&lt;a href=&quot;http://localhost:4000/images/works/20160311/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160311/image-3.png&quot; alt=&quot;context menu&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;html-tags&quot;&gt;HTML Tags&lt;/h2&gt;
+&lt;h3 id=&quot;바차트-오버와-클릭시의-ux정의&quot;&gt;바차트 오버와 클릭시의 UX정의&lt;/h3&gt;
 
-&lt;h3 id=&quot;address-tag&quot;&gt;Address Tag&lt;/h3&gt;
-
-&lt;address&gt;
-  1 Infinite Loop&lt;br /&gt; Cupertino, CA 95014&lt;br /&gt; United States
-&lt;/address&gt;
-
-&lt;h3 id=&quot;anchor-tag-aka-link&quot;&gt;Anchor Tag (aka. Link)&lt;/h3&gt;
-
-&lt;p&gt;This is an example of a &lt;a href=&quot;http://apple.com&quot; title=&quot;Apple&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;abbreviation-tag&quot;&gt;Abbreviation Tag&lt;/h3&gt;
-
-&lt;p&gt;The abbreviation &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;/abbr&gt; stands for “Cascading Style Sheets”.&lt;/p&gt;
-
-&lt;h3 id=&quot;cite-tag&quot;&gt;Cite Tag&lt;/h3&gt;
-
-&lt;p&gt;“Code is poetry.” —&lt;cite&gt;Automattic&lt;/cite&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;code-tag&quot;&gt;Code Tag&lt;/h3&gt;
-
-&lt;p&gt;You will learn later on in these tests that &lt;code class=&quot;highlighter-rouge&quot;&gt;word-wrap: break-word;&lt;/code&gt; will be your best friend.&lt;/p&gt;
-
-&lt;h3 id=&quot;strike-tag&quot;&gt;Strike Tag&lt;/h3&gt;
-
-&lt;p&gt;This tag will let you &lt;strike&gt;strikeout text&lt;/strike&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;emphasize-tag&quot;&gt;Emphasize Tag&lt;/h3&gt;
-
-&lt;p&gt;The emphasize tag should &lt;em&gt;italicize&lt;/em&gt; text.&lt;/p&gt;
-
-&lt;h3 id=&quot;insert-tag&quot;&gt;Insert Tag&lt;/h3&gt;
-
-&lt;p&gt;This tag should denote &lt;ins&gt;inserted&lt;/ins&gt; text.&lt;/p&gt;
-
-&lt;h3 id=&quot;keyboard-tag&quot;&gt;Keyboard Tag&lt;/h3&gt;
-
-&lt;p&gt;This scarcely known tag emulates &lt;kbd&gt;keyboard text&lt;/kbd&gt;, which is usually styled like the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;code&amp;gt;&lt;/code&gt; tag.&lt;/p&gt;
-
-&lt;h3 id=&quot;preformatted-tag&quot;&gt;Preformatted Tag&lt;/h3&gt;
-
-&lt;p&gt;This tag styles large blocks of code.&lt;/p&gt;
-
-&lt;pre&gt;
-.post-title {
-	margin: 0 0 5px;
-	font-weight: bold;
-	font-size: 38px;
-	line-height: 1.2;
-	and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-&lt;/pre&gt;
-
-&lt;h3 id=&quot;quote-tag&quot;&gt;Quote Tag&lt;/h3&gt;
-
-&lt;p&gt;&lt;q&gt;Developers, developers, developers…&lt;/q&gt; –Steve Ballmer&lt;/p&gt;
-
-&lt;h3 id=&quot;strong-tag&quot;&gt;Strong Tag&lt;/h3&gt;
-
-&lt;p&gt;This tag shows &lt;strong&gt;bold text&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;subscript-tag&quot;&gt;Subscript Tag&lt;/h3&gt;
-
-&lt;p&gt;Getting our science styling on with H&lt;sub&gt;2&lt;/sub&gt;O, which should push the “2” down.&lt;/p&gt;
-
-&lt;h3 id=&quot;superscript-tag&quot;&gt;Superscript Tag&lt;/h3&gt;
-
-&lt;p&gt;Still sticking with science and Isaac Newton’s E = MC&lt;sup&gt;2&lt;/sup&gt;, which should lift the 2 up.&lt;/p&gt;
-
-&lt;h3 id=&quot;variable-tag&quot;&gt;Variable Tag&lt;/h3&gt;
-
-&lt;p&gt;This allows you to denote &lt;var&gt;variables&lt;/var&gt;.&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="html" /><category term="css" /><category term="markup" /><category term="button" /><summary type="html">Bootstrap을 이용한 A-Cubed Buttons Design.</summary></entry></feed>
+&lt;ol&gt;
+  &lt;li&gt;바차트 오버시 Toolptip 추가 (Information)&lt;/li&gt;
+  &lt;li&gt;바차트 클릭시 툴팁과 함께 내부버튼과 드릴다운&amp;amp;씽크 버튼 활성화&lt;/li&gt;
+  &lt;li&gt;바차트 클릭시 우측 그리드 갱신&lt;/li&gt;
+  &lt;li&gt;최로 로드시 1번 바차트 자동 선택되어져 있고 다른 바차트 클릭시 우측 그리드에 타이틀 정보 표시 및 갱신
+&lt;a href=&quot;http://localhost:4000/images/works/20160311/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160311/image-4.jpg&quot; alt=&quot;context menu&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry></feed>
