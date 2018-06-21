@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-19T19:44:40+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/prototyping-tool/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/prototyping-tool</id><content type="html" xml:base="http://localhost:4000/prototyping-tool/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-21T19:41:51+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/prototyping-tool/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/prototyping-tool</id><content type="html" xml:base="http://localhost:4000/prototyping-tool/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
  PPT나 포토샵으로는 진행하기 어려운 부분을 프로토타이핑 툴을 통해서 애니메이션과 인터랙션 기능을 쉽게 해결할 수 있습니다.
  시중에 나와있는 수많은 프로토타이핑 툴을 조사, 비교하여 UX팀에 맞는 최적의 툴을 조사해 보았습니다.
  &lt;br /&gt;
@@ -558,7 +558,298 @@
         &lt;td&gt;5c9a8e&lt;/td&gt;
       &lt;/tr&gt;
     &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">A-Cubed: Dashboard &amp;amp; Widget</title><link href="http://localhost:4000/acubed-dashboard-widget/" rel="alternate" type="text/html" title="A-Cubed: Dashboard &amp; Widget" /><published>2016-09-06T00:00:00+09:00</published><updated>2016-09-06T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-widget</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-widget/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Widget 가이드 제공&lt;/p&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">A-Cubed: DFD</title><link href="http://localhost:4000/dfd/" rel="alternate" type="text/html" title="A-Cubed: DFD" /><published>2017-02-14T00:00:00+09:00</published><updated>2017-02-14T00:00:00+09:00</updated><id>http://localhost:4000/dfd</id><content type="html" xml:base="http://localhost:4000/dfd/">&lt;p&gt;A-Cubed App Configuration 가이드 제공&lt;/p&gt;
+
+&lt;h3 id=&quot;1-parameter&quot;&gt;1. Parameter&lt;/h3&gt;
+&lt;p&gt;① 가장 높은 alarm count를 가진 3개의 parameter가 기본으로 보여진다.
+② Parameter text &amp;amp; arrow 클릭시, Parameter Level Fault Detail이 modal로 보여진다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-1.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-parameter-level-fault-detail&quot;&gt;2. Parameter Level Fault Detail&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-2.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-wafers&quot;&gt;3. Wafers&lt;/h3&gt;
+&lt;p&gt;① 선택된 Wafer의 갯수 / Wafer의 총 갯수
+② Wafers는 Tree View 형태로 보여진다.
+③ Details 버튼 클릭시, Wafer Level Fault Detail이 modal로 보여진다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-3.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-wafer-level-fault-detail&quot;&gt;4. Wafer Level Fault Detail&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-4.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-raw&quot;&gt;5. Raw&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-5.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-6.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-7.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-8.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-9.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-10.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-10.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-11.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-11.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-12.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-12.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-13.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-13.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-14.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-14.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-15.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-15.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-16.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-16.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">A-Cubed App Configuration 가이드 제공</summary></entry><entry><title type="html">user profile</title><link href="http://localhost:4000/user-profile/" rel="alternate" type="text/html" title="user profile" /><published>2017-01-25T00:00:00+09:00</published><updated>2017-01-25T00:00:00+09:00</updated><id>http://localhost:4000/user-profile</id><content type="html" xml:base="http://localhost:4000/user-profile/">&lt;p&gt;User Information 내의 Profile 메뉴에서 User Photo를 등록 할수 있다.&lt;/p&gt;
+
+&lt;p&gt;1.오른쪽 상단의 ‘Edit Profile’ 버튼을 클릭한다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-1.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;2.’Edit Profile’ 버튼은 사라지고 ‘Cancel’, ‘Save’ 버튼이 보여지며 편집 모드로 전환된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-2.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;3.Photo 영역에 마우스 오버 하면 Background Color와 카메라 아이콘이 보여진다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-3.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;4.Photo 영역을 클릭하면 ‘Select a User Photo’ 모달 창이 오픈된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-4.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;5.Drag &amp;amp; Drop or 버튼 클릭으로 User Image를 추가 할수 있다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-5.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;6.Drag &amp;amp; Drop or 버튼 클릭시 File Browser가 오픈된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-6.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;7.열기 버튼을 클릭하면 이미지가 업로드 된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-7.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;8.사진 크기를 조절할 수 있는 Crop View가 나타나며 가운데 정사각형을 기준으로 이미지를 조절하여 저장 할수 있다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-8.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;9.수정된 이미지는 Photo 영역에만 반영된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-9.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;10.오른쪽 상단의 ‘Save’ 버튼을 클릭하면 이미지가 최종 반영된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-10.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-10.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="html" /><category term="css" /><category term="markup" /><category term="button" /><summary type="html">User Information 내의 Profile 메뉴에서 User Photo를 등록 할수 있다.</summary></entry><entry><title type="html">A-Cubed: Map,Automation,Collaboration</title><link href="http://localhost:4000/map-automation-collaboration/" rel="alternate" type="text/html" title="A-Cubed: Map,Automation,Collaboration" /><published>2017-01-17T00:00:00+09:00</published><updated>2017-01-17T00:00:00+09:00</updated><id>http://localhost:4000/map-automation-collaboration</id><content type="html" xml:base="http://localhost:4000/map-automation-collaboration/">&lt;p&gt;A-Cubed App Configuration 가이드 제공&lt;/p&gt;
+
+&lt;h3 id=&quot;1-map&quot;&gt;1. Map&lt;/h3&gt;
+&lt;p&gt;① GNB의 A3 map 버튼 클릭시 Map(우측 스캐쥴 포함)이 열린다. 
+    - 우측 스캐쥴 Reports Container는 고정 영역
+② 최초 Map 로드시 우측 사이드바는 보여지지 않는다. 
+③ Map 화면의 우측 색상 가이드는 색상 적용시 참조만 하며 실제 화면에 배치되지 않는다.
+④ 워크스페이스 Node 클릭시 메뉴가 열리며,  이동, 쉐어, 휴지통 버튼이 존재한다.
+⑤ 해당 Tasker 는 쉐어받은 사람도 삭제 가능 하지만, Workspace는 Owner 에게만 삭제 권한이 있다.
+⑥ Workspace 삭제 권한은 owner 에게만 있다. 
+⑦ Takser 는 쉐어 받은 사람도 삭제가 가능하다.
+⑧ Shared user list 버튼 클릭시 좌측에서 Shared된 User List 메뉴 ⑬가 슬라이딩 되며 열린다.
+⑨ 선택한 개수만큼의 workspce node가 ③ map 영역에 보여진다.
+⑪ Share 받은  Dashboard와 Workspace 는 Logo옆에 쉐어 아이콘이 등록되며 보여진다.
+⑮ 버튼을 클릭하면 Workspace 매니징 화면이 슬라이딩 된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-1.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;⑫  위 이미지 ⑧번을 선택시 슬라이딩 되며 share 사이드바가 열린다.
+⑬ Invitator는 나를 초대 한 dashboard &amp;amp; workspace list이다.
+⑭ Receiver는 나의 dashboard &amp;amp; workspace 를 다른 user에게 공유한 list이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-2.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-schedule&quot;&gt;2. Schedule&lt;/h3&gt;
+&lt;p&gt;① Workspace, Takser icon 클릭시 Tooltip 메뉴가 열린다.
+② Workspace Node는 쉐어
+③ Takser Tooltip 메뉴안에는 이동, 공유, 휴지통 기능 버튼이 존재한다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;이동 : 해당 Tasker로 이동&lt;/li&gt;
+  &lt;li&gt;스캐쥴 : 스캐쥴 기능&lt;/li&gt;
+  &lt;li&gt;휴지통 : 해당 Workspace 및 Tasker 하위 Node 삭제&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;④ ③번의 툴팁 스캐쥴 버튼 클릭시 ④번의 우측 사이드바가 열린다.  최초에 스캐쥴 카드는 생성되어 있지 않고 비어 있다. 
+⑤  스캐쥴 Add 버튼 클릭시 세부 스캐쥴을 입력 할수 있다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;스캐쥴 사이드바 최초 오픈시 Schedule 카드는 보여지지 않는다. (0 Schedyled Reports와 추가 버튼만 존재)&lt;/li&gt;
+  &lt;li&gt;Schedule 카드가 하나라도 열려 있고 Save 되지 않으면 + (추가) 버튼은 비활성화&lt;/li&gt;
+  &lt;li&gt;Schedule 카드 input 요소 모두 입력 후, Save 버튼 클릭시 카드 닫히고 ② Play는 되지 않는다.&lt;/li&gt;
+  &lt;li&gt;Schedule Play는 자동 Play 되지 않고 클릭해야함.다시 누르면 비활성화.&lt;/li&gt;
+  &lt;li&gt;Name 필드는 필수로 입력되어야 하며, 미등록시 Validation Notice가 상단 global header 중앙 영역에 뜬다.&lt;/li&gt;
+  &lt;li&gt;카드 정렬 및 추가는 최신순으로 등록되며 정렬된다.
+⑥ 등록된 스캐쥴의 Play 아이콘 버튼을 누르면  Play되고 다시 누르면 Stop 된다.
+⑦  Repeat &amp;gt; Day 선택시  every, 요일은 Disabled 되고 시간만 활성화 된다.
+⑧ Repeat &amp;gt; Week 선택시 요일과 시간이 선택 가능하다.
+⑨ Day, Week 단위로 설정 가능하다. (월,화,수,목,금,토,일 중 내가 원하는 요일과 시간을 설정할 수 있다.)
+⑩ Save 버튼을 클릭하면 저장되고 Cancel 버튼을 클릭하면 취소되며 카드로 등록되지 않는다.
+⑪ 등록된 스캐쥴은 해당 시간단위로 Reporting 되고 카드 Header 좌측에 카운트 된다.&lt;/li&gt;
+  &lt;li&gt;설정 버튼 클릭시 해당 Report 카드가 Open 된다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-3.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-schedule-remove&quot;&gt;3. Schedule Remove&lt;/h3&gt;
+&lt;p&gt;① 등록된 카드의 X버튼을 클릭하면 삭제가 가능하다.
+② 취소 버튼을 누르면 삭제 되지 않고 삭제 버튼을 누르면 최종 삭제 된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-4.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-scheduled-report-modal&quot;&gt;4. Scheduled Report Modal&lt;/h3&gt;
+&lt;p&gt;① Report list 3개이상이면 more 버튼이 보이고 클릭시 ②번 Modal이 뜬다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-5.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-add-shared&quot;&gt;5. Add Shared&lt;/h3&gt;
+&lt;p&gt;① Dashboard List 에서 Share아이콘 버튼 클릭시 Map 과 동일하게
+② Add Shared 모달이 뜨고 같은 기능을 수행한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-6.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;6-shared-ui&quot;&gt;6. Shared UI&lt;/h3&gt;
+&lt;p&gt;① Share 버튼 클릭시 User card (or Group card)가 등록된다.
+② Input Box에 text입력시 자동완성 기능
+③ User card (or Group card)의 X버튼을 누르면 해당 카드내에서 삭제가 가능하다.
+④ Share Modal  닫기 버튼 or Modal 외 영역 클릭시 map 화면으로 돌아간다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-7.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;⑤ user와 group 모두 검색이 가능하며 빈 검색필드 상태에서 우측의 화살표를 누르면 전체 user &amp;amp; group list가 drop down 메뉴로 보여진다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;share 버튼을 누르면 shared list에 등록된다.&lt;/li&gt;
+  &lt;li&gt;검색 기능: user - text or @user name, group - #group name&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-8.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-9.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;⑥ 탭 버튼을 통해 all, user, group 로 구분해서 shared된 group / user 를 볼수 있다.
+⑦ Shared Group / User는 각각 group / user 아이콘이 보여진다.
+⑧ Group card내 최대 5개의 user icon을 볼수 있으며 5개 이상이 되면 ‘…’ 표시가 보여진다.
+⑨ User card를 클릭하면 user에 속한 사용자 관련 정보 layer가 슬라이딩 되면서 보여진다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-10.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-10.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-11.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-11.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+⑩ Group card를 클릭하면 group에 속한 user lists layer가 슬라이딩 되면서 보여진다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-12.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-12.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+⑪ Layer back 버튼을 누르면 group user list layer는 슬라이드 되어 닫히고 Add share modal이 보여진다.
+&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-13.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-13.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;⑫ 맵의 Node의 개수를 슬라이더로 조절해서 볼 수 있다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;최초 Min 값으로 30부터 보여준다.&lt;/li&gt;
+  &lt;li&gt;최대 Max 100개 까지 설정 할 수 있다.&lt;/li&gt;
+  &lt;li&gt;슬라이더의 전체 길이에서 1/7 (30,40,50,60,70,80,90,100) 단위로 슬라이더 포인트가 움직인다.&lt;/li&gt;
+  &lt;li&gt;슬라이더의 한 구간은 10개이다.&lt;/li&gt;
+  &lt;li&gt;Node 개수는 포인터에 마우스 오버시 툴팁으로 보여진다.&lt;/li&gt;
+  &lt;li&gt;최소 개수와 최대 개수는 Slider 시작점과 끝점에 Text로 표현한다.&lt;/li&gt;
+  &lt;li&gt;슬라이더 재 설정시에 Spinner가 보여진다.&lt;/li&gt;
+  &lt;li&gt;마우스 이벤트는 슬라이더 Circle 버튼에만 부여된다. (슬라이딩 영역 제외)&lt;/li&gt;
+  &lt;li&gt;Node 개수 반영은 마우스가 release시에 보여진다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-14.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-14.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">A-Cubed App Configuration 가이드 제공</summary></entry><entry><title type="html">user &amp;amp; group</title><link href="http://localhost:4000/user-group/" rel="alternate" type="text/html" title="user &amp; group" /><published>2016-12-13T00:00:00+09:00</published><updated>2016-12-13T00:00:00+09:00</updated><id>http://localhost:4000/user-group</id><content type="html" xml:base="http://localhost:4000/user-group/">&lt;ol&gt;
+  &lt;li&gt;Validation
+validation check는 필수로 입력해야 하는 항목(*)만 포함되며, 위에서부터 순차적으로 적용된다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;1) Input Box&lt;/p&gt;
+
+&lt;p&gt;a) &amp;lt;div class=&quot;form-group a3-input-group has-error&quot;&amp;gt;
+b) Input Box의 validation 체크는 a3-input-group 클래스 뒤에 has-error를 추가한다.
+c) validation check는 필수로 입력해야 하는 항목(*)에만 표현된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20161213/image-1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161213/image-1.png&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;2) Table&lt;/p&gt;
+
+&lt;p&gt;a) &amp;lt;div class=&quot;col-sm-5 a3-lists has-error&quot;&amp;gt;
+b) Table의 validation 체크는 a3-lists 클래스 뒤에 has-error를 추가한다.
+c) 좌측 테이블에 Role ID는 최소 한개 이상 있어야 하며, 없는 상태에서 Apply 버튼을 클릭하면 validation이 노출된다.
+d) 우측 테이블에서 Role ID 선택 후, 좌측으로 보내기 버튼을 클릭하면 validation은 사라지고 Role ID가 좌측으로 이동된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20161213/image-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161213/image-2.png&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;a) &amp;lt;div class=&quot;a3-permission-table has-error&quot;&amp;gt;
+b) Permission Table의 validation 체크는 a3-permission-table 클래스 뒤에 has-error를 추가한다.
+c) 최소 한개 이상 체크가 되어 있어야 하며, 체크 되어 있지 않은 상태에서 Apply 버튼을 클릭하면 validation이 노출된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20161213/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161213/image-3.png&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="html" /><category term="css" /><category term="markup" /><category term="button" /><summary type="html">Validation validation check는 필수로 입력해야 하는 항목(*)만 포함되며, 위에서부터 순차적으로 적용된다.</summary></entry><entry><title type="html">tooltip ui</title><link href="http://localhost:4000/tooltip-ui/" rel="alternate" type="text/html" title="tooltip ui" /><published>2016-12-05T00:00:00+09:00</published><updated>2016-12-05T00:00:00+09:00</updated><id>http://localhost:4000/tooltip-ui</id><content type="html" xml:base="http://localhost:4000/tooltip-ui/">&lt;p&gt;Tooltip은 A3 모든 영역에 Common 하게 사용된다.&lt;/p&gt;
+
+&lt;div class=&quot;qtip&quot;&gt;
+
+    &lt;div class=&quot;qtip-content&quot;&gt;
+        &lt;div class=&quot;a3-tooltip&quot;&gt;
+            &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa a3-icon-tooltip-go&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+            &lt;span class=&quot;line&quot;&gt;&lt;/span&gt;
+            &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa a3-icon-tooltip-trash&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+            &lt;span class=&quot;line&quot;&gt;&lt;/span&gt;
+            &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa a3-icon-tooltip-share&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161205/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151125/image-1.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;툴팁 최대 높이 : 300px
+툴팁 내 content 영역 최대 높이 : 130px&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161205/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20151125/image-2.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="html" /><category term="css" /><category term="markup" /><category term="button" /><summary type="html">Tooltip은 A3 모든 영역에 Common 하게 사용된다.</summary></entry><entry><title type="html">A-Cubed: Dashboard &amp;amp; Widget</title><link href="http://localhost:4000/acubed-dashboard-widget/" rel="alternate" type="text/html" title="A-Cubed: Dashboard &amp; Widget" /><published>2016-09-06T00:00:00+09:00</published><updated>2016-09-06T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-widget</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-widget/">&lt;p&gt;A-Cubed Dashboard &amp;amp; Widget 가이드 제공&lt;/p&gt;
 
 &lt;h3 id=&quot;1-add-widget&quot;&gt;1. Add Widget&lt;/h3&gt;
 
@@ -665,217 +956,32 @@
 &lt;br /&gt;
 &lt;a href=&quot;http://localhost:4000/images/works/20160714/image-26.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-26.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-27.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-27.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="widget" /><summary type="html">A-Cubed Dashboard &amp;amp; Widget 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Platform Prototype</title><link href="http://localhost:4000/acubed-platform-prototype/" rel="alternate" type="text/html" title="A-Cubed: Platform Prototype" /><published>2016-07-29T00:00:00+09:00</published><updated>2016-07-29T00:00:00+09:00</updated><id>http://localhost:4000/acubed-platform-prototype</id><content type="html" xml:base="http://localhost:4000/acubed-platform-prototype/">&lt;p&gt;A-Cubed Platform Prototype&lt;/p&gt;
-
-&lt;h3 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-1.jpg&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;dashboard-with-widget-list&quot;&gt;Dashboard with Widget List&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-2.jpg&quot; alt=&quot;widget list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;communcation--drill-down-layer-in-widget-container&quot;&gt;Communcation &amp;amp; Drill down layer in widget container&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-3.jpg&quot; alt=&quot;drill down&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;dashboard-list&quot;&gt;Dashboard List&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-4.jpg&quot; alt=&quot;dashabord list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;delete-dashboard&quot;&gt;Delete Dashboard&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-5.jpg&quot; alt=&quot;delete dashabord&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;cubenet&quot;&gt;CubeNet&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-6.jpg&quot; alt=&quot;cubenet&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;map&quot;&gt;Map&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-7.jpg&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;notification&quot;&gt;Notification&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-8.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;application-list&quot;&gt;Application List&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-9.jpg&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;drilldown-to-app&quot;&gt;DrillDown to App&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160729/image-10.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160729/image-10.jpg&quot; alt=&quot;application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="platform" /><category term="prototype" /><category term="html" /><category term="css" /><summary type="html">A-Cubed Platform Prototype</summary></entry><entry><title type="html">A-Cubed: App Configuration</title><link href="http://localhost:4000/app-configuration/" rel="alternate" type="text/html" title="A-Cubed: App Configuration" /><published>2016-07-18T00:00:00+09:00</published><updated>2016-07-18T00:00:00+09:00</updated><id>http://localhost:4000/app-configuration</id><content type="html" xml:base="http://localhost:4000/app-configuration/">&lt;p&gt;A-Cubed App Configuration 가이드 제공&lt;/p&gt;
-
-&lt;h3 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h3&gt;
-
-&lt;p&gt;최초 Configuration 오픈시 좌측 메뉴는 오픈되어있다.
-닫기 버튼 클릭시 메뉴는 좌측으로 이동되면서 닫힌다.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;버튼 &amp;lt;a class=&quot;btn btn-default a3-menu-close&quot; title=&quot;Close menu&quot;&amp;gt;&amp;lt;/a&amp;gt;
-레이어 &amp;lt;div class=&quot;a3-workspace-container menu-close&quot;&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160718/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160718/image-1.jpg&quot; alt=&quot;app configuration&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;열기 버튼 클릭시 메뉴는 좌측으로 이동되면서 닫힌다.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;버튼 &amp;lt;a class=&quot;btn btn-default a3-menu-open&quot; title=&quot;Open menu&quot;&amp;gt;&amp;lt;/a&amp;gt;
-레이어 &amp;lt;div class=&quot;a3-workspace-container menu-open&quot;&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160718/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160718/image-2.jpg&quot; alt=&quot;app configuration&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">A-Cubed App Configuration 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Application Configuration</title><link href="http://localhost:4000/application-configuration/" rel="alternate" type="text/html" title="A-Cubed: Application Configuration" /><published>2016-07-14T00:00:00+09:00</published><updated>2016-07-14T00:00:00+09:00</updated><id>http://localhost:4000/application-configuration</id><content type="html" xml:base="http://localhost:4000/application-configuration/">&lt;p&gt;A-Cubed Application Configuration 가이드 제공&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-1.jpg&quot; alt=&quot;application configuration&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-2.jpg&quot; alt=&quot;application configuration&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-3.jpg&quot; alt=&quot;application configuration&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-4.jpg&quot; alt=&quot;application configuration&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-5.jpg&quot; alt=&quot;application configuration&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="prototype" /><category term="html" /><category term="css" /><summary type="html">A-Cubed Application Configuration 가이드 제공</summary></entry><entry><title type="html">FD-TA: Widget &amp;amp; Takser</title><link href="http://localhost:4000/fd-ta-widget-tasker/" rel="alternate" type="text/html" title="FD-TA: Widget &amp; Takser" /><published>2016-07-04T00:00:00+09:00</published><updated>2016-07-04T00:00:00+09:00</updated><id>http://localhost:4000/fd-ta-widget-tasker</id><content type="html" xml:base="http://localhost:4000/fd-ta-widget-tasker/">&lt;p&gt;A-Cubed Sidebar의 Application List 가이드 제공&lt;/p&gt;
-
-&lt;h3 id=&quot;fault-detail-widget&quot;&gt;Fault Detail Widget&lt;/h3&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-27.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-27.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="widget" /><summary type="html">A-Cubed Dashboard &amp;amp; Widget 가이드 제공</summary></entry><entry><title type="html">Prototype URL</title><link href="http://localhost:4000/prototype-url/" rel="alternate" type="text/html" title="Prototype URL" /><published>2016-09-01T00:00:00+09:00</published><updated>2016-09-01T00:00:00+09:00</updated><id>http://localhost:4000/prototype-url</id><content type="html" xml:base="http://localhost:4000/prototype-url/">&lt;p&gt;Bootstrap을 이용한 A-Cubed Buttons Design.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;마우스 오버시 Legend Tooltip 으로 표현&lt;/li&gt;
-  &lt;li&gt;상단 바 차트에서 바 클릭시 차트 상단(중앙)의 legend와 Value 표시되고 하단의 가로 바 차트 값 변경.&lt;/li&gt;
-  &lt;li&gt;위젯 최초 로드시에 최근값이 선택되어져 있고 상단 Legend에 표시 된다.&lt;/li&gt;
-  &lt;li&gt;하단 탭 메뉴에서는 Value 표현 안됨&lt;/li&gt;
+  &lt;li&gt;Prototype Design은 Axure로 만들어지며 기본적인 인터랙션을 포함 한다.&lt;/li&gt;
+  &lt;li&gt;각 URL의 password는 기본적으로 111111 이다.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-1.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;mi-new&quot;&gt;MI (New)&lt;/h3&gt;
+&lt;p&gt;DFD&lt;/p&gt;
 
-&lt;h3 id=&quot;fault-detailparameter---application&quot;&gt;Fault Detail(Parameter) - Application&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://wyk9qu.axshare.com&quot;&gt;mi&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-2.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;a3-current&quot;&gt;A3 (current)&lt;/h3&gt;
 
-&lt;h3 id=&quot;fault-detailwafer---application&quot;&gt;Fault Detail(Wafer) - Application&lt;/h3&gt;
+&lt;p&gt;WQP
+&lt;a href=&quot;p1vj9k.axshare.com/&quot;&gt;wqp&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-3.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;TQP
+&lt;a href=&quot;2mm24t.axshare.com/&quot;&gt;tqp&lt;/a&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;If we turn off one of the legend, for example OOC, OOC trend is turned into gray.
-&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-4.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;We can select multiple wafers in this chart.
-&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-5.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Tooltip 고정
+&lt;a href=&quot;l0e5kl.axshare.com/&quot;&gt;tooltip&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;fault-detailraw---application&quot;&gt;Fault Detail(Raw) - Application&lt;/h3&gt;
+&lt;p&gt;User/Group management
+&lt;a href=&quot;cioirf.axshare.com/&quot;&gt;management&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-6.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;We can find SPC detail information by selecting the SPC tab menu.&lt;/li&gt;
-  &lt;li&gt;Between SPC Model VS. Alarm Count Pareto chart and SPC Chart Gallery, a drop down box is existed and it contains SPC Chart type. ( RAW Chart, X-Bar, EWMA, etc.. )
-&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-7.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;We can find trace detail information by selecting the Trace tab menu.
-&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-8.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;We can find trace detail information by selecting the FD-TA tab menu.
-&lt;a href=&quot;http://localhost:4000/images/works/20160704/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160704/image-9.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard list" /><category term="sidebar" /><summary type="html">A-Cubed Sidebar의 Application List 가이드 제공</summary></entry><entry><title type="html">A-Cubed: Map</title><link href="http://localhost:4000/acubed-map/" rel="alternate" type="text/html" title="A-Cubed: Map" /><published>2016-05-23T00:00:00+09:00</published><updated>2016-05-23T00:00:00+09:00</updated><id>http://localhost:4000/acubed-map</id><content type="html" xml:base="http://localhost:4000/acubed-map/">&lt;p&gt;A-Cubed Map 가이드 제공&lt;/p&gt;
-
-&lt;h3 id=&quot;1-radial-view&quot;&gt;1. Radial View&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-1.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-2.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-3.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-4.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-4.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-5.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-5.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;tree-view&quot;&gt;Tree View&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160523/image-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160523/image-6.png&quot; alt=&quot;map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="prototype" /><category term="html" /><category term="css" /><summary type="html">A-Cubed Map 가이드 제공</summary></entry><entry><title type="html">Context Menu</title><link href="http://localhost:4000/context-menu/" rel="alternate" type="text/html" title="Context Menu" /><published>2016-03-11T00:00:00+09:00</published><updated>2016-03-11T00:00:00+09:00</updated><id>http://localhost:4000/context-menu</id><content type="html" xml:base="http://localhost:4000/context-menu/">&lt;h3 id=&quot;chart-fonts--grid&quot;&gt;Chart Fonts &amp;amp; Grid&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Information in Context menu.
-    &lt;ul&gt;
-      &lt;li&gt;Application title&lt;/li&gt;
-      &lt;li&gt;Information list&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Internal Button in Context menu.
-    &lt;ul&gt;
-      &lt;li&gt;Detail view (Modal layer)&lt;/li&gt;
-      &lt;li&gt;Inner Drill Down (Data change)&lt;/li&gt;
-      &lt;li&gt;Unselection (선택 취소)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;External Button in Context menu.
-    &lt;ul&gt;
-      &lt;li&gt;Comment&lt;/li&gt;
-      &lt;li&gt;External Drill Down&lt;/li&gt;
-      &lt;li&gt;Synced Widget&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160311/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160311/image-1.jpg&quot; alt=&quot;icons&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Context menu icon design&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160311/image-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160311/image-2.png&quot; alt=&quot;context menu&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;font name
-&lt;a href=&quot;http://localhost:4000/images/works/20160311/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160311/image-3.png&quot; alt=&quot;context menu&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;바차트-오버와-클릭시의-ux정의&quot;&gt;바차트 오버와 클릭시의 UX정의&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;바차트 오버시 Toolptip 추가 (Information)&lt;/li&gt;
-  &lt;li&gt;바차트 클릭시 툴팁과 함께 내부버튼과 드릴다운&amp;amp;씽크 버튼 활성화&lt;/li&gt;
-  &lt;li&gt;바차트 클릭시 우측 그리드 갱신&lt;/li&gt;
-  &lt;li&gt;최로 로드시 1번 바차트 자동 선택되어져 있고 다른 바차트 클릭시 우측 그리드에 타이틀 정보 표시 및 갱신
-&lt;a href=&quot;http://localhost:4000/images/works/20160311/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160311/image-4.jpg&quot; alt=&quot;context menu&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry></feed>
+&lt;h3 id=&quot;fw&quot;&gt;FW&lt;/h3&gt;
+&lt;p&gt;FW
+&lt;a href=&quot;http://5xuizx.axshare.com/&quot;&gt;fw&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="html" /><category term="css" /><category term="markup" /><category term="button" /><summary type="html">Bootstrap을 이용한 A-Cubed Buttons Design.</summary></entry></feed>
