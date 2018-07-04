@@ -27,7 +27,7 @@ tags:
 
 **CSS:**
 
-```html
+```css
 .a3-wrapper .a3-sidebar-wrapper.a3-sidebar-small {
   right: 0;
   transition: all 0.1s ease-in-out;
@@ -50,7 +50,7 @@ Dashboard List Sidebar 상단의 버튼을 클릭하면 Sidebar 전체 보기가
 
 **CSS:**
 
-```html
+```css
 .a3-wrapper .a3-sidebar-wrapper.a3-sidebar-full {
   right: 0;
   width: 100%;
