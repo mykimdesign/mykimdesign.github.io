@@ -56,15 +56,15 @@ A-Cubed Widget에서 Application으로 이동할 때 Context Menu를 통해서 d
 1. Widget Context Menu
   * Application Title
   * Information Lists
-  * Icons
+  * Icons : Leave Comments, Further Analysis, Sync with other widgets
   
 2. Application Context Menu
   * Data Title
   * Information Lists
-  * Icons
+  * Icons : Leave Comments, Further Analysis
   
 3. Map Context Menu
-  * Icons
+  * Icons : Move, Scheduling, Delete
 
 {% capture images %}
 	{{ site.url }}/images/works/20160311/image-2.jpg
