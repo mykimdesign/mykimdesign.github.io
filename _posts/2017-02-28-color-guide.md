@@ -1,17 +1,16 @@
 ---
 layout: post
-title:  "Color Guide"
-date:   2018-05-03
-excerpt: "업무 협업을 위한 프로토타이핑 툴 조사"
+title:  "Guide: A-Cubed Color"
+date:   2017-02-28
+excerpt: "UX팀에서 제공하는 A-Cubed Color Guide"
 tags:
-- prototyping tool
-- animation
-- interaction
-- axure
-- justinmind
-- uxpin
+- A-Cubed
+- color
+- guide
+- UX
 ---
 
+<a href="{{ site.url }}/images/works/20170228/image-1.jpg"><img src="{{ site.url }}/images/works/20170228/image-1.jpg" alt="color guide"></a>
       
 ### Chart Fonts & Grid
 
@@ -32,13 +31,16 @@ tags:
 ### Chart Colors
 
 1. Status chart color
-  * 차트가 Status를 가질때
+  * Chart가 Status를 가질때
+  
 2. Basic chart color
-  * Basic 하게 사용하는 색상 (UX팀에서 사용하는 칼라)
+  * Basic 하게 사용하는 색상 (UX팀에서 사용하는 Color)
+  
 3. Separation chart color
-  * 차트에서 구분을 위하여 순차적으로 뿌려주는 색상 ( Gantt, Trend Chart)
+  * Chart에서 구분을 위하여 순차적으로 뿌려주는 색상 (Gantt, Trend Chart)
+  
 4. Basic bar chart color
-  * 기본 바차트 (바차트가 추가 될 경우 순차적으로 사용)
+  * 기본 Bar Chart (Bar Chart가 추가 될 경우 순차적으로 사용)
 <br>
 <br>
 
@@ -72,8 +74,7 @@ tags:
       </tr>
     </tbody>
 </table>
-<br>
-<br>
+
 
 ### Basic colors #Code
 
@@ -253,11 +254,11 @@ tags:
     </tbody>
 </table>
 </div>
-<br>
-<br>
+
 
 ### Separation colors #Code
 
+<div style="width:100%; overflow:auto;">
 <table>
     <thead>
       <tr>
@@ -269,6 +270,20 @@ tags:
         <th>4</th>
         <th>5</th>
         <th>6</th>
+        <th>7</th>
+        <th>8</th> 
+        <th>9</th>
+        <th>10</th>
+        <th>11</th>
+        <th>12</th>
+        <th>13</th>
+        <th>14</th>
+        <th>15</th>
+        <th>16</th> 
+        <th>17</th>
+        <th>18</th>
+        <th>19</th>
+        <th>20</th>
       </tr>
     </thead>
     <tbody>
@@ -281,24 +296,6 @@ tags:
         <td>5c6992</td>
         <td>358ab1</td>
         <td>b29b5e</td>
-      </tr>
-    </tbody>
-</table>
-<table>
-    <thead>
-      <tr>
-        <th>7</th>
-        <th>8</th> 
-        <th>9</th>
-        <th>10</th>
-        <th>11</th>
-        <th>12</th>
-        <th>13</th>
-        <th>14</th>
-      </tr>
-    </thead>
-    <tbody>
-     <tr>
         <td>8b9c7e</td>
         <td>8f9cdc</td> 
         <td>6c5d9d</td>
@@ -307,22 +304,6 @@ tags:
         <td>c7c598</td>
         <td>a5a064</td>
         <td>9e6c94</td>
-      </tr>
-    </tbody>
-</table>
-<table>
-    <thead>
-      <tr>
-        <th>15</th>
-        <th>16</th> 
-        <th>17</th>
-        <th>18</th>
-        <th>19</th>
-        <th>20</th>
-      </tr>
-    </thead>
-    <tbody>
-     <tr>
         <td>4f6aa0</td>
         <td>4ea9c4</td>
         <td>5c9252</td>
@@ -332,8 +313,8 @@ tags:
       </tr>
     </tbody>
 </table>
-<br>
-<br>
+</div>
+
 
 ### Basic bar chart colors #Code
 

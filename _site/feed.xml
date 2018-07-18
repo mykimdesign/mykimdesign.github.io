@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-18T16:55:22+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/prototyping-tool/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/prototyping-tool</id><content type="html" xml:base="http://localhost:4000/prototyping-tool/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-18T17:28:15+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">Prototyping Tool</title><link href="http://localhost:4000/prototyping-tool/" rel="alternate" type="text/html" title="Prototyping Tool" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/prototyping-tool</id><content type="html" xml:base="http://localhost:4000/prototyping-tool/">&lt;p&gt;프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
  PPT나 포토샵으로는 진행하기 어려운 부분을 프로토타이핑 툴을 통해서 애니메이션과 인터랙션 기능을 쉽게 해결할 수 있습니다.
  시중에 나와있는 수많은 프로토타이핑 툴을 조사, 비교하여 UX팀에 맞는 최적의 툴을 조사해 보았습니다.
  &lt;br /&gt;
@@ -197,7 +197,173 @@
 인터랙션 기능&lt;br /&gt;
 &lt;img src=&quot;http://localhost:4000/images/study/20180503/image-6.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;br /&gt;
 사용성(인지도)&lt;br /&gt;
-&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-7.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">Color Guide</title><link href="http://localhost:4000/color-guide/" rel="alternate" type="text/html" title="Color Guide" /><published>2018-05-03T00:00:00+09:00</published><updated>2018-05-03T00:00:00+09:00</updated><id>http://localhost:4000/color-guide</id><content type="html" xml:base="http://localhost:4000/color-guide/">&lt;h3 id=&quot;chart-fonts--grid&quot;&gt;Chart Fonts &amp;amp; Grid&lt;/h3&gt;
+&lt;img src=&quot;http://localhost:4000/images/study/20180503/image-7.jpg&quot; alt=&quot;Axure&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">PeakPerformance: Global Control</title><link href="http://localhost:4000/peakperformance-global-control/" rel="alternate" type="text/html" title="PeakPerformance: Global Control" /><published>2017-04-18T00:00:00+09:00</published><updated>2017-04-18T00:00:00+09:00</updated><id>http://localhost:4000/peakperformance-global-control</id><content type="html" xml:base="http://localhost:4000/peakperformance-global-control/">&lt;p&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;1-select-task&quot;&gt;1. Select Task&lt;/h3&gt;
+
+&lt;p&gt;a. 종류&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Start, Stop, Force Stop(Kill), Restart (Stop &amp;amp; Start), Restart (Force Stop &amp;amp; Start)
+b. Radio button checked (Bootstrap 기능)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;input type=&quot;radio&quot; name=&quot;inlineRadioOptions&quot; id=&quot;inlineRadio1&quot; class=&quot;a3-status-start&quot; value=&quot;option1&quot; checked=&quot;&quot; /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-1.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-select-members&quot;&gt;2. Select Members&lt;/h3&gt;
+&lt;p&gt;a. 종류&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Container, Distributor
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-2.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;3-button&quot;&gt;3. Button&lt;/h3&gt;
+&lt;p&gt;a. button hidden&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-default fw-btn-start hidden&quot;&gt;&lt;i class=&quot;fa fa-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/button&gt;
+  &lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-3.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;4-table&quot;&gt;4. Table&lt;/h3&gt;
+&lt;p&gt;a. Scroll&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;테이블은 x,y 스크롤이 가능함.&lt;/li&gt;
+  &lt;li&gt;스크롤에 따라 Header title(Server)과 Left title(FW)이 유동적으로 움직여야 함.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-4.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-4.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;5-member&quot;&gt;5. Member&lt;/h3&gt;
+&lt;p&gt;a. 종류&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;왼쪽부터 healthy(녹색), Stopped(회색), fatal(빨간색), initializing(올리브색), warning(노란색), abnormal(주황색)
+b. 상태&lt;/li&gt;
+  &lt;li&gt;basic일 때
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span class=&quot;label label-healthy&quot;&gt;Photo1&lt;/span&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-5.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-5.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;selected일 때
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span class=&quot;label label-healthy selected&quot;&gt;Photo1&lt;/span&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-6.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;disabled일 때
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span class=&quot;label label-healthy disabled&quot;&gt;Photo1&lt;/span&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-7.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-7.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard list" /><category term="sidebar" /><summary type="html">…</summary></entry><entry><title type="html">PeakPerformance: App Deploy</title><link href="http://localhost:4000/peakperformance-app-deploy/" rel="alternate" type="text/html" title="PeakPerformance: App Deploy" /><published>2017-03-30T00:00:00+09:00</published><updated>2017-03-30T00:00:00+09:00</updated><id>http://localhost:4000/peakperformance-app-deploy</id><content type="html" xml:base="http://localhost:4000/peakperformance-app-deploy/">&lt;p&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;1사용자는-새로운-버전을-추가할-수-있다&quot;&gt;1.사용자는 새로운 버전을 추가할 수 있다.&lt;/h3&gt;
+
+&lt;p&gt;① 상단의 Add Version 버튼을 클릭하여 새로운 버전을 추가할 수 있다.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-1.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-2.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2사용자는-버전에-대한-자세한-정보를-볼-수-있다&quot;&gt;2.사용자는 버전에 대한 자세한 정보를 볼 수 있다.&lt;/h3&gt;
+
+&lt;p&gt;① 등록된 버전을 마우스오버하면 Detail View와 Delete 아이콘이 보여진다.
+&lt;br /&gt;
+② Detail View 아이콘을 클릭하면 Detail Veiw Modal 창이 나타나며 더 자세한 정보를 볼 수 있다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-3.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-4.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-사용자는-버전을-전체-적용하기-전에-일부-framework에-대하여-버전을-선택해-변경해-볼수-있다&quot;&gt;3. 사용자는 버전을 전체 적용하기 전에 일부 Framework에 대하여 버전을 선택해 변경해 볼수 있다.&lt;/h3&gt;
+
+&lt;p&gt;① Set Head Version 실행 전 (상단에 버전이 최초로 등록될 경우)&lt;/p&gt;
+
+&lt;p&gt;상단에서 버전이 최초로 등록될 때, 하단의 테이블에서 Version을 선택할 수 있다.
+Set Head Version 실행 전이므로 Activate 버튼은 비활성화 된다.
+Members는 회색으로 표현된다.
+② Set Head Version 실행 전 (상단에 버전이 등록되어 있을 경우)&lt;/p&gt;
+
+&lt;p&gt;상단에 버전이 등록되어 있을 경우, 하단의 테이블에서 Version을 선택할 수 있다.
+Set Head Version 실행 전이므로 Activate 버튼은 비활성화된다.
+Members는 회색으로 표현된다.
+③ Set Head Version 실행 후&lt;/p&gt;
+
+&lt;p&gt;버전 변경 시, Version text는 녹색 계열로 표현된다.
+Set Head Version 실행 완료 되면 Activate 버튼은 활성화된다.
+Members는 녹색 계열로 표현된다.
+④ Activate 실행 후&lt;/p&gt;
+
+&lt;p&gt;Activate가 실행 완료되면 Activate 버튼은 비활성화된다.
+성공일 경우, Members는 푸른 계열로 표현된다.
+실패일 경우, Members는 붉은 계열로 표현된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-5.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-6.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard list" /><category term="sidebar" /><summary type="html">…</summary></entry><entry><title type="html">PeakPerformance: Log Filter Configuration</title><link href="http://localhost:4000/peakperformance-log-filter-configuration/" rel="alternate" type="text/html" title="PeakPerformance: Log Filter Configuration" /><published>2017-03-28T00:00:00+09:00</published><updated>2017-03-28T00:00:00+09:00</updated><id>http://localhost:4000/peakperformance-log-filter-configuration</id><content type="html" xml:base="http://localhost:4000/peakperformance-log-filter-configuration/">&lt;p&gt;…&lt;/p&gt;
+
+&lt;h3 id=&quot;1-사용자는-등록된-filter-list를-조회할-수-있다&quot;&gt;1. 사용자는 등록된 Filter List를 조회할 수 있다.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Log Filter Configuration 진입시, Filter List(왼쪽 영역)의 테이블 맨 위 row 기준으로 Filter View(오른쪽 영역)에 정보가 보여진다.&lt;/li&gt;
+  &lt;li&gt;사용자는 List의 특정 row를 클릭해 상세 내용을 조회하거나 수정할 수 있다.&lt;/li&gt;
+  &lt;li&gt;수정 권한이 없는 경우, Filter View(오른쪽 영역) 상단의 Edit 버튼은 보여지지 않는다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-1.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-사용자는-새로운-filter를-등록할-수-있다&quot;&gt;2. 사용자는 새로운 Filter를 등록할 수 있다.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Filter List(왼쪽 영역) 상단의 Add 버튼을 클릭하면 테이블에 빈 row 영역이 추가되며 Add 버튼은 비활성화 된다.&lt;/li&gt;
+  &lt;li&gt;사용자는 Filter Registration(오른쪽 영역)에서 기본 정보를 등록할 수 있다.&lt;/li&gt;
+  &lt;li&gt;Filter Registration(오른쪽 영역) 상단에 Cancel을 누르면 Filter Registration(오른쪽 영역) 부분은 저장되지 않고 취소된다.&lt;/li&gt;
+  &lt;li&gt;Filter Registration(오른쪽 영역) 상단에 Save을 누르면 Filter Registration(오른쪽 영역) 부분은 저장된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-2.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;3사용자는-filter-list왼쪽-영역의-특정-row를-삭제할-수-있다&quot;&gt;3.사용자는 Filter List(왼쪽 영역)의 특정 row를 삭제할 수 있다.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;한개 이상의 checkbox를 선택하면 Filter List(왼쪽 영역) 상단의 Delete 버튼이 활성화 된다.
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-3.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard list" /><category term="sidebar" /><summary type="html">…</summary></entry><entry><title type="html">Guide: A-Cubed Color</title><link href="http://localhost:4000/color-guide/" rel="alternate" type="text/html" title="Guide: A-Cubed Color" /><published>2017-02-28T00:00:00+09:00</published><updated>2017-02-28T00:00:00+09:00</updated><id>http://localhost:4000/color-guide</id><content type="html" xml:base="http://localhost:4000/color-guide/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170228/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170228/image-1.jpg&quot; alt=&quot;color guide&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;chart-fonts--grid&quot;&gt;Chart Fonts &amp;amp; Grid&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;폰트 사이즈 : 11px&lt;/li&gt;
@@ -222,22 +388,22 @@
 &lt;ol&gt;
   &lt;li&gt;Status chart color
     &lt;ul&gt;
-      &lt;li&gt;차트가 Status를 가질때&lt;/li&gt;
+      &lt;li&gt;Chart가 Status를 가질때&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Basic chart color
     &lt;ul&gt;
-      &lt;li&gt;Basic 하게 사용하는 색상 (UX팀에서 사용하는 칼라)&lt;/li&gt;
+      &lt;li&gt;Basic 하게 사용하는 색상 (UX팀에서 사용하는 Color)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Separation chart color
     &lt;ul&gt;
-      &lt;li&gt;차트에서 구분을 위하여 순차적으로 뿌려주는 색상 ( Gantt, Trend Chart)&lt;/li&gt;
+      &lt;li&gt;Chart에서 구분을 위하여 순차적으로 뿌려주는 색상 (Gantt, Trend Chart)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Basic bar chart color
     &lt;ul&gt;
-      &lt;li&gt;기본 바차트 (바차트가 추가 될 경우 순차적으로 사용)
+      &lt;li&gt;기본 Bar Chart (Bar Chart가 추가 될 경우 순차적으로 사용)
 &lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
     &lt;/ul&gt;
@@ -274,8 +440,6 @@
       &lt;/tr&gt;
     &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;basic-colors-code&quot;&gt;Basic colors #Code&lt;/h3&gt;
 
@@ -455,11 +619,10 @@
     &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;separation-colors-code&quot;&gt;Separation colors #Code&lt;/h3&gt;
 
+&lt;div style=&quot;width:100%; overflow:auto;&quot;&gt;
 &lt;table&gt;
     &lt;thead&gt;
       &lt;tr&gt;
@@ -471,6 +634,20 @@
         &lt;th&gt;4&lt;/th&gt;
         &lt;th&gt;5&lt;/th&gt;
         &lt;th&gt;6&lt;/th&gt;
+        &lt;th&gt;7&lt;/th&gt;
+        &lt;th&gt;8&lt;/th&gt; 
+        &lt;th&gt;9&lt;/th&gt;
+        &lt;th&gt;10&lt;/th&gt;
+        &lt;th&gt;11&lt;/th&gt;
+        &lt;th&gt;12&lt;/th&gt;
+        &lt;th&gt;13&lt;/th&gt;
+        &lt;th&gt;14&lt;/th&gt;
+        &lt;th&gt;15&lt;/th&gt;
+        &lt;th&gt;16&lt;/th&gt; 
+        &lt;th&gt;17&lt;/th&gt;
+        &lt;th&gt;18&lt;/th&gt;
+        &lt;th&gt;19&lt;/th&gt;
+        &lt;th&gt;20&lt;/th&gt;
       &lt;/tr&gt;
     &lt;/thead&gt;
     &lt;tbody&gt;
@@ -483,24 +660,6 @@
         &lt;td&gt;5c6992&lt;/td&gt;
         &lt;td&gt;358ab1&lt;/td&gt;
         &lt;td&gt;b29b5e&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-    &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;7&lt;/th&gt;
-        &lt;th&gt;8&lt;/th&gt; 
-        &lt;th&gt;9&lt;/th&gt;
-        &lt;th&gt;10&lt;/th&gt;
-        &lt;th&gt;11&lt;/th&gt;
-        &lt;th&gt;12&lt;/th&gt;
-        &lt;th&gt;13&lt;/th&gt;
-        &lt;th&gt;14&lt;/th&gt;
-      &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-     &lt;tr&gt;
         &lt;td&gt;8b9c7e&lt;/td&gt;
         &lt;td&gt;8f9cdc&lt;/td&gt; 
         &lt;td&gt;6c5d9d&lt;/td&gt;
@@ -509,22 +668,6 @@
         &lt;td&gt;c7c598&lt;/td&gt;
         &lt;td&gt;a5a064&lt;/td&gt;
         &lt;td&gt;9e6c94&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-    &lt;thead&gt;
-      &lt;tr&gt;
-        &lt;th&gt;15&lt;/th&gt;
-        &lt;th&gt;16&lt;/th&gt; 
-        &lt;th&gt;17&lt;/th&gt;
-        &lt;th&gt;18&lt;/th&gt;
-        &lt;th&gt;19&lt;/th&gt;
-        &lt;th&gt;20&lt;/th&gt;
-      &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-     &lt;tr&gt;
         &lt;td&gt;4f6aa0&lt;/td&gt;
         &lt;td&gt;4ea9c4&lt;/td&gt;
         &lt;td&gt;5c9252&lt;/td&gt;
@@ -534,8 +677,7 @@
       &lt;/tr&gt;
     &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;basic-bar-chart-colors-code&quot;&gt;Basic bar chart colors #Code&lt;/h3&gt;
 
@@ -558,171 +700,7 @@
         &lt;td&gt;5c9a8e&lt;/td&gt;
       &lt;/tr&gt;
     &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="prototyping tool" /><category term="animation" /><category term="interaction" /><category term="axure" /><category term="justinmind" /><category term="uxpin" /><summary type="html">업무 협업을 위한 프로토타이핑 툴 조사</summary></entry><entry><title type="html">PeakPerformance: Global Control</title><link href="http://localhost:4000/peakperformance-global-control/" rel="alternate" type="text/html" title="PeakPerformance: Global Control" /><published>2017-04-18T00:00:00+09:00</published><updated>2017-04-18T00:00:00+09:00</updated><id>http://localhost:4000/peakperformance-global-control</id><content type="html" xml:base="http://localhost:4000/peakperformance-global-control/">&lt;p&gt;…&lt;/p&gt;
-
-&lt;h3 id=&quot;1-select-task&quot;&gt;1. Select Task&lt;/h3&gt;
-
-&lt;p&gt;a. 종류&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Start, Stop, Force Stop(Kill), Restart (Stop &amp;amp; Start), Restart (Force Stop &amp;amp; Start)
-b. Radio button checked (Bootstrap 기능)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;input type=&quot;radio&quot; name=&quot;inlineRadioOptions&quot; id=&quot;inlineRadio1&quot; class=&quot;a3-status-start&quot; value=&quot;option1&quot; checked=&quot;&quot; /&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-1.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;2-select-members&quot;&gt;2. Select Members&lt;/h3&gt;
-&lt;p&gt;a. 종류&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Container, Distributor
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-2.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;3-button&quot;&gt;3. Button&lt;/h3&gt;
-&lt;p&gt;a. button hidden&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;button type=&quot;button&quot; class=&quot;btn btn-default fw-btn-start hidden&quot;&gt;&lt;i class=&quot;fa fa-play&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/button&gt;
-  &lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-3.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;4-table&quot;&gt;4. Table&lt;/h3&gt;
-&lt;p&gt;a. Scroll&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;테이블은 x,y 스크롤이 가능함.&lt;/li&gt;
-  &lt;li&gt;스크롤에 따라 Header title(Server)과 Left title(FW)이 유동적으로 움직여야 함.
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-4.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-4.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;5-member&quot;&gt;5. Member&lt;/h3&gt;
-&lt;p&gt;a. 종류&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;왼쪽부터 healthy(녹색), Stopped(회색), fatal(빨간색), initializing(올리브색), warning(노란색), abnormal(주황색)
-b. 상태&lt;/li&gt;
-  &lt;li&gt;basic일 때
-    &lt;ul&gt;
-      &lt;li&gt;&lt;span class=&quot;label label-healthy&quot;&gt;Photo1&lt;/span&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-5.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-5.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;selected일 때
-    &lt;ul&gt;
-      &lt;li&gt;&lt;span class=&quot;label label-healthy selected&quot;&gt;Photo1&lt;/span&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-6.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;disabled일 때
-    &lt;ul&gt;
-      &lt;li&gt;&lt;span class=&quot;label label-healthy disabled&quot;&gt;Photo1&lt;/span&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-7.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-7.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard list" /><category term="sidebar" /><summary type="html">…</summary></entry><entry><title type="html">PeakPerformance: App Deploy</title><link href="http://localhost:4000/peakperformance-app-deploy/" rel="alternate" type="text/html" title="PeakPerformance: App Deploy" /><published>2017-03-30T00:00:00+09:00</published><updated>2017-03-30T00:00:00+09:00</updated><id>http://localhost:4000/peakperformance-app-deploy</id><content type="html" xml:base="http://localhost:4000/peakperformance-app-deploy/">&lt;p&gt;…&lt;/p&gt;
-
-&lt;h3 id=&quot;1사용자는-새로운-버전을-추가할-수-있다&quot;&gt;1.사용자는 새로운 버전을 추가할 수 있다.&lt;/h3&gt;
-
-&lt;p&gt;① 상단의 Add Version 버튼을 클릭하여 새로운 버전을 추가할 수 있다.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-1.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-2.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;2사용자는-버전에-대한-자세한-정보를-볼-수-있다&quot;&gt;2.사용자는 버전에 대한 자세한 정보를 볼 수 있다.&lt;/h3&gt;
-
-&lt;p&gt;① 등록된 버전을 마우스오버하면 Detail View와 Delete 아이콘이 보여진다.
-&lt;br /&gt;
-② Detail View 아이콘을 클릭하면 Detail Veiw Modal 창이 나타나며 더 자세한 정보를 볼 수 있다.
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-3.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-4.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;3-사용자는-버전을-전체-적용하기-전에-일부-framework에-대하여-버전을-선택해-변경해-볼수-있다&quot;&gt;3. 사용자는 버전을 전체 적용하기 전에 일부 Framework에 대하여 버전을 선택해 변경해 볼수 있다.&lt;/h3&gt;
-
-&lt;p&gt;① Set Head Version 실행 전 (상단에 버전이 최초로 등록될 경우)&lt;/p&gt;
-
-&lt;p&gt;상단에서 버전이 최초로 등록될 때, 하단의 테이블에서 Version을 선택할 수 있다.
-Set Head Version 실행 전이므로 Activate 버튼은 비활성화 된다.
-Members는 회색으로 표현된다.
-② Set Head Version 실행 전 (상단에 버전이 등록되어 있을 경우)&lt;/p&gt;
-
-&lt;p&gt;상단에 버전이 등록되어 있을 경우, 하단의 테이블에서 Version을 선택할 수 있다.
-Set Head Version 실행 전이므로 Activate 버튼은 비활성화된다.
-Members는 회색으로 표현된다.
-③ Set Head Version 실행 후&lt;/p&gt;
-
-&lt;p&gt;버전 변경 시, Version text는 녹색 계열로 표현된다.
-Set Head Version 실행 완료 되면 Activate 버튼은 활성화된다.
-Members는 녹색 계열로 표현된다.
-④ Activate 실행 후&lt;/p&gt;
-
-&lt;p&gt;Activate가 실행 완료되면 Activate 버튼은 비활성화된다.
-성공일 경우, Members는 푸른 계열로 표현된다.
-실패일 경우, Members는 붉은 계열로 표현된다.
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-5.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-6.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard list" /><category term="sidebar" /><summary type="html">…</summary></entry><entry><title type="html">PeakPerformance: Log Filter Configuration</title><link href="http://localhost:4000/peakperformance-log-filter-configuration/" rel="alternate" type="text/html" title="PeakPerformance: Log Filter Configuration" /><published>2017-03-28T00:00:00+09:00</published><updated>2017-03-28T00:00:00+09:00</updated><id>http://localhost:4000/peakperformance-log-filter-configuration</id><content type="html" xml:base="http://localhost:4000/peakperformance-log-filter-configuration/">&lt;p&gt;…&lt;/p&gt;
-
-&lt;h3 id=&quot;1-사용자는-등록된-filter-list를-조회할-수-있다&quot;&gt;1. 사용자는 등록된 Filter List를 조회할 수 있다.&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Log Filter Configuration 진입시, Filter List(왼쪽 영역)의 테이블 맨 위 row 기준으로 Filter View(오른쪽 영역)에 정보가 보여진다.&lt;/li&gt;
-  &lt;li&gt;사용자는 List의 특정 row를 클릭해 상세 내용을 조회하거나 수정할 수 있다.&lt;/li&gt;
-  &lt;li&gt;수정 권한이 없는 경우, Filter View(오른쪽 영역) 상단의 Edit 버튼은 보여지지 않는다.
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-1.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;2-사용자는-새로운-filter를-등록할-수-있다&quot;&gt;2. 사용자는 새로운 Filter를 등록할 수 있다.&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Filter List(왼쪽 영역) 상단의 Add 버튼을 클릭하면 테이블에 빈 row 영역이 추가되며 Add 버튼은 비활성화 된다.&lt;/li&gt;
-  &lt;li&gt;사용자는 Filter Registration(오른쪽 영역)에서 기본 정보를 등록할 수 있다.&lt;/li&gt;
-  &lt;li&gt;Filter Registration(오른쪽 영역) 상단에 Cancel을 누르면 Filter Registration(오른쪽 영역) 부분은 저장되지 않고 취소된다.&lt;/li&gt;
-  &lt;li&gt;Filter Registration(오른쪽 영역) 상단에 Save을 누르면 Filter Registration(오른쪽 영역) 부분은 저장된다.
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-2.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;3사용자는-filter-list왼쪽-영역의-특정-row를-삭제할-수-있다&quot;&gt;3.사용자는 Filter List(왼쪽 영역)의 특정 row를 삭제할 수 있다.&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;한개 이상의 checkbox를 선택하면 Filter List(왼쪽 영역) 상단의 Delete 버튼이 활성화 된다.
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-3.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard list" /><category term="sidebar" /><summary type="html">…</summary></entry><entry><title type="html">A-Cubed: DFD</title><link href="http://localhost:4000/dfd/" rel="alternate" type="text/html" title="A-Cubed: DFD" /><published>2017-02-14T00:00:00+09:00</published><updated>2017-02-14T00:00:00+09:00</updated><id>http://localhost:4000/dfd</id><content type="html" xml:base="http://localhost:4000/dfd/">&lt;p&gt;A-Cubed App Configuration 가이드 제공&lt;/p&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="color" /><category term="guide" /><category term="UX" /><summary type="html">UX팀에서 제공하는 A-Cubed Color Guide</summary></entry><entry><title type="html">A-Cubed: DFD</title><link href="http://localhost:4000/dfd/" rel="alternate" type="text/html" title="A-Cubed: DFD" /><published>2017-02-14T00:00:00+09:00</published><updated>2017-02-14T00:00:00+09:00</updated><id>http://localhost:4000/dfd</id><content type="html" xml:base="http://localhost:4000/dfd/">&lt;p&gt;A-Cubed App Configuration 가이드 제공&lt;/p&gt;
 
 &lt;h3 id=&quot;1-parameter&quot;&gt;1. Parameter&lt;/h3&gt;
 &lt;p&gt;① 가장 높은 alarm count를 가진 3개의 parameter가 기본으로 보여진다.
@@ -1052,7 +1030,7 @@ Members는 녹색 계열로 표현된다.
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170117/image-14.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170117/image-14.jpg&quot; alt=&quot;dfd&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">A-Cubed App Configuration 가이드 제공</summary></entry><entry><title type="html">PeakPerformance: Hot Deploy</title><link href="http://localhost:4000/peakperformance-hot-deploy/" rel="alternate" type="text/html" title="PeakPerformance: Hot Deploy" /><published>2016-12-27T00:00:00+09:00</published><updated>2016-12-27T00:00:00+09:00</updated><id>http://localhost:4000/peakperformance-hot-deploy</id><content type="html" xml:base="http://localhost:4000/peakperformance-hot-deploy/">&lt;p&gt;…&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">A-Cubed App Configuration 가이드 제공</summary></entry><entry><title type="html">PeakPerformance: Hot Deploy</title><link href="http://localhost:4000/%EC%88%98%EC%A0%95peakperformance-hot-deploy/" rel="alternate" type="text/html" title="PeakPerformance: Hot Deploy" /><published>2016-12-27T00:00:00+09:00</published><updated>2016-12-27T00:00:00+09:00</updated><id>http://localhost:4000/%EC%88%98%EC%A0%95peakperformance-hot-deploy</id><content type="html" xml:base="http://localhost:4000/%EC%88%98%EC%A0%95peakperformance-hot-deploy/">&lt;p&gt;…&lt;/p&gt;
 
 &lt;h3 id=&quot;1-사용자는-application에-대한-version을-특정-framework에-대해서-먼저-적용해-볼-수-있다&quot;&gt;1. 사용자는 Application에 대한 Version을 특정 Framework에 대해서 먼저 적용해 볼 수 있다.&lt;/h3&gt;
 
