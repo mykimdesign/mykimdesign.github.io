@@ -2,7 +2,7 @@
 layout: post
 title:  "A-Cubed: Map & Scheduling"
 date:   2016-05-23
-excerpt: "요구사항에 따라 개선된 Map 가이드 제공"
+excerpt: "요구사항에 따라 개선된 Map과 Scheduling 가이드 제공"
 tags:
   - A-Cubed
   - guide
@@ -73,3 +73,41 @@ tags:
 ① Report List가 3개 이상이면 more 버튼이 보이고 클릭시 ②번 Modal이 뜬다. 
 
 <a href="{{ site.url }}/images/works/20160523/image-5.jpg"><img src="{{ site.url }}/images/works/20160523/image-5.jpg" alt="schedule report modal"></a>
+<br>
+<br>
+
+### 3. Managing Shared
+
+① Share 버튼 클릭을 클릭하면 User card (or Group card)가 등록된다.<br>
+② Input Box에 text를 입력할 수 있다. (자동완성 기능 포함)<br>
+③ User card (or Group card)의 X 버튼을 누르면 해당 카드가 삭제된다.<br>
+④ Share Modal 닫기 버튼 or Modal 외 영역을 클릭하면 Map 화면으로 돌아간다.<br>
+
+**Watch out!** Dashboard Card에서도 Managing Shared 가능. 'Dashabord List'를 참고.
+{: .notice}
+
+<a href="{{ site.url }}/images/works/20160523/image-6.jpg"><img src="{{ site.url }}/images/works/20160523/image-6.jpg" alt="managing shared"></a>
+<br>
+
+⑤ User와 Group 검색이 가능하며 아무것도 입력하지 않은 상태에서 우측의 화살표를 누르면 전체 User & Group Lists가 Drop-down Menu로 보여진다.<br>
+⑥ 탭 버튼(All, User, Group)을 통해서 Shared된 User & Group Cards를 볼수 있다.<br>
+⑦ User와 Group을 구분하는 아이콘이 카드 왼쪽 상단에 보여진다.<br>
+⑧ Group Card 내 최대 5개의 User Icon을 볼수 있으며 5개 이상이 되면 '...' 표시가 보여진다.<br>
+⑨,⑩ Card를 클릭하면 해당 관련 정보 Layer가 슬라이딩 되면서 보여진다.<br>
+
+**Watch out!** 검색 기능: user - text or @user name, group - #group name
+{: .notice}
+
+<a href="{{ site.url }}/images/works/20160523/image-7.jpg"><img src="{{ site.url }}/images/works/20160523/image-7.jpg" alt="managing shared"></a>
+<br>
+<a href="{{ site.url }}/images/works/20160523/image-8.jpg"><img src="{{ site.url }}/images/works/20160523/image-8.jpg" alt="managing shared"></a>
+<br>
+<a href="{{ site.url }}/images/works/20160523/image-9.jpg"><img src="{{ site.url }}/images/works/20160523/image-9.jpg" alt="managing shared"></a>
+<br>
+<a href="{{ site.url }}/images/works/20160523/image-10.jpg"><img src="{{ site.url }}/images/works/20160523/image-10.jpg" alt="managing shared"></a>
+<center>User 정보</center><br>
+
+<a href="{{ site.url }}/images/works/20160523/image-11.jpg"><img src="{{ site.url }}/images/works/20160523/image-11.jpg" alt="managing shared"></a>
+<center>Group 정보</center><br>
+
+
