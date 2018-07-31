@@ -10,6 +10,7 @@ tags:
   - css
   - dashboard list
   - sidebar
+published: false
 ---
 
 ### 1. Default the View of Dashboard List Sidebar.

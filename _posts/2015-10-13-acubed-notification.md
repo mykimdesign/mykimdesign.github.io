@@ -10,6 +10,7 @@ tags:
   - css
   - notification
   - sidebar
+published: false
 ---
 
 ### 1. The default view of the Sidebar.

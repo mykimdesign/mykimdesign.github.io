@@ -5,13 +5,14 @@ date:   2016-03-11
 categories:
   - Markup
 tags:
-- markup
-- guide
-- icons
-- design
-- html
-- css
-- context menu
+  - markup
+  - guide
+  - icons
+  - design
+  - html
+  - css
+  - context menu
+published: false
 ---
 
 A-Cubed Widget에서 Application으로 이동할 때 Context Menu를 통해서 drill down을 합니다. drill down뿐만 아니라 Context Menu를 이용하여 다양한 기능들을 수행할 수 있습니다.
@@ -24,7 +25,6 @@ A-Cubed Widget에서 Application으로 이동할 때 Context Menu를 통해서 d
 1. Leave Comments
   * 해당 Widget 또는 Application에 코멘트 남기기
   * Widget & Application 사용 가능
-  * 개발 예정
   
 2. Further Analysis
   * 해당 Widget 또는 Application과 연관 있는 화면으로 drill down 하기
@@ -37,12 +37,10 @@ A-Cubed Widget에서 Application으로 이동할 때 Context Menu를 통해서 d
 4. Share Workspace
   * 다른 사용자와 Workspace를 공유
   * Workspace 사용 가능
-  * 개발 예정
   
 5. Scheduling
   * Map 내에서 선택한 Workspace의 일정을 관리
   * Map 사용 가능
-  * 개발 예정
   
 6. Delete
   * Map 내에서 선택한 Workspace를 삭제

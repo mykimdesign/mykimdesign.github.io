@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/acubed-application-list/</loc>
-<lastmod>2015-09-24T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/acubed-dashboard-list/</loc>
-<lastmod>2015-09-24T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/acubed-notification/</loc>
-<lastmod>2015-10-13T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/modal/</loc>
-<lastmod>2015-11-02T00:00:00+09:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/acubed-dashboard-sidebar/</loc>
 <lastmod>2015-12-21T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/acubed-context-menu/</loc>
-<lastmod>2016-03-11T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/acubed-map-scheduling/</loc>
-<lastmod>2016-05-23T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/fd-ta-widget-tasker/</loc>
@@ -34,6 +10,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/application-configuration/</loc>
+<lastmod>2016-07-14T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/mi-fd-ta/</loc>
 <lastmod>2016-07-14T00:00:00+09:00</lastmod>
 </url>
 <url>
@@ -55,10 +35,6 @@
 <url>
 <loc>http://localhost:4000/prototype-url/</loc>
 <lastmod>2016-09-01T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/fd-ta/</loc>
-<lastmod>2016-09-06T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/acubed-dashboard-widget/</loc>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A-Cubed: App Configuration"
+title:  "***A-Cubed: App Configuration"
 date:   2016-07-18
 categories:
   - Markup

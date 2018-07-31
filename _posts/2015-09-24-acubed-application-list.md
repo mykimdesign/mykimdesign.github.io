@@ -10,6 +10,7 @@ tags:
   - css
   - application list
   - sidebar
+published: false
 ---
 
 ### 1. Default the View of Application List Sidebar.
