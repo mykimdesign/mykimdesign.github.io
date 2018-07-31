@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "***A-Cubed: Application Configuration"
+title:  "***(삭제해도...?) A-Cubed: Application Configuration"
 date:   2016-07-14
 excerpt: "모든 Application을 관리하는 화면 가이드"
 tags:
@@ -9,6 +9,7 @@ tags:
   - html
   - css
   - application configuration
+published: false
 ---
 
 오른쪽 상단의 톱니바퀴 아이콘을 클릭하여 Application Configuration 화면으로 이동할 수 있다.

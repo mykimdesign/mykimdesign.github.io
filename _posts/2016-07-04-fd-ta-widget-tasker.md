@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "***FD-TA: Widget & Takser"
+title:  "*** FD-TA: Widget & Takser"
 date:   2016-07-04
 categories:
   - Markup
@@ -11,6 +11,7 @@ tags:
   - css
   - dashboard list
   - sidebar
+published: false
 ---
 
 A-Cubed Sidebar의 Application List 가이드 제공

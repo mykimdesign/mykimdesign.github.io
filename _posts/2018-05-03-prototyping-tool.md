@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "Prototyping Tool"
+title:  "*** Prototyping Tool"
 date:   2018-05-03
 excerpt: "업무 협업을 위한 프로토타이핑 툴 조사"
 tags:
-- prototyping tool
-- animation
-- interaction
-- axure
-- justinmind
-- uxpin
+  - prototyping tool
+  - animation
+  - interaction
+  - axure
+  - justinmind
+  - uxpin
+published: false
 ---
     
  프로젝트를 진행하기 전에 와이어프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.

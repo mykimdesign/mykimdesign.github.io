@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "***A-Cubed: App Configuration"
+title:  "***(삭제??) A-Cubed: App Configuration"
 date:   2016-07-18
 categories:
   - Markup
@@ -9,6 +9,7 @@ tags:
   - guide
   - html
   - css
+published: false
 ---
 
 A-Cubed App Configuration 가이드 제공

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A-Cubed: Map,Automation,Collaboration"
+title:  "*** A-Cubed: Map,Automation,Collaboration"
 date:   2017-01-17
 categories:
   - Markup
@@ -9,6 +9,7 @@ tags:
   - guide
   - html
   - css
+published: false
 ---
 
 A-Cubed App Configuration 가이드 제공

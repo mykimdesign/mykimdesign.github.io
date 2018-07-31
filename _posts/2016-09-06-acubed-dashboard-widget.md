@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A-Cubed: Dashboard & Widget"
+title:  "*** A-Cubed: Dashboard & Widget"
 date:   2016-09-06
 categories:
   - Markup
@@ -11,6 +11,7 @@ tags:
   - css
   - dashboard
   - widget
+published: false
 ---
 
 A-Cubed Dashboard & Widget 가이드 제공
