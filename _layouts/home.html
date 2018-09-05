@@ -6,7 +6,7 @@ layout: compress
 <html>
 {% include head.html %}
 <body id="homepage">
-
+  
   <div class="block-left">
     <div class="content">
       <div class="main-info">
@@ -21,7 +21,26 @@ layout: compress
       </div>  
     </div>
     <canvas></canvas>
-  </div> 
+  </div>
+<!--
+  <div class="block-right">
+    <div class="header-menu">
+      <a href="{{ site.url }}/work" title="work" class="menu-icon work-menu-icon"></a>
+      <span class="work-link">WORK</span>
+
+      <a title="project" class="projects-menu-icon">
+        <span></span>
+      </a>
+      <span class="projects-link">PORTFOLIO</span>
+    </div>
+    <div class="content">
+      <div class="about-info">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+-->
+
 
   <div class="block-right">
     <a href="{{ site.url }}/work" title="work" class="menu-icon work-menu-icon"></a>
@@ -33,14 +52,14 @@ layout: compress
     <!--
     <a href="{{ site.url }}/posts" title="favorite" class="menu-icon favorite-menu-icon"></a>
     <span class="favorite-link">FAVORITE</span>
-    --> 
+     -->
     <div class="content">
       <div class="about-info">
         {{ content }}
       </div>
     </div>
   </div>
-  {% include overlay.html %}
+  {% include overlay.html %} 
   {% include scripts.html %}
   <script src="{{ site.url }}/assets/js/canvas.js"></script>
   {% for js in page.customjs %}

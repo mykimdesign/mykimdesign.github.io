@@ -27,37 +27,37 @@ customjs:
 <div class="my-skills-wrapper">  
     <ul class="my-skill">  
       <li>Photoshop</li>
-      <li class="graph-90"></li>
+      <li class="progress-bar graph-90"></li>
       <li class="percent">90%</li>
     </ul>
     <ul class="my-skill"> 
       <li>Illustrator</li>
-      <li class="graph-70"></li>
+      <li class="progress-bar graph-70"></li>
       <li class="percent">75%</li>
     </ul>
     <ul class="my-skill">  
       <li>HTML</li> 
-      <li class="graph-90"></li>
+      <li class="progress-bar graph-90"></li>
       <li class="percent">90%</li>  
     </ul>
     <ul class="my-skill"> 
       <li>CSS</li> 
-      <li class="graph-90"></li>
+      <li class="progress-bar graph-90"></li>
       <li class="percent">90%</li>  
     </ul>
     <ul class="my-skill">
       <li>SCSS</li>
-      <li class="graph-90"></li>
+      <li class="progress-bar graph-90"></li>
       <li class="percent">90%</li> 
     </ul>
     <ul class="my-skill">
       <li>Axure</li>
-      <li class="graph-80"></li>
+      <li class="progress-bar graph-80"></li>
       <li class="percent">80%</li>
     </ul>
     <ul class="my-skill">
       <li>Adobe XD</li>
-      <li class="graph-80"></li>
+      <li class="progress-bar graph-80"></li>
       <li class="percent">80%</li>
     </ul>
 </div>  
@@ -69,7 +69,7 @@ customjs:
 # EXPERIENCE
 
 <div class="my-experience-wrapper">
-  <div class="my-experience-content left"> 
+  <div class="my-experience-content ex-content left"> 
     <div>2013</div>  
     <strong>SBS Academy Computer Arts Institute</strong>
     <ul>
@@ -83,7 +83,7 @@ customjs:
       <li>모바일 UI / UX   </li>
     </ul>
   </div>
-  <div class="my-experience-content right">
+  <div class="my-experience-content ex-content right">
     <div>2013-2017</div>
     <strong>BISTel</strong>
     <ul>
@@ -92,15 +92,14 @@ customjs:
       <li>프로토타이핑 툴을 이용하여 목업 디자인</li>
     </ul>
   </div>
-  <div class="my-experience-content left">
+  <div class="my-experience-content ex-content left">
     <div>2011</div> 
     <strong>KOSTA</strong>
     <ul>
       <li>신입 자바 개발자 실무과정</li>
-      <li>색채학kawljgl;kawjego;awjeg;lkawjeg;lajegkljaw;</li>
     </ul>
   </div>
-  <div class="my-experience-content right">
+  <div class="my-experience-content ex-content right">
     <div>2012-2013</div>
     <strong>NEXTREE</strong>
     <ul>

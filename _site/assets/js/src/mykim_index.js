@@ -10,10 +10,24 @@ $(window).on('scroll', function(){
   if ($("#skills").is(':visible')) {
     $(".graph-70").addClass("move-70");
   }
+  if ($(".progress-bar").is(':visible')) {
+    $(".percent").addClass("show-percent");
+  }
 });
 
 
 // experience
+
+$(window).on('scroll', function(){
+  if ($("#experience").is(':visible')) {
+    $(".test").addClass("move-bar");
+  }
+  if ($("#experience").is(':visible')) {
+    $(".ex-content").addClass("show-content");
+  }
+});
+
+
 
 //$(window).on('scroll', function(){
 //  if ($("#experience").is(':visible')) {
