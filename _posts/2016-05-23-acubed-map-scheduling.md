@@ -8,8 +8,6 @@ tags:
   - guide
   - html
   - css
-  - map
-  - scheduling
 published: false
 ---
 

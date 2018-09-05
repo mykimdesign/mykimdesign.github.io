@@ -13,30 +13,27 @@ layout: compress
         <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo }}"></a>
         <h1>
           {{ site.title }}
-        </h1>
-        <h2>
+        </h1> 
+        <h2> 
           {{ site.description }}
-        </h2>
+        </h2> 
         {% include social-links.html %}
-      </div> 
+      </div>  
     </div>
     <canvas></canvas>
-  </div>
+  </div> 
 
   <div class="block-right">
-      
-    <a href="{{ site.url }}/posts" title="work" class="menu-icon posts-menu-icon"></a>
-    <span class="posts-link">WORK</span>
-    <a href="{{ site.url }}/study" title="study" class="menu-icon study-menu-icon"></a>
-    <span class="study-link">STUDY</span>
-    <a href="{{ site.url }}/posts" title="favorite" class="menu-icon favorite-menu-icon"></a>
-    <span class="favorite-link">FAVORITE</span>
-    <!--
+    <a href="{{ site.url }}/work" title="work" class="menu-icon work-menu-icon"></a>
+    <span class="work-link">WORK</span>
     <a title="project" class="projects-menu-icon">
       <span></span>
     </a>
-    <span class="projects-link">PROJECTS</span>
-    -->
+    <span class="projects-link">PORTFOLIO</span>
+    <!--
+    <a href="{{ site.url }}/posts" title="favorite" class="menu-icon favorite-menu-icon"></a>
+    <span class="favorite-link">FAVORITE</span>
+    --> 
     <div class="content">
       <div class="about-info">
         {{ content }}
@@ -46,5 +43,8 @@ layout: compress
   {% include overlay.html %}
   {% include scripts.html %}
   <script src="{{ site.url }}/assets/js/canvas.js"></script>
+  {% for js in page.customjs %}
+    <script async type="text/javascript" src="{{ js }}"></script>
+  {% endfor %}
 </body>
 </html>

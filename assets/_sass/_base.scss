@@ -13,7 +13,7 @@
 
 html {
   line-height: 1;
-  overflow: hidden;
+  //overflow: hidden;
   &.no-scroll {
     overflow: hidden;
   }
@@ -30,6 +30,14 @@ body {
   font-size: 14px;
   color: $overlay-color;
   background: $white;
+  overflow: hidden;
+}
+
+#homepage .block-right .content {
+  display: block;
+  max-width: 800px;
+  height: auto;
+  margin-top: 50px;
 }
 
 a {

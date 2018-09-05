@@ -11,7 +11,6 @@ tags:
   - design
   - html
   - css
-  - context menu
 published: false
 ---
 
@@ -69,4 +68,4 @@ A-Cubed Widget에서 Application으로 이동할 때 Context Menu를 통해서 d
 	{{ site.url }}/images/works/20160311/image-3.jpg
 	{{ site.url }}/images/works/20160311/image-4.jpg
 {% endcapture %}
-{% include gallery images=images caption="A-Cubed Context Menu" cols=3 %}
+{% include gallery images=images caption="기능별 Context Menu" cols=3 %}

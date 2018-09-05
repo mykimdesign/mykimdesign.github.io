@@ -8,7 +8,6 @@ tags:
   - guide
   - html
   - css
-  - application list
   - sidebar
 published: false
 ---
@@ -16,9 +15,6 @@ published: false
 ### 1. Default the View of Application List Sidebar.
 
 <a href="{{ site.url }}/images/works/20150924/image-42.png"><img src="{{ site.url }}/images/works/20150924/image-42.png" alt="application list"></a>
-<br>
-
-해당 아이콘을 클릭하면 화면 오른쪽에서 Application List Sidebar가 슬라이드 되어 나타난다.
 
 **Watch out!** 상단 아이콘 클릭 시, Dashboard에 등록되어 있는 모든 Widget들의 연관된 Application Lists를 보여줌
 {: .notice}

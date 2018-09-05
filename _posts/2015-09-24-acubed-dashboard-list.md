@@ -8,7 +8,6 @@ tags:
   - guide
   - html
   - css
-  - dashboard list
   - sidebar
 published: false
 ---
@@ -16,9 +15,6 @@ published: false
 ### 1. Default the View of Dashboard List Sidebar.
 
 <a href="{{ site.url }}/images/works/20150924/image-1.png"><img src="{{ site.url }}/images/works/20150924/image-1.png" alt="dashboard list"></a>
-<br>
-
-해당 아이콘을 클릭하면 화면 오른쪽에서 Dashboard List Sidebar가 슬라이드 되어 나타난다.
 
 **HTML:**
 

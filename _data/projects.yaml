@@ -1,3 +1,18 @@
+- title: MI
+  url: 
+  image: 
+  completed: true
+  
+- title: FW
+  url: 
+  image: 
+  completed: true
+  
+- title: A3
+  url: 
+  image: 
+  completed: true
+
 - title: Halve Jekyll Theme
   url: http://taylantatli.me/Halve
   image: http://taylantatli.me/Halve/images/halve-home-image.png

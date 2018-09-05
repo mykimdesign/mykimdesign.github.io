@@ -1,5 +1,6 @@
 .block-left {
   float: left;
+  
   .content {
     z-index: 1;
     position: relative;
@@ -13,7 +14,6 @@
 
 .block-left,
 .block-right {
-  width: 50%;
   height: 100%;
   position: relative;
   display: table;
@@ -25,6 +25,13 @@
     height: 100%;
   }
 }
+.block-left {
+    width: 40%;
+}
+.block-right {
+    display: block;
+    width: 60%;
+}
 
 .inactive {
   pointer-events: none;
@@ -32,7 +39,7 @@
 }
 
 .content {
-  padding: 60px;
+  padding: 80px 60px;
   max-width: 600px;
   margin: 0 auto;
 }
@@ -62,7 +69,7 @@ canvas {
 .projects-menu-icon {
   position: absolute;
   top: 30px;
-  right: 30px;
+  right: 36px;
   width: 15px;
   height: 15px;
   border: 2px solid $gray;
@@ -128,9 +135,9 @@ canvas {
   }
 }
 
-.posts-menu-icon {
+.work-menu-icon {
   top: 30px;
-  right: 144px;
+  right: 103px;
   width: 20px;
   height: 25px;
   border: 2px solid $gray;
@@ -214,7 +221,7 @@ a.favorite-menu-icon {
     }
 }
 
-.posts-link,
+.work-link,
 .study-link,
 .favorite-link,
 .projects-link {
@@ -224,8 +231,8 @@ a.favorite-menu-icon {
   color: darken($white, 40);
 }
 
-.posts-link {
-  right: 142px;
+.work-link {
+  right: 100px;
 }
 
 .study-link {
@@ -379,7 +386,7 @@ a.favorite-menu-icon {
 .main-info,
 .about-info {
   text-align: center;
-  max-width: 400px;
+  max-width: 500px;
   width: 100%;
   margin: 0 auto;
   h1,
@@ -407,6 +414,24 @@ a.favorite-menu-icon {
     line-height: 30px;
     margin: 10px 0;
     padding-top: 25px;
+  }
+}
+
+.main-info {
+  color: $white;
+  h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  h2 {
+    font-size: 21px;
+    line-height: 30px;
+    margin: 10px 0;
+    padding-top: 25px;
+    &:after {
+      display: none;
+    }
   }
   ul {
     font-size: 1em;
@@ -470,24 +495,6 @@ a.favorite-menu-icon {
   }
 }
 
-.main-info {
-  color: $white;
-  h1 {
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-  }
-  h2 {
-    font-size: 21px;
-    line-height: 30px;
-    margin: 10px 0;
-    padding-top: 25px;
-    &:after {
-      display: none;
-    }
-  }
-}
-
 .about-info {
   text-align: left;
   h1,
@@ -505,7 +512,21 @@ a.favorite-menu-icon {
       transform: none;
       background: $green;
       left: 0;
-      width: 200px;
+    }
+  }
+  #about-me {
+    &:after {
+      width: 161px;
+    }
+  }
+  #skills {
+    &:after {
+      width: 91px;
+    }
+  }
+  #experience {
+    &:after {
+      width: 180px;
     }
   }
   p {
@@ -514,8 +535,41 @@ a.favorite-menu-icon {
     margin: 10px 0;
     padding-top: 0;
     line-height: 24px;
-    &:first-of-type {
-      padding-top: 35px;
+  }
+  ul {
+    font-size: 1em;
+    margin-top: 30px;
+    overflow: hidden;
+    li {
+      display: inline-block;
+      margin-right: 10px;
+      vertical-align: middle;
+      -webkit-transform: translateZ(0);
+      transform: translateZ(0);
+      box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
+      -moz-osx-font-smoothing: grayscale;
+      position: relative;
+      -webkit-transition-property: color;
+      transition-property: color;
+      -webkit-transition-duration: 0.3s;
+      transition-duration: 0.3s;
+      &:hover {
+        &:before {
+          -webkit-transform: scaleY(1);
+          transform: scaleY(1);
+        }
+      }
+      &:last-child {
+        margin-right: 0;
+      }
+      a {
+        display: inline-block;
+        font-size: 1.3em;
+        padding: 0.3em 0.35em;
+        color: $white;
+      }
     }
   }
 }
@@ -562,6 +616,7 @@ a.favorite-menu-icon {
 
 .posts-list {
   margin: 50px 0;
+  margin-bottom: 0px;
   > li {
     margin-bottom: 23px;
     padding-bottom: 20px;
@@ -801,6 +856,10 @@ a.favorite-menu-icon {
 }
 
 @media screen and (max-width: 960px) {
+  body {
+    overflow: visible;
+  }
+  
   .block-left,
   .block-right {
     float: none;
