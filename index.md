@@ -22,7 +22,7 @@ customjs:
 <br> 
    
  
-# SKILLS 되니?
+# SKILLS
 
 <div class="my-skills-wrapper">  
     <ul class="my-skill">  

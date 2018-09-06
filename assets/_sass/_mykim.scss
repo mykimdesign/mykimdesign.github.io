@@ -11,7 +11,7 @@
 }
 
 .my-aboutme-wrapper {
-  padding-top: 30px;
+  padding-top: 35px;
 }
 
 .my-skills-wrapper {
@@ -119,6 +119,7 @@
 
 .my-experience-wrapper {
   position: relative;
+  padding-top: 40px;
 
   .my-experience-content {
     display: inline-block;
@@ -260,7 +261,7 @@
     top: 45px;
     left: calc(50% - 2px);
     width: 4px;
-    height: 1120px;
+    height: 1190px;
     background: #d4d4d4;
     
     .move-bar {
@@ -312,11 +313,10 @@
       }
     }
   }
+  
   .my-experience-wrapper {
-    
     .my-experience-timeline {
       left: 0;
-      height: 100%;
     }
     
     .my-bistel {
@@ -326,7 +326,7 @@
     }
     
     .my-sbs {
-      top: 277px;
+      top: 267px;
       left: 4px;
       width: 100%;
       padding-left: 25px;
@@ -356,13 +356,13 @@
     }
     
     .my-nextree {
-      top: -140px;
+      top: -150px;
       left: 4px;
       width: 100%;
     }
     
     .my-kosta {
-      top: 277px;
+      top: 267px;
       left: 4px;
       width: 100%;
       padding-left: 25px;
@@ -393,7 +393,7 @@
   }
 }
 
-@media screen and (max-width: 522px) {
+@media screen and (max-width: 542px) {
   .my-experience-wrapper {
     .my-bistel {
       top: -345px;
