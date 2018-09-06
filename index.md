@@ -69,7 +69,7 @@ customjs:
 # EXPERIENCE
 
 <div class="my-experience-wrapper">
-  <div class="my-experience-content ex-content left"> 
+  <div class="my-experience-content ex-content left my-sbs"> 
     <div>2013</div>  
     <strong>SBS Academy Computer Arts Institute</strong>
     <ul>
@@ -83,7 +83,7 @@ customjs:
       <li>모바일 UI / UX   </li>
     </ul>
   </div>
-  <div class="my-experience-content ex-content right">
+  <div class="my-experience-content ex-content right my-bistel">
     <div>2013-2017</div>
     <strong>BISTel</strong>
     <ul>
@@ -92,27 +92,21 @@ customjs:
       <li>프로토타이핑 툴을 이용하여 목업 디자인</li>
     </ul>
   </div>
-  <div class="my-experience-content ex-content left">
+  <div class="my-experience-content ex-content left my-kosta">
     <div>2011</div> 
-    <strong>KOSTA</strong>
+    <strong>KOSTA</strong> 
     <ul>
       <li>신입 자바 개발자 실무과정</li>
     </ul>
   </div>
-  <div class="my-experience-content ex-content right">
+  <div class="my-experience-content ex-content right my-nextree">
     <div>2012-2013</div>
     <strong>NEXTREE</strong>
     <ul>
-      <li>스마트폰 전자책 웹사이트 개발</li>
+      <li>스마트폰 전자책 웹사이트 개발 및 유지 보수</li>
       <li>사내 모바일 웹 개발</li>
-      <li>사내에서 운영되는 관리자 웹페이지 개발</li>
+      <li>사내에서 운영되는 관리자 웹페이지 개발 후, 개선 및 유지 보수</li>
     </ul>
   </div>
-
-  <div class="my-experience-timeline">
-    <div></div>
-    <div></div>
-    <div></div> 
-    <div></div> 
-  </div>
+  <div class="my-experience-timeline"></div>
 </div>
