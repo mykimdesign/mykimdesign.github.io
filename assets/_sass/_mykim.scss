@@ -290,7 +290,28 @@
   }
 }
 
+@media screen and (max-width: 1056px) {
+  .content {
+    padding: 80px 30px;
+  }
+}
+
 @media screen and (max-width: 640px) {
+  .my-skills-wrapper {
+    .my-skill {
+      padding: 0;
+      padding-bottom: 12px;
+      
+      li {
+        &:first-child {
+          width: 100%;
+          text-align: left;
+          margin-left: inherit;
+          margin-bottom: 6px;
+        }
+      }
+    }
+  }
   .my-experience-wrapper {
     
     .my-experience-timeline {
@@ -376,6 +397,22 @@
   .my-experience-wrapper {
     .my-bistel {
       top: -345px;
+    }
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .my-skills-wrapper {
+    .my-skill {
+      .progress-bar {
+        height: 20px;
+        margin-right: 0;
+      }
+      .percent {
+        width: auto;
+        margin-left: -34px;
+        font-size: 11px;
+      }
     }
   }
 }
