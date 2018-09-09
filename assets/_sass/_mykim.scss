@@ -2,12 +2,16 @@
 .about-info {
   margin-top: 50px;
   
-    p {
-        color: #6c6c6c;
-        font-size: 14px;
-        font-weight: 100;
-        line-height: 1.8;
-    }
+  p {
+      color: #6c6c6c;
+      font-size: 14px;
+      font-weight: 100;
+      line-height: 1.8;
+  }
+  
+  a {
+    color: #399f62;
+  }
 }
 
 .my-aboutme-wrapper {
@@ -124,7 +128,7 @@
   .my-experience-content {
     display: inline-block;
     position: relative;
-    width: 248px;
+    width: 247px;
     padding-top: 35px;
     padding-bottom: 55px;
     
@@ -163,6 +167,7 @@
   
   .my-bistel {
     top: -47px;
+    right: -252px;
     padding-left: 25px;
     
     &:before {
@@ -184,6 +189,7 @@
   
   .my-sbs {
     top: 341px;
+    left: -250px;
     padding-right: 25px;
     text-align: right;
     
@@ -206,6 +212,7 @@
   
   .my-nextree {
     top: 305px;
+    right: -252px;
     padding-left: 25px;
     
     &:before {
@@ -227,6 +234,7 @@
   
   .my-kosta {
     top: 454px;
+    left: -250px;
     padding-right: 25px;
     text-align: right;
     
@@ -315,26 +323,34 @@
   }
   
   .my-experience-wrapper {
+      display: flex;
+      flex-direction: column;
+      padding-top: 40px;
+    
     .my-experience-timeline {
       left: 0;
+      height: calc(100% + 35px);
     }
     
     .my-bistel {
-      top: -312px;
-      left: 4px;
+      position: initial;
       width: 100%;
+      margin-top: 44px;
+      
+      &:before {
+        left: -6px;
+      }
     }
     
     .my-sbs {
-      top: 267px;
-      left: 4px;
+      position: initial;
       width: 100%;
       padding-left: 25px;
       padding-right: 0;
       text-align: left;
       
       &:before {
-        left: -10px;
+        left: -6px;
       }
 
       li {
@@ -356,21 +372,23 @@
     }
     
     .my-nextree {
-      top: -150px;
-      left: 4px;
+      position: initial;
       width: 100%;
+      
+      &:before {
+        left: -6px;
+      }
     }
     
     .my-kosta {
-      top: 267px;
-      left: 4px;
+      position: initial;
       width: 100%;
       padding-left: 25px;
       padding-right: 0;
       text-align: left;
       
       &:before {
-        left: -10px;
+        left: -6px;
       }
        
       li {

@@ -1,1 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-06T19:29:39+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-09T17:49:45+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">A-Cubed: Application List</title><link href="http://localhost:4000/acubed-application-list/" rel="alternate" type="text/html" title="A-Cubed: Application List" /><published>2015-09-24T00:00:00+09:00</published><updated>2015-09-24T00:00:00+09:00</updated><id>http://localhost:4000/acubed-application-list</id><content type="html" xml:base="http://localhost:4000/acubed-application-list/">&lt;h3 id=&quot;1-default-the-view-of-application-list-sidebar&quot;&gt;1. Default the View of Application List Sidebar.&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-42.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-42.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; 상단 아이콘 클릭 시, Dashboard에 등록되어 있는 모든 Widget들의 연관된 Application Lists를 보여줌&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HTML:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a3-sidebar-wrapper a3-sidebar-small&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;CSS:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.a3-wrapper&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.a3-sidebar-wrapper.a3-sidebar-small&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;transition&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0.1s&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ease-in-out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-43.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-43.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Widget에서 drill down을 누르면 Application List가 나타난다.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; Widget에서 drill down을 선택하면 그 Widget과 연관된 Application List만 보여줌&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-44.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-44.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-45.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-45.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-46.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-46.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-resize-the-view-of-application-list-sidebar&quot;&gt;2. Resize the View of Application List Sidebar.&lt;/h3&gt;
+
+&lt;p&gt;Application List Sidebar 상단의 버튼을 클릭하면 Sidebar 전체 보기가 가능하다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HTML:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a3-sidebar-wrapper a3-sidebar-full&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;CSS:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.a3-wrapper&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.a3-sidebar-wrapper.a3-sidebar-full&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;transition&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0.1s&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ease-in-out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-47.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-47.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-48.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-48.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Application List Sidebar 상단의 버튼을 클릭하면 원래 화면 크기로 돌아온다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-49.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-49.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-50.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-50.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-go-to-the-workspace-from-the-application-selected&quot;&gt;3. Go to the Workspace from the Application selected.&lt;/h3&gt;
+
+&lt;p&gt;Application List Sidebar에서 Application을 선택하면 해당 Workspace 페이지로 전환된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-51.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-51.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-52.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-52.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="sidebar" /><summary type="html">A-Cubed Sidebar의 Application List 가이드 제공</summary></entry></feed>
