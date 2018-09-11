@@ -1,54 +1,82 @@
-// skills
 
+// skills
+// when narrow width
 $(window).on('scroll', function(){
-  if ($("#skills").is(':visible')) {
+  if(window.scrollY >= 900) {
     $(".graph-90").addClass("move-90");
-  }
-  if ($("#skills").is(':visible')) {
     $(".graph-80").addClass("move-80");
-  }
-  if ($("#skills").is(':visible')) {
     $(".graph-70").addClass("move-70");
+    $(".percent").addClass("show-percent");
   }
-  if ($(".progress-bar").is(':visible')) {
+});
+
+// when wide width
+$('.block-right').on('scroll', function() {
+  var blockRight = $('.block-right');
+  
+  if(blockRight.scrollTop() >= 400) {
+    $(".graph-90").addClass("move-90");
+    $(".graph-80").addClass("move-80");
+    $(".graph-70").addClass("move-70");
     $(".percent").addClass("show-percent");
   }
 });
 
 
-// experience
 
+// experience
+// when narrow width
 $(window).on('scroll', function(){
-  if ($("#experience").is(':visible')) {
-    $(".test").addClass("move-bar");
+  if(window.scrollY >= 1500) {
+    $(".timeline").addClass("move-timeline");
+    $(".ex-content1").addClass("show-content");
   }
-  if ($("#experience").is(':visible')) {
-    $(".ex-content").addClass("show-content");
+  if(window.scrollY >= 2000) {
+    $(".ex-content2").addClass("show-content");
+  }
+  if(window.scrollY >= 2300) {
+    $(".ex-content3").addClass("show-content");
+  }
+  if(window.scrollY >= 2400) {
+    $(".ex-content4").addClass("show-content");
+  }
+});
+
+// when wide width
+$('.block-right').on('scroll', function() {
+  var blockRight = $('.block-right');
+  
+  if(blockRight.scrollTop() >= 1100) {
+    $(".timeline").addClass("move-timeline");
+    $(".ex-content1").addClass("show-content");
+  }
+  if(blockRight.scrollTop() >= 1400) {
+    $(".ex-content2").addClass("show-content");
+  }
+  if(blockRight.scrollTop() >= 1600) {
+    $(".ex-content3").addClass("show-content");
+  }
+  if(blockRight.scrollTop() >= 1800) {
+    $(".ex-content4").addClass("show-content");
   }
 });
 
 
 
-//$(window).on('scroll', function(){
-//  if ($("#experience").is(':visible')) {
-//    $(".graph-90").addClass("move-90");
+
+
+$(window).on('scroll', function() {
+  var scrollValue = $(document).scrollTop();
+  console.log(scrollValue);
+});
+
+
+//$(window).on('resize', function () {
+//  if ($(window).width() <= 320) {
+//    // is mobile device
 //  }
 //});
 
-
-
-
-//$(window).on('scroll', function(){
-//  if (checkVisible($("#skills"))) {
-//    $(".graph-90").addClass("move-90");
-//  }
-//  if (checkVisible($("#skills"))) {
-//    $(".graph-80").addClass("move-80");
-//  }
-//  if (checkVisible($("#skills"))) {
-//    $(".graph-70").addClass("move-70");
-//  }
-//});
 
 //function checkVisible(elm) {
 //  elm = elm.get(0);

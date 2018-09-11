@@ -15,15 +15,15 @@ customjs:
   </p> 
   <p>
   고객의 요구사항을 잘 반영하기 위해선 프로젝트를 함께 하는 팀원들과의 대화가 가장 중요하다고 생각합니다. 혼자 생각하여 판단하지 않고 함께 소통하여 좋은 디자인을 만드는 것이 제 목표입니다.
-  </p>
+  </p> 
   <p>
   해당 사이트는 <a href="https://github.com/">GitHub</a>에서 제공하는 <a href="https://jekyllrb.com/">Jekyll</a>을 이용하여 반응형 웹으로 제작 되었으며, 사용된 기술은 HTML, Sass, Javascript 입니다. 
   </p>
 </div> 
-<br> 
-<br>   
 <br>
-
+<br>    
+<br>  
+   
  
 # SKILLS
 
@@ -72,8 +72,8 @@ customjs:
 # EXPERIENCE
 
 <div class="my-experience-wrapper">
-  <div class="my-experience-timeline"></div>
-  <div class="my-experience-content ex-content right my-bistel">
+  <div class="my-experience-timeline timeline"></div>
+  <div class="my-experience-content ex-content1 right my-bistel">
     <div>2013-2017</div>
     <strong>BISTel</strong>
     <ul>
@@ -82,7 +82,7 @@ customjs:
       <li>프로토타이핑 툴을 이용하여 목업 디자인</li>
     </ul>
   </div>
-  <div class="my-experience-content ex-content left my-sbs"> 
+  <div class="my-experience-content ex-content2 left my-sbs">  
     <div>2013</div>  
     <strong>SBS Academy Computer Arts Institute</strong>
     <ul>
@@ -96,7 +96,7 @@ customjs:
       <li>모바일 UI / UX   </li>
     </ul>
   </div>
-  <div class="my-experience-content ex-content right my-nextree">
+  <div class="my-experience-content ex-content3 right my-nextree">
     <div>2012-2013</div>
     <strong>NEXTREE</strong>
     <ul>
@@ -105,7 +105,7 @@ customjs:
       <li>사내에서 운영되는 관리자 웹페이지 개발 후, 개선 및 유지 보수</li>
     </ul>
   </div>
-  <div class="my-experience-content ex-content left my-kosta">
+  <div class="my-experience-content ex-content4 left my-kosta">
     <div>2011</div> 
     <strong>KOSTA</strong> 
     <ul>
