@@ -8,7 +8,7 @@ tags:
   - guide
   - html
   - css
-published: false
+published: true
 ---
 
 ### Layout Design & Markup

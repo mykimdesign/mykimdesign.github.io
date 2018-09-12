@@ -9,7 +9,7 @@ tags:
   - html
   - css
   - sidebar
-published: false 
+published: true 
 ---
 
 ### 1. The default view of the Sidebar.

@@ -1,6 +1,7 @@
 /* main */
 .about-info {
   margin-top: 50px;
+  padding-top: 30px;
   
   p {
       color: #6c6c6c;
@@ -10,12 +11,12 @@
   }
   
   a {
-    color: #399f62;
+    //color: #60B0F4;
   }
 }
 
 .my-aboutme-wrapper {
-  padding-top: 35px;
+  padding-top: 30px;
 }
 
 .my-skills-wrapper {
@@ -69,24 +70,29 @@
     }
     
     .progress-bar {
-      background: gainsboro;
+      background-color: $orange;
+      //background: #966cc8ad;
+      //background: #FAD1B0;
     }
 
     .graph-90 {
       height: 15px;
       width: 90%;
+      background-color: lighten($orange, 10);
       opacity: 0;
     }
     
     .graph-80 {
       height: 15px;
       width: 80%;
+      background-color: lighten($orange, 18);
       opacity: 0;
     }
     
     .graph-70 {
       height: 15px;
       width:70%;
+      background-color: lighten($orange, 22);
       opacity: 0;
     }
         
@@ -156,7 +162,7 @@
   .my-experience-content {
     display: inline-block;
     position: relative;
-    width: 246px;
+    width: 258px;
     padding-top: 35px;
     padding-bottom: 55px;
     
@@ -166,7 +172,7 @@
       width: 16px;
       height: 16px;
       background-color: #fff;
-      border: 4px solid salmon;
+      border: 4px solid $orange;
       border-radius: 100%;
       content: '';
       z-index: 1;
@@ -194,7 +200,7 @@
   }
   
   .my-bistel {
-    top: -47px;
+    top: 40px;
     right: -252px;
     padding-left: 25px;
     
@@ -216,8 +222,8 @@
   }
   
   .my-sbs {
-    top: 341px;
-    left: -250px;
+    top: 25px;
+    left: -10px;
     padding-right: 25px;
     text-align: right;
     
@@ -239,7 +245,7 @@
   }
   
   .my-nextree {
-    top: 305px;
+    top: 10px;
     right: -252px;
     padding-left: 25px;
     
@@ -261,8 +267,8 @@
   }
   
   .my-kosta {
-    top: 454px;
-    left: -250px;
+    top: -5px;
+    left: -10px;
     padding-right: 25px;
     text-align: right;
     
@@ -317,7 +323,7 @@
   
   .my-experience-timeline {
     position: absolute;
-    top: 45px;
+    top: 40px;
     left: calc(50% - 2px);
     width: 4px;
     height: 1190px;
@@ -326,7 +332,7 @@
   
   .timeline {
     width: 4px;
-    height: 1190px;
+    height: calc(100% + 40px);
     opacity: 0;
   }
 
@@ -491,6 +497,7 @@
         width: auto;
         margin-left: -34px;
         font-size: 11px;
+        color: #fff;
       }
     }
   }

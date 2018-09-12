@@ -1,72 +1,792 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-11T18:43:40+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">A-Cubed: Application List</title><link href="http://localhost:4000/acubed-application-list/" rel="alternate" type="text/html" title="A-Cubed: Application List" /><published>2015-09-24T00:00:00+09:00</published><updated>2015-09-24T00:00:00+09:00</updated><id>http://localhost:4000/acubed-application-list</id><content type="html" xml:base="http://localhost:4000/acubed-application-list/">&lt;h3 id=&quot;1-default-the-view-of-application-list-sidebar&quot;&gt;1. Default the View of Application List Sidebar.&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-42.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-42.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; 상단 아이콘 클릭 시, Dashboard에 등록되어 있는 모든 Widget들의 연관된 Application Lists를 보여줌&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HTML:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a3-sidebar-wrapper a3-sidebar-small&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;CSS:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.a3-wrapper&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.a3-sidebar-wrapper.a3-sidebar-small&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;transition&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0.1s&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ease-in-out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-43.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-43.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-12T17:25:55+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UX Designer</subtitle><entry><title type="html">FW: Global Control</title><link href="http://localhost:4000/fw-global-control/" rel="alternate" type="text/html" title="FW: Global Control" /><published>2017-04-18T00:00:00+09:00</published><updated>2017-04-18T00:00:00+09:00</updated><id>http://localhost:4000/fw-global-control</id><content type="html" xml:base="http://localhost:4000/fw-global-control/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Widget에서 drill down을 누르면 Application List가 나타난다.&lt;/p&gt;
+&lt;h3 id=&quot;select-task&quot;&gt;Select Task&lt;/h3&gt;
 
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; Widget에서 drill down을 선택하면 그 Widget과 연관된 Application List만 보여줌&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;종류&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-44.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-44.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-45.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-45.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-46.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-46.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-1.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Radio button checked (Bootstrap 기능)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;input&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;radio&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;name=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;inlineRadioOptions&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;inlineRadio1&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a3-status-start&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;value=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;option1&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;checked&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;2-resize-the-view-of-application-list-sidebar&quot;&gt;2. Resize the View of Application List Sidebar.&lt;/h3&gt;
+&lt;h3 id=&quot;button&quot;&gt;Button&lt;/h3&gt;
 
-&lt;p&gt;Application List Sidebar 상단의 버튼을 클릭하면 Sidebar 전체 보기가 가능하다.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;종류&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;&lt;strong&gt;HTML:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-3.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a3-sidebar-wrapper a3-sidebar-full&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;ol&gt;
+  &lt;li&gt;button hidden&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;type=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;button&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn btn-default fw-btn-start hidden&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;i&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fa fa-play&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;aria-hidden=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;true&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/button&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;CSS:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.a3-wrapper&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.a3-sidebar-wrapper.a3-sidebar-full&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;right&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;transition&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;all&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0.1s&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ease-in-out&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-47.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-47.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-48.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-48.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Application List Sidebar 상단의 버튼을 클릭하면 원래 화면 크기로 돌아온다.&lt;/p&gt;
+&lt;h3 id=&quot;table&quot;&gt;Table&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Scroll
+    &lt;ul&gt;
+      &lt;li&gt;테이블은 x,y 스크롤이 가능함.&lt;/li&gt;
+      &lt;li&gt;스크롤에 따라 Header title(Server)과 Left title(FW)이 유동적으로 움직여야 함.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-49.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-49.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-50.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-50.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-4.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-4.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;3-go-to-the-workspace-from-the-application-selected&quot;&gt;3. Go to the Workspace from the Application selected.&lt;/h3&gt;
+&lt;h3 id=&quot;member&quot;&gt;Member&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;종류&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Application List Sidebar에서 Application을 선택하면 해당 Workspace 페이지로 전환된다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;왼쪽부터 healthy(녹색), Stopped(회색), fatal(빨강), initializing(올리브), warning(노랑), abnormal(주황)&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-51.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-51.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;
+&lt;ol&gt;
+  &lt;li&gt;상태&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;basic일 때&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-5.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-5.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;label label-healthy&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo1&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;selected일 때&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-6.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;label label-healthy selected&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo1&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;disabled일 때&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-7.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-7.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;label label-healthy disabled&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo1&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="FW" /><category term="guide" /><category term="html" /><category term="css" /></entry><entry><title type="html">FW: App Deploy</title><link href="http://localhost:4000/fw-app-deploy/" rel="alternate" type="text/html" title="FW: App Deploy" /><published>2017-03-30T00:00:00+09:00</published><updated>2017-03-30T00:00:00+09:00</updated><id>http://localhost:4000/fw-app-deploy</id><content type="html" xml:base="http://localhost:4000/fw-app-deploy/">&lt;p&gt;사용자는 새로운 버전을 추가할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;① 상단의 Add Version 버튼을 클릭하여 새로운 버전을 추가할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-1.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20150924/image-52.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20150924/image-52.png&quot; alt=&quot;application list&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="sidebar" /><summary type="html">A-Cubed Sidebar의 Application List 가이드 제공</summary></entry></feed>
+&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-2.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;사용자는 버전에 대한 상세 정보를 볼 수 있다.&lt;/p&gt;
+
+&lt;p&gt;① 등록된 버전을 Mouse Over하면 Detail View와 Delete 아이콘이 보인다.
+&lt;br /&gt;
+② Detail View 아이콘을 클릭하면 Detail Veiw Modal 창이 나타나며 상세 정보를 볼 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-3.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-4.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;사용자는 버전을 전체 적용하기 전에 일부 Framework에 대하여 버전을 선택해 변경해 볼수 있다.&lt;/p&gt;
+
+&lt;p&gt;① Set Head Version 실행 전 (상단에 버전이 최초로 등록될 경우)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;상단에서 버전이 최초로 등록될 때, 하단의 테이블에서 Version을 선택할 수 있다.&lt;/li&gt;
+  &lt;li&gt;Set Head Version 실행 전이므로 Activate 버튼은 비활성화 된다.&lt;/li&gt;
+  &lt;li&gt;Members는 회색으로 표현된다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;② Set Head Version 실행 전 (상단에 버전이 등록되어 있을 경우)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;상단에 버전이 등록되어 있을 경우, 하단의 테이블에서 Version을 선택할 수 있다.&lt;/li&gt;
+  &lt;li&gt;Set Head Version 실행 전이므로 Activate 버튼은 비활성화된다.&lt;/li&gt;
+  &lt;li&gt;Members는 회색으로 표현된다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;③ Set Head Version 실행 후&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;버전 변경 시, Version text는 녹색 계열로 표현된다.&lt;/li&gt;
+  &lt;li&gt;Set Head Version 실행 완료 되면 Activate 버튼은 활성화된다.&lt;/li&gt;
+  &lt;li&gt;Members는 녹색 계열로 표현된다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;④ Activate 실행 후&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Activate가 실행 완료되면 Activate 버튼은 비활성화된다.&lt;/li&gt;
+  &lt;li&gt;성공일 경우, Members는 푸른 계열로 표현된다.&lt;/li&gt;
+  &lt;li&gt;실패일 경우, Members는 붉은 계열로 표현된다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-5.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170330/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-6.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="FW" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">Hot Deploy를 개선 및 업그레이드한 제품</summary></entry><entry><title type="html">FW: Log Filter Configuration</title><link href="http://localhost:4000/fw-log-filter-configuration/" rel="alternate" type="text/html" title="FW: Log Filter Configuration" /><published>2017-03-28T00:00:00+09:00</published><updated>2017-03-28T00:00:00+09:00</updated><id>http://localhost:4000/fw-log-filter-configuration</id><content type="html" xml:base="http://localhost:4000/fw-log-filter-configuration/">&lt;p&gt;사용자는 등록된 Filter List를 조회할 수 있다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Log Filter Configuration 진입시, Filter List(왼쪽 영역)의 테이블 맨 위 row 기준으로 Filter View(오른쪽 영역)에 정보가 보여진다.&lt;/li&gt;
+  &lt;li&gt;사용자는 List의 특정 row를 클릭해 상세 내용을 조회하거나 수정할 수 있다.&lt;/li&gt;
+  &lt;li&gt;수정 권한이 없는 경우, Filter View(오른쪽 영역) 상단의 Edit 버튼은 보여지지 않는다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-1.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;사용자는 새로운 Filter를 등록할 수 있다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Filter List(왼쪽 영역) 상단의 Add 버튼을 클릭하면 테이블에 빈 row 영역이 추가되며 Add 버튼은 비활성화 된다.&lt;/li&gt;
+  &lt;li&gt;사용자는 Filter Registration(오른쪽 영역)에서 기본 정보를 등록할 수 있다.&lt;/li&gt;
+  &lt;li&gt;Filter Registration(오른쪽 영역) 상단에 Cancel을 누르면 Filter Registration(오른쪽 영역) 부분은 저장되지 않고 취소된다.&lt;/li&gt;
+  &lt;li&gt;Filter Registration(오른쪽 영역) 상단에 Save을 누르면 Filter Registration(오른쪽 영역) 부분은 저장된다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-2.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;사용자는 Filter List(왼쪽 영역)의 특정 row를 삭제할 수 있다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;한개 이상의 checkbox를 선택하면 Filter List(왼쪽 영역) 상단의 Delete 버튼이 활성화 된다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-3.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="MI" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">사용자가 Filter를 조회, 추가, 삭제할 수 있다.</summary></entry><entry><title type="html">Guide: A-Cubed Color</title><link href="http://localhost:4000/color-guide/" rel="alternate" type="text/html" title="Guide: A-Cubed Color" /><published>2017-02-28T00:00:00+09:00</published><updated>2017-02-28T00:00:00+09:00</updated><id>http://localhost:4000/color-guide</id><content type="html" xml:base="http://localhost:4000/color-guide/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170228/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170228/image-1.jpg&quot; alt=&quot;color guide&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;chart-fonts--grid&quot;&gt;Chart Fonts &amp;amp; Grid&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;폰트 사이즈 : 11px&lt;/li&gt;
+  &lt;li&gt;색상 #555555&lt;/li&gt;
+  &lt;li&gt;Outline : #55555&lt;/li&gt;
+  &lt;li&gt;Inline : #dddddd
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tablegrid-colors&quot;&gt;Table(Grid) Colors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;row hover : #eeeeee&lt;/li&gt;
+  &lt;li&gt;row selected : #DAECF5
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;chart-colors&quot;&gt;Chart Colors&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Status chart color
+    &lt;ul&gt;
+      &lt;li&gt;Chart가 Status를 가질때&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Basic chart color
+    &lt;ul&gt;
+      &lt;li&gt;Basic 하게 사용하는 색상 (UX팀에서 사용하는 Color)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Separation chart color
+    &lt;ul&gt;
+      &lt;li&gt;Chart에서 구분을 위하여 순차적으로 뿌려주는 색상 (Gantt, Trend Chart)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Basic bar chart color
+    &lt;ul&gt;
+      &lt;li&gt;기본 Bar Chart (Bar Chart가 추가 될 경우 순차적으로 사용)
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;status-colors-code&quot;&gt;Status colors #Code&lt;/h3&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;/th&gt; 
+        &lt;th&gt;1&lt;/th&gt;
+        &lt;th&gt;2&lt;/th&gt;
+        &lt;th&gt;3&lt;/th&gt;
+        &lt;th&gt;4&lt;/th&gt;
+        &lt;th&gt;5&lt;/th&gt;
+        &lt;th&gt;6&lt;/th&gt;
+        &lt;th&gt;7&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+     &lt;tr&gt;
+        &lt;td&gt;Default&lt;/td&gt;
+        &lt;td&gt;0&lt;/td&gt; 
+        &lt;td&gt;555555&lt;/td&gt;
+        &lt;td&gt;ff3d3d&lt;/td&gt;
+        &lt;td&gt;ff8519&lt;/td&gt;
+        &lt;td&gt;ffba00&lt;/td&gt;
+        &lt;td&gt;a2c900&lt;/td&gt;
+        &lt;td&gt;21b100&lt;/td&gt;
+        &lt;td&gt;3793ff&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;basic-colors-code&quot;&gt;Basic colors #Code&lt;/h3&gt;
+
+&lt;div style=&quot;width:100%; overflow:auto;&quot;&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;/th&gt; 
+        &lt;th&gt;1&lt;/th&gt;
+        &lt;th&gt;2&lt;/th&gt;
+        &lt;th&gt;3&lt;/th&gt;
+        &lt;th&gt;4&lt;/th&gt;
+        &lt;th&gt;5&lt;/th&gt;
+        &lt;th&gt;6&lt;/th&gt;
+        &lt;th&gt;7&lt;/th&gt;
+        &lt;th&gt;8&lt;/th&gt; 
+        &lt;th&gt;9&lt;/th&gt;
+        &lt;th&gt;10&lt;/th&gt;
+        &lt;th&gt;11&lt;/th&gt;
+        &lt;th&gt;12&lt;/th&gt;
+        &lt;th&gt;13&lt;/th&gt;
+        &lt;th&gt;14&lt;/th&gt;
+        &lt;th&gt;15&lt;/th&gt;
+        &lt;th&gt;16&lt;/th&gt;
+        &lt;th&gt;17&lt;/th&gt;
+        &lt;th&gt;18&lt;/th&gt;
+        &lt;th&gt;19&lt;/th&gt;
+        &lt;th&gt;20&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+     &lt;tr&gt;
+        &lt;td&gt;Selected&lt;/td&gt;
+        &lt;td&gt;0&lt;/td&gt; 
+        &lt;td&gt;cc3131&lt;/td&gt;
+        &lt;td&gt;cc4729&lt;/td&gt;
+        &lt;td&gt;cc5e29&lt;/td&gt;
+        &lt;td&gt;cc7529&lt;/td&gt;
+        &lt;td&gt;cc8c29&lt;/td&gt;
+        &lt;td&gt;c6b700&lt;/td&gt;
+        &lt;td&gt;8fb200&lt;/td&gt;
+        &lt;td&gt;51a800&lt;/td&gt;
+        &lt;td&gt;1e9e00&lt;/td&gt;
+        &lt;td&gt;1a8e00&lt;/td&gt;
+        &lt;td&gt;008e78&lt;/td&gt;
+        &lt;td&gt;009fa7&lt;/td&gt;
+        &lt;td&gt;0086ba&lt;/td&gt;
+        &lt;td&gt;3163cc&lt;/td&gt;
+        &lt;td&gt;4e5ac2&lt;/td&gt;
+        &lt;td&gt;724abf&lt;/td&gt;
+        &lt;td&gt;9532a8&lt;/td&gt;
+        &lt;td&gt;b43b82&lt;/td&gt;
+        &lt;td&gt;cc3c66&lt;/td&gt;
+        &lt;td&gt;9a8878&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Default&lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt; 
+        &lt;td&gt;ff3d3d&lt;/td&gt;
+        &lt;td&gt;ff5933&lt;/td&gt;
+        &lt;td&gt;ff7633&lt;/td&gt;
+        &lt;td&gt;ff9333&lt;/td&gt;
+        &lt;td&gt;ffb847&lt;/td&gt;
+        &lt;td&gt;ffd400&lt;/td&gt;
+        &lt;td&gt;b3de00&lt;/td&gt;
+        &lt;td&gt;66d200&lt;/td&gt;
+        &lt;td&gt;25c500&lt;/td&gt;
+        &lt;td&gt;21b100&lt;/td&gt;
+        &lt;td&gt;19baa1&lt;/td&gt;
+        &lt;td&gt;00c7d1&lt;/td&gt;
+        &lt;td&gt;00a7e8&lt;/td&gt;
+        &lt;td&gt;3d7cff&lt;/td&gt;
+        &lt;td&gt;6270f2&lt;/td&gt;
+        &lt;td&gt;8e5def&lt;/td&gt;
+        &lt;td&gt;ba3ed2&lt;/td&gt;
+        &lt;td&gt;e14aa3&lt;/td&gt;
+        &lt;td&gt;ff4b80&lt;/td&gt;
+        &lt;td&gt;c1aa96&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Opacity 90%&lt;/td&gt;
+        &lt;td&gt;2&lt;/td&gt; 
+        &lt;td&gt;ff5050&lt;/td&gt;
+        &lt;td&gt;ff6947&lt;/td&gt;
+        &lt;td&gt;ff8347&lt;/td&gt;
+        &lt;td&gt;ff9e47&lt;/td&gt;
+        &lt;td&gt;ffb847&lt;/td&gt;
+        &lt;td&gt;ffd819&lt;/td&gt;
+        &lt;td&gt;bae119&lt;/td&gt;
+        &lt;td&gt;75d619&lt;/td&gt;
+        &lt;td&gt;3acb19&lt;/td&gt;
+        &lt;td&gt;37b919&lt;/td&gt;
+        &lt;td&gt;1abaa2&lt;/td&gt;
+        &lt;td&gt;19ccd6&lt;/td&gt;
+        &lt;td&gt;19b0ea&lt;/td&gt;
+        &lt;td&gt;5089ff&lt;/td&gt;
+        &lt;td&gt;717ef3&lt;/td&gt;
+        &lt;td&gt;996df1&lt;/td&gt;
+        &lt;td&gt;c151d6&lt;/td&gt;
+        &lt;td&gt;e45cac&lt;/td&gt;
+        &lt;td&gt;ff5d8c&lt;/td&gt;
+        &lt;td&gt;c7b2a0&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Opacity 80%&lt;/td&gt;
+        &lt;td&gt;3&lt;/td&gt; 
+        &lt;td&gt;ff6464&lt;/td&gt;
+        &lt;td&gt;ff7a5c&lt;/td&gt;
+        &lt;td&gt;ff915c&lt;/td&gt;
+        &lt;td&gt;ffa95c&lt;/td&gt;
+        &lt;td&gt;ffc05c&lt;/td&gt;
+        &lt;td&gt;ffdd33&lt;/td&gt;
+        &lt;td&gt;c2e533&lt;/td&gt;
+        &lt;td&gt;85db33&lt;/td&gt;
+        &lt;td&gt;51d133&lt;/td&gt;
+        &lt;td&gt;4dc133&lt;/td&gt;
+        &lt;td&gt;33c1ac&lt;/td&gt;
+        &lt;td&gt;33d2da&lt;/td&gt;
+        &lt;td&gt;33b9ed&lt;/td&gt;
+        &lt;td&gt;6496ff&lt;/td&gt;
+        &lt;td&gt;818df5&lt;/td&gt;
+        &lt;td&gt;a57df2&lt;/td&gt;
+        &lt;td&gt;c865db&lt;/td&gt;
+        &lt;td&gt;e76eb5&lt;/td&gt;
+        &lt;td&gt;ff6f99&lt;/td&gt;
+        &lt;td&gt;cdbbab&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Opacity 70%&lt;/td&gt;
+        &lt;td&gt;4&lt;/td&gt; 
+        &lt;td&gt;ff7777&lt;/td&gt;
+        &lt;td&gt;ff8a70&lt;/td&gt;
+        &lt;td&gt;ff9f70&lt;/td&gt;
+        &lt;td&gt;ffb370&lt;/td&gt;
+        &lt;td&gt;ffc870&lt;/td&gt;
+        &lt;td&gt;ffe14c&lt;/td&gt;
+        &lt;td&gt;cae84c&lt;/td&gt;
+        &lt;td&gt;94df4c&lt;/td&gt;
+        &lt;td&gt;66d64c&lt;/td&gt;
+        &lt;td&gt;63c84c&lt;/td&gt;
+        &lt;td&gt;4cc9b6&lt;/td&gt;
+        &lt;td&gt;4cd8df&lt;/td&gt;
+        &lt;td&gt;4cc1ef&lt;/td&gt;
+        &lt;td&gt;77a3ff&lt;/td&gt;
+        &lt;td&gt;919bf6&lt;/td&gt;
+        &lt;td&gt;b08df4&lt;/td&gt;
+        &lt;td&gt;cf78df&lt;/td&gt;
+        &lt;td&gt;ea80be&lt;/td&gt;
+        &lt;td&gt;ff81a6&lt;/td&gt;
+        &lt;td&gt;d3c3b5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Opacity 60%&lt;/td&gt;
+        &lt;td&gt;5&lt;/td&gt; 
+        &lt;td&gt;ff8b8b&lt;/td&gt;
+        &lt;td&gt;ff9b85&lt;/td&gt;
+        &lt;td&gt;ffad85&lt;/td&gt;
+        &lt;td&gt;ffbe85&lt;/td&gt;
+        &lt;td&gt;ffd085&lt;/td&gt;
+        &lt;td&gt;ffe566&lt;/td&gt;
+        &lt;td&gt;d1eb66&lt;/td&gt;
+        &lt;td&gt;a3e466&lt;/td&gt;
+        &lt;td&gt;7cdc66&lt;/td&gt;
+        &lt;td&gt;7ad066&lt;/td&gt;
+        &lt;td&gt;66d1c1&lt;/td&gt;
+        &lt;td&gt;66dde3&lt;/td&gt;
+        &lt;td&gt;66caf1&lt;/td&gt;
+        &lt;td&gt;8bb0ff&lt;/td&gt;
+        &lt;td&gt;a1a9f7&lt;/td&gt;
+        &lt;td&gt;bb9ef5&lt;/td&gt;
+        &lt;td&gt;d68be4&lt;/td&gt;
+        &lt;td&gt;ed92c8&lt;/td&gt;
+        &lt;td&gt;ff93b3&lt;/td&gt;
+        &lt;td&gt;daccc0&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;separation-colors-code&quot;&gt;Separation colors #Code&lt;/h3&gt;
+
+&lt;div style=&quot;width:100%; overflow:auto;&quot;&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;/th&gt; 
+        &lt;th&gt;1&lt;/th&gt;
+        &lt;th&gt;2&lt;/th&gt;
+        &lt;th&gt;3&lt;/th&gt;
+        &lt;th&gt;4&lt;/th&gt;
+        &lt;th&gt;5&lt;/th&gt;
+        &lt;th&gt;6&lt;/th&gt;
+        &lt;th&gt;7&lt;/th&gt;
+        &lt;th&gt;8&lt;/th&gt; 
+        &lt;th&gt;9&lt;/th&gt;
+        &lt;th&gt;10&lt;/th&gt;
+        &lt;th&gt;11&lt;/th&gt;
+        &lt;th&gt;12&lt;/th&gt;
+        &lt;th&gt;13&lt;/th&gt;
+        &lt;th&gt;14&lt;/th&gt;
+        &lt;th&gt;15&lt;/th&gt;
+        &lt;th&gt;16&lt;/th&gt; 
+        &lt;th&gt;17&lt;/th&gt;
+        &lt;th&gt;18&lt;/th&gt;
+        &lt;th&gt;19&lt;/th&gt;
+        &lt;th&gt;20&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+     &lt;tr&gt;
+        &lt;td&gt;Default&lt;/td&gt;
+        &lt;td&gt;0&lt;/td&gt; 
+        &lt;td&gt;5682c8&lt;/td&gt;
+        &lt;td&gt;90c44f&lt;/td&gt;
+        &lt;td&gt;c0afa1&lt;/td&gt;
+        &lt;td&gt;5c6992&lt;/td&gt;
+        &lt;td&gt;358ab1&lt;/td&gt;
+        &lt;td&gt;b29b5e&lt;/td&gt;
+        &lt;td&gt;8b9c7e&lt;/td&gt;
+        &lt;td&gt;8f9cdc&lt;/td&gt; 
+        &lt;td&gt;6c5d9d&lt;/td&gt;
+        &lt;td&gt;7c838a&lt;/td&gt;
+        &lt;td&gt;4e9f9b&lt;/td&gt;
+        &lt;td&gt;c7c598&lt;/td&gt;
+        &lt;td&gt;a5a064&lt;/td&gt;
+        &lt;td&gt;9e6c94&lt;/td&gt;
+        &lt;td&gt;4f6aa0&lt;/td&gt;
+        &lt;td&gt;4ea9c4&lt;/td&gt;
+        &lt;td&gt;5c9252&lt;/td&gt;
+        &lt;td&gt;48b374&lt;/td&gt;
+        &lt;td&gt;9b8241&lt;/td&gt;
+        &lt;td&gt;c09a83&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;basic-bar-chart-colors-code&quot;&gt;Basic bar chart colors #Code&lt;/h3&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;
+        &lt;th&gt;&lt;/th&gt;
+        &lt;th&gt;&lt;/th&gt; 
+        &lt;th&gt;1&lt;/th&gt;
+        &lt;th&gt;2&lt;/th&gt;
+        &lt;th&gt;3&lt;/th&gt;
+      &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+     &lt;tr&gt;
+        &lt;td&gt;Default&lt;/td&gt;
+        &lt;td&gt;0&lt;/td&gt; 
+        &lt;td&gt;6e8ba0&lt;/td&gt;
+        &lt;td&gt;859e66&lt;/td&gt;
+        &lt;td&gt;5c9a8e&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="color" /><category term="guide" /><category term="UX" /><summary type="html">UX팀에서 제공하는 A-Cubed Color Guide</summary></entry><entry><title type="html">MI: DFD</title><link href="http://localhost:4000/mi-dfd/" rel="alternate" type="text/html" title="MI: DFD" /><published>2017-02-14T00:00:00+09:00</published><updated>2017-02-14T00:00:00+09:00</updated><id>http://localhost:4000/mi-dfd</id><content type="html" xml:base="http://localhost:4000/mi-dfd/">&lt;h3 id=&quot;prototype-url&quot;&gt;Prototype URL&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://wyk9qu.axshare.com&quot;&gt;DFD Prototype&lt;/a&gt;
+&lt;br /&gt;
+Password: 111111
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-parameter&quot;&gt;1. Parameter&lt;/h3&gt;
+
+&lt;p&gt;① 가장 높은 alarm count를 가진 3개의 parameter가 기본으로 보여진다.&lt;br /&gt;
+② Parameter text &amp;amp; arrow 클릭시, Parameter Level Fault Detail이 modal로 보여진다.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-1.jpg&quot; alt=&quot;dfd-parameter&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-2.jpg&quot; alt=&quot;dfd-parameter&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-wafers&quot;&gt;2. Wafers&lt;/h3&gt;
+
+&lt;p&gt;① 선택된 Wafer의 갯수 / Wafer의 총 갯수&lt;br /&gt;
+② Wafers는 Tree View 형태로 보여진다.&lt;br /&gt;
+③ Details 버튼 클릭시, Wafer Level Fault Detail이 modal로 보여진다.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-3.jpg&quot; alt=&quot;dfd-wafer&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-4.jpg&quot; alt=&quot;dfd-wafer&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-raw&quot;&gt;3. Raw&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-5.jpg&quot; alt=&quot;dfd-raw&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-6.jpg&quot; alt=&quot;dfd-raw&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170214/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170214/image-7.jpg&quot; alt=&quot;dfd-raw&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="MI" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">FD-TA를 Widget에서 마우스 클릭만으로 쉽고 빠르게 처리할 수 있도록 개선한 제품</summary></entry><entry><title type="html">FW: Detail Information</title><link href="http://localhost:4000/fw-detail-information/" rel="alternate" type="text/html" title="FW: Detail Information" /><published>2017-02-10T00:00:00+09:00</published><updated>2017-02-10T00:00:00+09:00</updated><id>http://localhost:4000/fw-detail-information</id><content type="html" xml:base="http://localhost:4000/fw-detail-information/">&lt;h3 id=&quot;layout-design--markup&quot;&gt;Layout Design &amp;amp; Markup&lt;/h3&gt;
+
+&lt;p&gt;Tab은 디자인 가이드와 같이 총 6개로 구성되어 있다.&lt;/p&gt;
+
+&lt;h4 id=&quot;1-framework-infos&quot;&gt;1. Framework Infos&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170210/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170210/image-1.jpg&quot; alt=&quot;detail information&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-eqp-list&quot;&gt;2. EQP List&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170210/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170210/image-2.jpg&quot; alt=&quot;detail information&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;3-log&quot;&gt;3. Log&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170210/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170210/image-3.jpg&quot; alt=&quot;detail information&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;4-warning-history&quot;&gt;4. Warning History&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170210/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170210/image-4.jpg&quot; alt=&quot;detail information&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;5-control-history&quot;&gt;5. Control History&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170210/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170210/image-5.jpg&quot; alt=&quot;detail information&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;6-status-history&quot;&gt;6. Status History&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170210/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170210/image-6.jpg&quot; alt=&quot;detail information&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;7-member-infos&quot;&gt;7. Member Infos&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170210/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170210/image-7.jpg&quot; alt=&quot;detail information&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;8-distributor-infos&quot;&gt;8. Distributor Infos&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170210/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170210/image-8.jpg&quot; alt=&quot;detail information&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Table은 기본으로 가운데 정렬이며, 글자가 들어가는 항목은 모두 좌측 정렬이다.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a3-table-cell&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;CPU(%)&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a3-table-cell text-ellipsis&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Member&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Progress bar는 총 3가지로 구분된다.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;progress-bar progress-bar-success&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;progress-bar progress-bar-warning&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;progress-bar progress-bar-danger&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="FW" /><category term="guide" /><category term="html" /><category term="css" /></entry><entry><title type="html">MI: User Profile</title><link href="http://localhost:4000/user-profile/" rel="alternate" type="text/html" title="MI: User Profile" /><published>2017-01-25T00:00:00+09:00</published><updated>2017-01-25T00:00:00+09:00</updated><id>http://localhost:4000/user-profile</id><content type="html" xml:base="http://localhost:4000/user-profile/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-1.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-2.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-3.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-4.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-5.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-6.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-7.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-8.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-9.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170125/image-10.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170125/image-10.jpg&quot; alt=&quot;notification&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="MI" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">User Information 내의 Profile 메뉴에서 사용자 정보 등록을 할 수 있다.</summary></entry><entry><title type="html">FW: Hot Deploy</title><link href="http://localhost:4000/fw-hot-deploy/" rel="alternate" type="text/html" title="FW: Hot Deploy" /><published>2016-12-27T00:00:00+09:00</published><updated>2016-12-27T00:00:00+09:00</updated><id>http://localhost:4000/fw-hot-deploy</id><content type="html" xml:base="http://localhost:4000/fw-hot-deploy/">&lt;p&gt;사용자는 Application에 대한 Version을 특정 Framework에 대해서 먼저 적용해 볼 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-1.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Add Version 버튼을 클릭하여 새로운 버전을 추가 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-2.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-3.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;전체 적용하기 전에 일부 Framework에 대하여 적용할 버전을 선택해 변경해본다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-4.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Version을 클릭하면 적용할 것인지에 대한 Popup창이 뜨고 OK 버튼을 클릭하여 Version 선적용 작업을 완료한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-5.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Version Update가 실패한 Member는 빨간색으로 표시된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-6.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Update에 실패한 Member에 대해서만 Version Update를 재시도 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-7.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Framework에 있는 모든 Member가 Update를 성공하면 Version이 변경된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-8.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;상단에 위치한 Version을 클릭해서 모든 Framework의 Member들을 대상으로 일괄 적용 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-9.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-10.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-10.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;지우고자 하는 Version을 클릭하여 해당 Version을 삭제 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-11.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-11.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-12.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-12.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="FW" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">Application에 대한 Version을 특정 Framework에 선적용 해보고 성공했을때, 그 안정성을 바탕으로 전체 적용할 수 있게 할 수 있도록 도와주는 제품</summary></entry><entry><title type="html">MI: TQP</title><link href="http://localhost:4000/mi-tqp/" rel="alternate" type="text/html" title="MI: TQP" /><published>2016-10-20T00:00:00+09:00</published><updated>2016-10-20T00:00:00+09:00</updated><id>http://localhost:4000/mi-tqp</id><content type="html" xml:base="http://localhost:4000/mi-tqp/">&lt;!-- 
+https://wiki.bistel.com:8443/pages/viewpage.action?pageId=47159535
+--&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; 
+TQP(Tool Quality Predictor): 프로세스 설비(Tool)는 툴의 상태를 측정하기 위한 다양한 센서들을 가지고 있는데 TQP로 해당 센서들의 습성을 찾아 예측을 위한 모델을 생성하거나 설정된 한계에 언제쯤 다다르게 되는지 미래 예측을 할 수 있게 도와주는 제품&lt;/p&gt;
+
+&lt;h3 id=&quot;prototype-url&quot;&gt;Prototype URL&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://2mm24t.axshare.com/&quot;&gt;TQP Prototype&lt;/a&gt;
+&lt;br /&gt;
+Password: 111111
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tqp&quot;&gt;TQP&lt;/h3&gt;
+
+&lt;p&gt;오른쪽 상단의 ‘Remaining Useful Life 버튼’을 클릭하면 사이드바가 오픈 된다.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;기본: &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sidebar-rul&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+Sidebar Open: &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sidebar-rul sidebar-open&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161020/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161020/image-2.jpg&quot; alt=&quot;tqp&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;① Algorithm List 기본: &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sidebar-body&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+② 등록된 Algorithm List: &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sidebar-body list&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+③ Algorithm List 삭제: &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;sidebar-body list&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a3-list-remove&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161020/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161020/image-3.jpg&quot; alt=&quot;tqp&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pin icon을 클릭했을 때 chart 영역은 Sidebar를 제외한 나머지 영역이 고정 된다.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;chart-wrapper fixed&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161020/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161020/image-4.jpg&quot; alt=&quot;tqp&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;chart-wrapper&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161020/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161020/image-5.jpg&quot; alt=&quot;tqp&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="MI" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">해당 센서들의 습성을 찾아 예측을 위한 모델을 생성하거나 설정된 한계에 언제쯤 다다르게 되는지 미래 예측을 할 수 있게 도와주는 제품</summary></entry><entry><title type="html">A-Cubed: Dashboard &amp;amp; Widget</title><link href="http://localhost:4000/acubed-dashboard-widget_/" rel="alternate" type="text/html" title="A-Cubed: Dashboard &amp; Widget" /><published>2016-09-06T00:00:00+09:00</published><updated>2016-09-06T00:00:00+09:00</updated><id>http://localhost:4000/acubed-dashboard-widget_</id><content type="html" xml:base="http://localhost:4000/acubed-dashboard-widget_/">&lt;h3 id=&quot;1-add-widget&quot;&gt;1. Add Widget&lt;/h3&gt;
+
+&lt;p&gt;오른쪽 상단에서 Widget List 버튼(파란부분영역)을 클릭하면 Widget List Side Bar가 Slide 되어 나타난다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-1.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-1.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-2.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-2.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;만들고자 하는 Widget을 드래그하여 원하는 위치에 놓을 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-3.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-3.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-4.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-4.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-5.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-5.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-resize-widget&quot;&gt;2. Resize Widget&lt;/h3&gt;
+
+&lt;p&gt;Widget 테두리 부분을 마우스로 잡고 드래그 하여 크기 조절이 가능하다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-6.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-6.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-7.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-7.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-8.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-8.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-configure-the-widget&quot;&gt;3. Configure the widget&lt;/h3&gt;
+
+&lt;p&gt;Widget의 오른쪽 상단 버튼(파란영역부분)을 클릭하여 Configuration 화면으로 이동 가능하다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-9.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-9.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-10.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-10.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-11.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-11.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Configuration 화면의 오른쪽(파란영역부분)에서 Widget Chart 검색 조건을 수정할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-12.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-12.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Configuration 화면의 왼쪽(파란영역부분)에서 Widget Chart 검색 조건을 통하여 반영된 Chart 미리보기가 가능하다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-13.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-13.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;오른쪽 상단(파란영역부분)의 ‘Apply’ 버튼을 클릭하면 수정사항이 반영된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-14.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-14.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;오른쪽 상단의 ‘뒤로가기’ 아이콘(파란부분영역)을 클릭하면 변경된 사항은 반영되지 않고 취소되어 Dashboard 화면으로 전환된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-15.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-15.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-remove-widget&quot;&gt;4. Remove Widget&lt;/h3&gt;
+
+&lt;p&gt;Widget의 오른쪽 상단 버튼(파란영역부분)을 클릭하여 Widget을 삭제할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160906/image-16.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160906/image-16.png&quot; alt=&quot;dashboard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="guide" /><category term="html" /><category term="css" /><category term="dashboard" /><category term="widget" /><summary type="html">Dashboard에서 Widget의 사용법에 대해 설명하고 Configuration 화면을 통해 검색 조건을 설정할 수 있다.</summary></entry></feed>

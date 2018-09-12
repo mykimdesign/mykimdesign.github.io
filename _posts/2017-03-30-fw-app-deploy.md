@@ -8,7 +8,7 @@ tags:
   - guide
   - html
   - css
-published: false
+published: true
 ---
 
 사용자는 새로운 버전을 추가할 수 있다.

@@ -9,7 +9,7 @@ tags:
   - html
   - css
   - sidebar
-published: false
+published: true
 ---
 
 ### 1. Default the View of Dashboard List Sidebar.

@@ -10,7 +10,7 @@ tags:
   - prototype
   - html
   - css
-published: false
+published: true
 ---
 
 A-Cubed Platform Prototype

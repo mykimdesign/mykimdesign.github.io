@@ -14,7 +14,7 @@ $(window).on('scroll', function(){
 $('.block-right').on('scroll', function() {
   var blockRight = $('.block-right');
   
-  if(blockRight.scrollTop() >= 400) {
+  if(blockRight.scrollTop() >= 300) {
     $(".graph-90").addClass("move-90");
     $(".graph-80").addClass("move-80");
     $(".graph-70").addClass("move-70");
@@ -31,10 +31,10 @@ $(window).on('scroll', function(){
     $(".timeline").addClass("move-timeline");
     $(".ex-content1").addClass("show-content");
   }
-  if(window.scrollY >= 2000) {
+  if(window.scrollY >= 1920) {
     $(".ex-content2").addClass("show-content");
   }
-  if(window.scrollY >= 2300) {
+  if(window.scrollY >= 2200) {
     $(".ex-content3").addClass("show-content");
   }
   if(window.scrollY >= 2400) {
@@ -46,11 +46,11 @@ $(window).on('scroll', function(){
 $('.block-right').on('scroll', function() {
   var blockRight = $('.block-right');
   
-  if(blockRight.scrollTop() >= 1100) {
+  if(blockRight.scrollTop() >= 900) {
     $(".timeline").addClass("move-timeline");
     $(".ex-content1").addClass("show-content");
   }
-  if(blockRight.scrollTop() >= 1400) {
+  if(blockRight.scrollTop() >= 1300) {
     $(".ex-content2").addClass("show-content");
   }
   if(blockRight.scrollTop() >= 1600) {
@@ -60,8 +60,6 @@ $('.block-right').on('scroll', function() {
     $(".ex-content4").addClass("show-content");
   }
 });
-
-
 
 
 

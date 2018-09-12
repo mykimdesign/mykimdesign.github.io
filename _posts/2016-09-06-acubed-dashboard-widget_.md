@@ -10,7 +10,7 @@ tags:
   - css
   - dashboard
   - widget
-published: false
+published: true
 ---
 
 ### 1. Add Widget

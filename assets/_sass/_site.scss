@@ -76,6 +76,7 @@ canvas {
   border-radius: 3px;
   cursor: pointer;
   z-index: 3;
+  
   &:before {
     content: '';
     position: absolute;
@@ -106,14 +107,15 @@ canvas {
     }
   }
   &:hover {
-    border-color: $green;
+    border-color: $orange;
+    
     &:before {
-      border-color: $green;
+      border-color: $orange;
     }
     span {
-      border-color: $green;
+      border-color: $orange;
       &:before {
-        border-color: $green;
+        border-color: $orange;
       }
     }
   }
@@ -122,26 +124,15 @@ canvas {
   }
 }
 
-.menu-icon {
-  position: absolute;
-  &:hover {
-    border-color: $green;
-    color: $green;
-    &:before,
-    &:after {
-      border-color: $green;
-      color: $green;
-    }
-  }
-}
-
 .work-menu-icon {
+  position: absolute;
   top: 30px;
   right: 103px;
   width: 20px;
   height: 25px;
   border: 2px solid $gray;
   background: $white;
+  
   &:before {
     content: '';
     width: 20px;
@@ -161,6 +152,14 @@ canvas {
     right: 6px;
     top: 6px;
     background: $white;
+  }
+  &:hover {
+    border-color: $orange;
+    
+    &:before,
+    &:after {
+      border-color: $orange;
+    }
   }
 }
 
@@ -461,7 +460,7 @@ a.favorite-menu-icon {
         left: 0;
         right: 0;
         bottom: 0;
-        background: $green;
+        background: $orange;
         -webkit-transform: scaleY(0);
         transform: scaleY(0);
         -webkit-transform-origin: 50% 100%;
@@ -501,6 +500,8 @@ a.favorite-menu-icon {
   h2 {
     font-size: 35px;
     color: lighten($black, 27.8431);
+    text-align: center;
+    
     &:after {
       position: absolute;
       left: auto;
@@ -510,7 +511,7 @@ a.favorite-menu-icon {
       -ms-transform: none;
       -o-transform: none;
       transform: none;
-      background: $green;
+      background: transparent;
       left: 0;
     }
   }
@@ -635,7 +636,7 @@ a.favorite-menu-icon {
       color: darken($white, 40);
     }
     .date {
-      color: #399f62;
+      //color: $orange;
       float: right;
       display: inline-block;
       font-size: 15px;
@@ -646,7 +647,7 @@ a.favorite-menu-icon {
       display: inline-block;
       max-width: 75%;
       &:hover span {
-        border-bottom: 1px dotted $green;
+        border-bottom: 1px dotted #ffa67b;
       }
     }
   }
@@ -706,7 +707,7 @@ a.favorite-menu-icon {
     display: block;
   }
   a:not(.btn):not(.pagination_pager) {
-    color: #399f62;
+    //color: #60B0F4;
     border-bottom: 1px dotted $green;
   }
   ul,
@@ -748,7 +749,7 @@ a.favorite-menu-icon {
     font-size: 15px;
   }
   .section-line {
-    color: $green;
+    color: $orange;
     position: relative;
     display: -webkit-box;
     display: -moz-box;
@@ -770,9 +771,10 @@ a.favorite-menu-icon {
       margin-left: 10px;
     }
     a {
-      color: $green;
+      color: $orange;
       &:hover {
-        color: #4dbe7a;
+        color: darken($orange, 10%);
+        transition: $transition;
       }
     }
     em {
@@ -1008,7 +1010,7 @@ a.favorite-menu-icon {
       border-radius: 0 4px 4px 0;
     }
     &:hover {
-      background-color: $green;
+      background-color: $orange;
       color: $white !important;
     }
     &.disabled {
