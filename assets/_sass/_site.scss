@@ -656,7 +656,7 @@ a.favorite-menu-icon {
   }
 }
 
-.tags {
+.tags {   
   margin-top: 20px;
   > li {
     display: inline-block;
@@ -666,6 +666,7 @@ a.favorite-menu-icon {
     color: lighten($black, 28%);
     font-size: 11px;
     text-transform: uppercase;
+    
     > a {
       color: $white;
     }
@@ -707,8 +708,11 @@ a.favorite-menu-icon {
     display: block;
   }
   a:not(.btn):not(.pagination_pager) {
-    //color: #60B0F4;
-    border-bottom: 1px dotted $green;
+    //color: $orange;
+    
+    &:hover {
+      border-bottom: 1px dotted #ffa67b;
+    }
   }
   ul,
   ol {
@@ -731,11 +735,13 @@ a.favorite-menu-icon {
   margin-bottom: 50px;
 }
 
-.post-title-section { 
+.post-title-section {
   position: absolute;
   bottom: 50px;
   left: 50px;
   right: 50px;
+  color: $orange;
+  
   .section-title {
     position: relative;
     left: auto;
@@ -749,7 +755,7 @@ a.favorite-menu-icon {
     font-size: 15px;
   }
   .section-line {
-    color: $orange;
+    color: rgba($white, 0.6);
     position: relative;
     display: -webkit-box;
     display: -moz-box;
@@ -780,6 +786,10 @@ a.favorite-menu-icon {
     em {
       display: inline-block;
       margin: 0 10px;
+      
+      &:nth-child(2) {
+        color: $orange;
+      }
     }
     &.reverse {
       margin-top: 40px;
@@ -977,7 +987,7 @@ a.favorite-menu-icon {
   }
 }
 .entry-title > a{
-  border: none !important;
+  //border: none !important;
 }
 .pagination {
   display: flex;

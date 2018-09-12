@@ -65,7 +65,7 @@ customjs:
     </ul>
 </div>  
 <br>   
-<br>   
+<br>
 <br> 
 
 
@@ -98,17 +98,17 @@ customjs:
     </ul>
   </div>
   <div class="my-experience-content ex-content3 right my-nextree">  
-    <div>2012-2013</div>    
-    <strong>NEXTREE</strong>  
+    <div>2012-2013</div>
+    <strong>NEXTREE</strong>
     <ul> 
       <li>스마트폰 전자책 웹사이트 개발 및 유지 보수</li>
       <li>사내 모바일 웹 개발</li>
-      <li>사내에서 운영되는 관리자 웹페이지 개발 후, 개선 및 유지 보수</li> 
+      <li>사내에서 운영되는 관리자 웹페이지 개발 후, 개선 및 유지 보수</li>    
     </ul>
   </div>
-  <div class="my-experience-content ex-content4 left my-kosta">
-    <div>2011</div> 
-    <strong>KOSTA</strong> 
+  <div class="my-experience-content ex-content4 left my-kosta"> 
+    <div>2011</div>
+    <strong>KOSTA</strong>
     <ul>
       <li>신입 자바 개발자 실무과정</li>
       <li>팀을 구성하여 버스 도착 알림 프로젝트 진행</li>
