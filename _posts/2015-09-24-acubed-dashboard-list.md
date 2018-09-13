@@ -37,7 +37,7 @@ published: true
 
 ### 2. Resize the View of Dashboard List Sidebar.
 
-Dashboard List Sidebar 상단의 버튼을 클릭하면 Sidebar 전체 보기가 가능하다.
+<!--Dashboard List Sidebar 상단의 버튼을 클릭하면 Sidebar 전체 보기가 가능하다.-->
 
 **HTML:**
 
@@ -123,7 +123,7 @@ Dashboard Card안에서 공유된 공유자의 인원수 확인이 가능하며 
 
 ### 6. Go to the Dashboard from the Dashboard List selected.
 
-Dashboard List에서 Dashboard Card를 클릭하면 선택된 Dashboard 페이지로 이동한다.
+<!--Dashboard List에서 Dashboard Card를 클릭하면 선택된 Dashboard 페이지로 이동한다.-->
 
 <a href="{{ site.url }}/images/works/20150924/image-22.png"><img src="{{ site.url }}/images/works/20150924/image-22.png" alt="dashboard"></a>
 <br>
@@ -133,7 +133,7 @@ Dashboard List에서 Dashboard Card를 클릭하면 선택된 Dashboard 페이�
 
 ### 7. Remove the Dashboard Card.
 
-Dashboard List의 Dashboard Card는 삭제가 가능하다.
+<!--Dashboard List의 Dashboard Card는 삭제가 가능하다.-->
 
 **Watch out!** Dashboard Card는 별도의 경고창 없이 자유롭게 삭제 가능
 {: .notice}

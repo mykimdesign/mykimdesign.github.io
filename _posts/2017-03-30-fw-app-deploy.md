@@ -35,6 +35,7 @@ published: true
 
 사용자는 버전을 전체 적용하기 전에 일부 Framework에 대하여 버전을 선택해 변경해 볼수 있다.
 
+<!--
 ① Set Head Version 실행 전 (상단에 버전이 최초로 등록될 경우)
 
 * 상단에서 버전이 최초로 등록될 때, 하단의 테이블에서 Version을 선택할 수 있다.
@@ -58,6 +59,7 @@ published: true
 * Activate가 실행 완료되면 Activate 버튼은 비활성화된다.
 * 성공일 경우, Members는 푸른 계열로 표현된다.
 * 실패일 경우, Members는 붉은 계열로 표현된다.
+-->
 
 <a href="{{ site.url }}/images/works/20170330/image-5.jpg"><img src="{{ site.url }}/images/works/20170330/image-5.jpg" alt="app deploy"></a>
 <br>

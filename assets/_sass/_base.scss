@@ -257,7 +257,8 @@ thead {
 }
 
 tr.active {
-  background: rgba($orange, 0.2);
+  background: lighten($orange, 30%);
+  //background: rgba($orange, 0.2);
 }
 
 tr,

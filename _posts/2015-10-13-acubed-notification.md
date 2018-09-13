@@ -37,7 +37,7 @@ published: true
 
 ### 2. Adjust the size of the Notification Sidebar.
 
-Notification Sidebar 상단의 버튼을 클릭하면 Sidebar 전체 보기가 가능하다.
+<!--Notification Sidebar 상단의 버튼을 클릭하면 Sidebar 전체 보기가 가능하다.-->
 
 **HTML:**
 

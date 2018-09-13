@@ -477,6 +477,10 @@
       }
     }
   }
+  
+  .posts-list>li .date {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 542px) {

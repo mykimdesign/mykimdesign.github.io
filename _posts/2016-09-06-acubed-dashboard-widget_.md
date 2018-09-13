@@ -15,12 +15,14 @@ published: true
 
 ### 1. Add Widget
 
+<!--
 오른쪽 상단에서 Widget List 버튼(파란부분영역)을 클릭하면 Widget List Side Bar가 Slide 되어 나타난다.
 
 <a href="{{ site.url }}/images/works/20160906/image-1.png"><img src="{{ site.url }}/images/works/20160906/image-1.png" alt="dashboard"></a>
 <br>
 <a href="{{ site.url }}/images/works/20160906/image-2.png"><img src="{{ site.url }}/images/works/20160906/image-2.png" alt="dashboard"></a>
 <br>
+-->
 
 만들고자 하는 Widget을 드래그하여 원하는 위치에 놓을 수 있다.
 

@@ -16,8 +16,11 @@ published: true
 
 <a href="{{ site.url }}/images/works/20150924/image-42.png"><img src="{{ site.url }}/images/works/20150924/image-42.png" alt="application list"></a>
 
+
+<!--
 **Watch out!** 상단 아이콘 클릭 시, Dashboard에 등록되어 있는 모든 Widget들의 연관된 Application Lists를 보여줌
 {: .notice}
+-->
 
 **HTML:**
 
@@ -37,7 +40,7 @@ published: true
 <a href="{{ site.url }}/images/works/20150924/image-43.png"><img src="{{ site.url }}/images/works/20150924/image-43.png" alt="application list"></a>
 <br>
 
-Widget에서 drill down을 누르면 Application List가 나타난다.
+<!--Widget에서 drill down을 누르면 Application List가 나타난다.-->
 
 **Watch out!** Widget에서 drill down을 선택하면 그 Widget과 연관된 Application List만 보여줌
 {: .notice}
@@ -52,7 +55,7 @@ Widget에서 drill down을 누르면 Application List가 나타난다.
 
 ### 2. Resize the View of Application List Sidebar.
 
-Application List Sidebar 상단의 버튼을 클릭하면 Sidebar 전체 보기가 가능하다.
+<!--Application List Sidebar 상단의 버튼을 클릭하면 Sidebar 전체 보기가 가능하다.-->
 
 **HTML:**
 

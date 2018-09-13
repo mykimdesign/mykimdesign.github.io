@@ -39,16 +39,18 @@ Tab은 디자인 가이드와 같이 총 6개로 구성되어 있다.
 
 <a href="{{ site.url }}/images/works/20170210/image-6.jpg"><img src="{{ site.url }}/images/works/20170210/image-6.jpg" alt="detail information"></a>
 
+<!--
 #### 7. Member Infos
 
 <a href="{{ site.url }}/images/works/20170210/image-7.jpg"><img src="{{ site.url }}/images/works/20170210/image-7.jpg" alt="detail information"></a>
+-->
 
-#### 8. Distributor Infos
+#### 7. Distributor Infos
 
 <a href="{{ site.url }}/images/works/20170210/image-8.jpg"><img src="{{ site.url }}/images/works/20170210/image-8.jpg" alt="detail information"></a>
 <br>
 
-Table은 기본으로 가운데 정렬이며, 글자가 들어가는 항목은 모두 좌측 정렬이다.
+<!--Table은 기본으로 가운데 정렬이며, 글자가 들어가는 항목은 모두 좌측 정렬이다.-->
 
 ```html
 <div class="a3-table-cell">CPU(%)</div>

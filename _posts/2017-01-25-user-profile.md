@@ -17,8 +17,10 @@ published: true
 <br>
 <a href="{{ site.url }}/images/works/20170125/image-3.jpg"><img src="{{ site.url }}/images/works/20170125/image-3.jpg" alt="notification"></a>
 <br>
+<!--
 <a href="{{ site.url }}/images/works/20170125/image-4.jpg"><img src="{{ site.url }}/images/works/20170125/image-4.jpg" alt="notification"></a>
 <br>
+-->
 <a href="{{ site.url }}/images/works/20170125/image-5.jpg"><img src="{{ site.url }}/images/works/20170125/image-5.jpg" alt="notification"></a>
 <br>
 <a href="{{ site.url }}/images/works/20170125/image-6.jpg"><img src="{{ site.url }}/images/works/20170125/image-6.jpg" alt="notification"></a>

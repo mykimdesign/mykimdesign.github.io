@@ -14,7 +14,7 @@ tags:
 published: true
 ---
 
-A-Cubed Widget에서 Application으로 이동할 때 Context Menu를 통해서 drill down을 합니다. drill down뿐만 아니라 Context Menu를 이용하여 다양한 기능들을 수행할 수 있습니다.
+<!--A-Cubed Widget에서 Application으로 이동할 때 Context Menu를 통해서 drill down을 합니다. drill down뿐만 아니라 Context Menu를 이용하여 다양한 기능들을 수행할 수 있습니다.-->
       
 ### Context Menu Icons
 
