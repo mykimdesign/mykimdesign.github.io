@@ -86,7 +86,7 @@ customjs:
   </div>
   <div class="my-experience-content ex-content2 left my-sbs">  
     <div>2013</div>  
-    <strong>SBS Academy</strong>
+    <strong>SBS Academy</strong> 
     <ul>
       <li>웹 디자이너 포트폴리오 과정</li>
       <li>PC/Mobile Web 포트폴리오 제작</li>
