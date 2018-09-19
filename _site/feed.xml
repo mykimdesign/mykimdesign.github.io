@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-14T19:20:51+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UI/UX Designer</subtitle><entry><title type="html">FW: Global Control</title><link href="http://localhost:4000/fw-global-control/" rel="alternate" type="text/html" title="FW: Global Control" /><published>2017-04-18T00:00:00+09:00</published><updated>2017-04-18T00:00:00+09:00</updated><id>http://localhost:4000/fw-global-control</id><content type="html" xml:base="http://localhost:4000/fw-global-control/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-19T13:41:27+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UI/UX Designer</subtitle><entry><title type="html">FW: Global Control</title><link href="http://localhost:4000/fw-global-control/" rel="alternate" type="text/html" title="FW: Global Control" /><published>2017-04-18T00:00:00+09:00</published><updated>2017-04-18T00:00:00+09:00</updated><id>http://localhost:4000/fw-global-control</id><content type="html" xml:base="http://localhost:4000/fw-global-control/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;select-task&quot;&gt;Select Task&lt;/h3&gt;
@@ -141,11 +141,11 @@
 &lt;br /&gt;
 &lt;a href=&quot;http://localhost:4000/images/works/20170330/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170330/image-6.jpg&quot; alt=&quot;app deploy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="FW" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">Hot Deploy를 개선 및 업그레이드한 제품</summary></entry><entry><title type="html">FW: Log Filter Configuration</title><link href="http://localhost:4000/fw-log-filter-configuration/" rel="alternate" type="text/html" title="FW: Log Filter Configuration" /><published>2017-03-28T00:00:00+09:00</published><updated>2017-03-28T00:00:00+09:00</updated><id>http://localhost:4000/fw-log-filter-configuration</id><content type="html" xml:base="http://localhost:4000/fw-log-filter-configuration/">&lt;p&gt;사용자는 등록된 Filter List를 조회할 수 있다.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Log Filter Configuration 진입시, Filter List(왼쪽 영역)의 테이블 맨 위 row 기준으로 Filter View(오른쪽 영역)에 정보가 보여진다.&lt;/li&gt;
-  &lt;li&gt;사용자는 List의 특정 row를 클릭해 상세 내용을 조회하거나 수정할 수 있다.&lt;/li&gt;
-  &lt;li&gt;수정 권한이 없는 경우, Filter View(오른쪽 영역) 상단의 Edit 버튼은 보여지지 않는다.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!--
+* Log Filter Configuration 진입시, Filter List(왼쪽 영역)의 테이블 맨 위 row 기준으로 Filter View(오른쪽 영역)에 정보가 보여진다.
+* 사용자는 List의 특정 row를 클릭해 상세 내용을 조회하거나 수정할 수 있다.
+* 수정 권한이 없는 경우, Filter View(오른쪽 영역) 상단의 Edit 버튼은 보여지지 않는다.
+--&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-1.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
@@ -153,12 +153,12 @@
 
 &lt;p&gt;사용자는 새로운 Filter를 등록할 수 있다.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Filter List(왼쪽 영역) 상단의 Add 버튼을 클릭하면 테이블에 빈 row 영역이 추가되며 Add 버튼은 비활성화 된다.&lt;/li&gt;
-  &lt;li&gt;사용자는 Filter Registration(오른쪽 영역)에서 기본 정보를 등록할 수 있다.&lt;/li&gt;
-  &lt;li&gt;Filter Registration(오른쪽 영역) 상단에 Cancel을 누르면 Filter Registration(오른쪽 영역) 부분은 저장되지 않고 취소된다.&lt;/li&gt;
-  &lt;li&gt;Filter Registration(오른쪽 영역) 상단에 Save을 누르면 Filter Registration(오른쪽 영역) 부분은 저장된다.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!--
+* Filter List(왼쪽 영역) 상단의 Add 버튼을 클릭하면 테이블에 빈 row 영역이 추가되며 Add 버튼은 비활성화 된다.
+* 사용자는 Filter Registration(오른쪽 영역)에서 기본 정보를 등록할 수 있다.
+* Filter Registration(오른쪽 영역) 상단에 Cancel을 누르면 Filter Registration(오른쪽 영역) 부분은 저장되지 않고 취소된다.
+* Filter Registration(오른쪽 영역) 상단에 Save을 누르면 Filter Registration(오른쪽 영역) 부분은 저장된다.
+--&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170328/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170328/image-2.jpg&quot; alt=&quot;log filter configuration&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
@@ -545,59 +545,7 @@ Password: 111111
         &lt;td&gt;5c9a8e&lt;/td&gt;
       &lt;/tr&gt;
     &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="color" /><category term="guide" /><category term="UX" /><summary type="html">UX팀에서 제공하는 A-Cubed Color Guide</summary></entry><entry><title type="html">MI: FD-TA</title><link href="http://localhost:4000/mi-fd-ta/" rel="alternate" type="text/html" title="MI: FD-TA" /><published>2017-02-14T00:00:00+09:00</published><updated>2017-02-14T00:00:00+09:00</updated><id>http://localhost:4000/mi-fd-ta</id><content type="html" xml:base="http://localhost:4000/mi-fd-ta/">&lt;!--
-**Watch out!** 
-FD-TA(Fault Detection Trace Analysis): 실시간으로 올라오는 데이터를 통해 오류를 찾아내어 알려주고 trace(그래프)를 분석할 수 있게 도와주는 제품
-{: .notice}
---&gt;
-
-&lt;!--MI ver.1.0으로 로그인 한다.--&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-6.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;데이터를 마우스 오버하면 보여지는 툴팁에서 각각의 오류 갯수와 총 갯수를 확인할 수 있다.&lt;/p&gt;
-
-&lt;!--
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-7.jpg&quot; alt=&quot;fd-ta&quot;&gt;&lt;/a&gt;
-&lt;br&gt;
---&gt;
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-8.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;상세한 정보를 보고자 하는 그래프를 클릭 &amp;amp; drill down하여 슬라이드 되어 오픈된 Application List에서 해당되는 Application을 클릭하여 데이터를 분석할 수 있다.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-12.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-12.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-13.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-13.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;!--
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-15.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-15.jpg&quot; alt=&quot;fd-ta&quot;&gt;&lt;/a&gt;
-&lt;br&gt;
---&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-16.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-16.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;!--
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-17.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-17.jpg&quot; alt=&quot;fd-ta&quot;&gt;&lt;/a&gt;
-&lt;br&gt;
---&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-18.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-18.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-19.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-19.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-20.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-20.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;!--
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-21.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-21.jpg&quot; alt=&quot;fd-ta&quot;&gt;&lt;/a&gt;
-&lt;br&gt;
---&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-22.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-22.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-23.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-23.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-25.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-25.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;
-&lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160714/image-26.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160714/image-26.jpg&quot; alt=&quot;fd-ta&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="MI" /><category term="semicon" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">실시간으로 올라오는 데이터를 통해 오류를 찾아내어 알려주고 그래프를 분석할 수 있게 도와주는 제품</summary></entry><entry><title type="html">MI: DFD</title><link href="http://localhost:4000/mi-dfd/" rel="alternate" type="text/html" title="MI: DFD" /><published>2017-02-14T00:00:00+09:00</published><updated>2017-02-14T00:00:00+09:00</updated><id>http://localhost:4000/mi-dfd</id><content type="html" xml:base="http://localhost:4000/mi-dfd/">&lt;h3 id=&quot;prototype-url&quot;&gt;Prototype URL&lt;/h3&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="A-Cubed" /><category term="color" /><category term="guide" /><category term="UX" /><summary type="html">UX팀에서 제공하는 A-Cubed Color Guide</summary></entry><entry><title type="html">MI: DFD</title><link href="http://localhost:4000/mi-dfd/" rel="alternate" type="text/html" title="MI: DFD" /><published>2017-02-14T00:00:00+09:00</published><updated>2017-02-14T00:00:00+09:00</updated><id>http://localhost:4000/mi-dfd</id><content type="html" xml:base="http://localhost:4000/mi-dfd/">&lt;h3 id=&quot;prototype-url&quot;&gt;Prototype URL&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://wyk9qu.axshare.com&quot;&gt;DFD Prototype&lt;/a&gt;
 &lt;br /&gt;
@@ -756,4 +704,60 @@ Sidebar Open: &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span
 &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;chart-wrapper&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161020/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161020/image-5.jpg&quot; alt=&quot;tqp&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="MI" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">해당 센서들의 습성을 찾아 예측을 위한 모델을 생성하거나 설정된 한계에 언제쯤 다다르게 되는지 미래 예측을 할 수 있게 도와주는 제품</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161020/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161020/image-5.jpg&quot; alt=&quot;tqp&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="MI" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">해당 센서들의 습성을 찾아 예측을 위한 모델을 생성하거나 설정된 한계에 언제쯤 다다르게 되는지 미래 예측을 할 수 있게 도와주는 제품</summary></entry><entry><title type="html">FW: Hot Deploy</title><link href="http://localhost:4000/fw-hot-deploy/" rel="alternate" type="text/html" title="FW: Hot Deploy" /><published>2016-12-27T00:00:00+09:00</published><updated>2016-12-27T00:00:00+09:00</updated><id>http://localhost:4000/fw-hot-deploy</id><content type="html" xml:base="http://localhost:4000/fw-hot-deploy/">&lt;p&gt;사용자는 Application에 대한 Version을 특정 Framework에 대해서 먼저 적용해 볼 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-1.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Add Version 버튼을 클릭하여 새로운 버전을 추가 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-2.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-3.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;전체 적용하기 전에 일부 Framework에 대하여 적용할 버전을 선택해 변경해본다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-4.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Version을 클릭하면 적용할 것인지에 대한 Popup창이 뜨고 OK 버튼을 클릭하여 Version 선적용 작업을 완료한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-5.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Version Update가 실패한 Member는 빨간색으로 표시된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-6.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Update에 실패한 Member에 대해서만 Version Update를 재시도 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-7.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Framework에 있는 모든 Member가 Update를 성공하면 Version이 변경된다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-8.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-8.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;상단에 위치한 Version을 클릭해서 모든 Framework의 Member들을 대상으로 일괄 적용 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-9.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-9.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-10.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-10.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;지우고자 하는 Version을 클릭하여 해당 Version을 삭제 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-11.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-11.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20161227/image-12.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20161227/image-12.jpg&quot; alt=&quot;hot deploy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="FW" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">Application에 대한 Version을 특정 Framework에 선적용 해보고 성공했을때, 그 안정성을 바탕으로 전체 적용할 수 있게 할 수 있도록 도와주는 제품</summary></entry></feed>

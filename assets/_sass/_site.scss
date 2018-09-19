@@ -264,9 +264,9 @@ a.favorite-menu-icon {
   > li {
     display: inline-block;
     width: calc(100%/3);
-    background: $overlay-color;
+    //background: $overlay-color;
     height: 50%;
-    border: 5px solid $overlay-color;
+//    border: 5px solid $overlay-color;
     position: relative;
     vertical-align: top;
     float: left;
@@ -397,7 +397,7 @@ a.favorite-menu-icon {
       content: "";
       width: 214px;
       height: 2px;
-      background: #585b63;
+      background: #6f6f6f;
       bottom: -20px;
       position: absolute;
       left: 50%;

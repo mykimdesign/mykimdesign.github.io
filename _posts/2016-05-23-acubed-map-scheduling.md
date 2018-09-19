@@ -36,17 +36,11 @@ published: true
 <br>
 <br>
 
-### 2-1. Scheduling
+### 2-1. Scheduling 
 
 ③ Workspace 또는 Application 버튼 클릭 시, Tooltip이 보인다.<br>
 ④ Scheduling 아이콘 클릭 시, 우측에서 사이드바가 슬라이드 되어 보여진다. 최초에 Schedule Card는 생성되어 있지 않고 비어 있다.<br>
 ⑤ 추가 버튼을 클릭하면 하단에 일정을 등록할 수 있는 Schedule Card가 생성된다.
-  * Schedule Sidebar 최초 오픈시 Schedule Card는 보여지지 않는다. (0 Schedyled Reports와 추가 버튼만 존재)
-  * Name은 필수로 입력해야 한다.
-  * Schedule Card가 하나라도 열려 있고 Save 되지 않으면 +(추가) 버튼은 비활성화 되어 있다.
-  * ⑥ Schedule Play는 자동 Play 되지 않고 클릭해야 한다. 다시 누르면 비활성화 된다.
-  * Schedule Card는 최신순으로 등록되고 정렬된다.
-
 ⑥ Play 버튼을 누르면 Play 되고 다시 누르면 Stop 된다.<br>
 ⑦ Repeat > Day 선택 시, 요일은 Disabled 되고 시간만 활성화 된다.<br>
 ⑧ Repeat > Week 선택 시, 요일과 시간이 선택 가능하다.<br>
@@ -108,5 +102,3 @@ published: true
 
 <a href="{{ site.url }}/images/works/20160523/image-11.jpg"><img src="{{ site.url }}/images/works/20160523/image-11.jpg" alt="managing shared"></a>
 <center>Group 정보</center><br>
-
-

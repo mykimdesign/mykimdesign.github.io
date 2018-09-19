@@ -62,6 +62,14 @@ $('.block-right').on('scroll', function() {
 });
 
 
+// portfolio
+$(".image-popup").one("click", function() {
+   $('.mfp-img').css('max-height', '');
+});
+
+//$(document).resize(function() {
+//   $('.mfp-img').css('max-height', '');
+//});
 
 $(window).on('scroll', function() {
   var scrollValue = $(document).scrollTop();

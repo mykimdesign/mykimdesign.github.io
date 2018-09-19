@@ -21,6 +21,10 @@
 <lastmod>2016-03-11T00:00:00+09:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/acubed-fd-ta/</loc>
+<lastmod>2016-05-14T00:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/acubed-map-scheduling/</loc>
 <lastmod>2016-05-23T00:00:00+09:00</lastmod>
 </url>
@@ -50,10 +54,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/mi-dfd/</loc>
-<lastmod>2017-02-14T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/mi-fd-ta/</loc>
 <lastmod>2017-02-14T00:00:00+09:00</lastmod>
 </url>
 <url>

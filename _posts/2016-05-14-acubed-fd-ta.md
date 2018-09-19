@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "A-Cubed: FD-TA"
+date:   2016-05-14
+excerpt: "실시간으로 올라오는 데이터를 통해 오류를 찾아내어 알려주고 그래프를 분석할 수 있게 도와주는 제품"
+tags:
+  - MI
+  - semicon
+  - guide
+  - html
+  - css
+published: true
+---
+
+<!--
+**Watch out!** 
+FD-TA(Fault Detection Trace Analysis): 실시간으로 올라오는 데이터를 통해 오류를 찾아내어 알려주고 trace(그래프)를 분석할 수 있게 도와주는 제품
+{: .notice}
+-->
+
+<!--MI ver.1.0으로 로그인 한다.-->
+
+<a href="{{ site.url }}/images/works/20160714/image-6.jpg"><img src="{{ site.url }}/images/works/20160714/image-6.jpg" alt="fd-ta"></a>
+<br>
+
+데이터를 마우스 오버하면 보여지는 툴팁에서 각각의 오류 갯수와 총 갯수를 확인할 수 있다.
+
+<!--
+<a href="{{ site.url }}/images/works/20160714/image-7.jpg"><img src="{{ site.url }}/images/works/20160714/image-7.jpg" alt="fd-ta"></a>
+<br>
+-->
+<a href="{{ site.url }}/images/works/20160714/image-8.jpg"><img src="{{ site.url }}/images/works/20160714/image-8.jpg" alt="fd-ta"></a>
+<br>
+
+상세한 정보를 보고자 하는 그래프를 클릭 & drill down하여 슬라이드 되어 오픈된 Application List에서 해당되는 Application을 클릭하여 데이터를 분석할 수 있다.
+
+<a href="{{ site.url }}/images/works/20160714/image-12.jpg"><img src="{{ site.url }}/images/works/20160714/image-12.jpg" alt="fd-ta"></a>
+<br>
+<a href="{{ site.url }}/images/works/20160714/image-13.jpg"><img src="{{ site.url }}/images/works/20160714/image-13.jpg" alt="fd-ta"></a>
+<br>
+<!--
+<a href="{{ site.url }}/images/works/20160714/image-15.jpg"><img src="{{ site.url }}/images/works/20160714/image-15.jpg" alt="fd-ta"></a>
+<br>
+-->
+<a href="{{ site.url }}/images/works/20160714/image-16.jpg"><img src="{{ site.url }}/images/works/20160714/image-16.jpg" alt="fd-ta"></a>
+<br>
+<!--
+<a href="{{ site.url }}/images/works/20160714/image-17.jpg"><img src="{{ site.url }}/images/works/20160714/image-17.jpg" alt="fd-ta"></a>
+<br>
+-->
+<a href="{{ site.url }}/images/works/20160714/image-18.jpg"><img src="{{ site.url }}/images/works/20160714/image-18.jpg" alt="fd-ta"></a>
+<br>
+<a href="{{ site.url }}/images/works/20160714/image-19.jpg"><img src="{{ site.url }}/images/works/20160714/image-19.jpg" alt="fd-ta"></a>
+<br>
+<a href="{{ site.url }}/images/works/20160714/image-20.jpg"><img src="{{ site.url }}/images/works/20160714/image-20.jpg" alt="fd-ta"></a>
+<br>
+<!--
+<a href="{{ site.url }}/images/works/20160714/image-21.jpg"><img src="{{ site.url }}/images/works/20160714/image-21.jpg" alt="fd-ta"></a>
+<br>
+-->
+<a href="{{ site.url }}/images/works/20160714/image-22.jpg"><img src="{{ site.url }}/images/works/20160714/image-22.jpg" alt="fd-ta"></a>
+<br>
+<a href="{{ site.url }}/images/works/20160714/image-23.jpg"><img src="{{ site.url }}/images/works/20160714/image-23.jpg" alt="fd-ta"></a>
+<br>
+<a href="{{ site.url }}/images/works/20160714/image-25.jpg"><img src="{{ site.url }}/images/works/20160714/image-25.jpg" alt="fd-ta"></a>
+<br>
+<a href="{{ site.url }}/images/works/20160714/image-26.jpg"><img src="{{ site.url }}/images/works/20160714/image-26.jpg" alt="fd-ta"></a>

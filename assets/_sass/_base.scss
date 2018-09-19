@@ -148,7 +148,7 @@ figure {
   margin: 2em 0;
   @include clearfix();
   figcaption {
-    margin-bottom: 0.5em;
+    margin-bottom: 0;
     color: lighten($black, 50%);
     font-size: 0.85em;
     width: 100%;
