@@ -1,7 +1,6 @@
-- title: MI
-  url: 
-  image:
-  completed: false
+- url: 
+  image: images/portfolio/mi-main.jpg
+  completed: true
   
 - title: FW
   url: images/portfolio/fw-detail.jpg
