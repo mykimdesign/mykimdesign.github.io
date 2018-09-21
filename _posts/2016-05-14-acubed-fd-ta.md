@@ -20,27 +20,27 @@ FD-TA(Fault Detection Trace Analysis): 실시간으로 올라오는 데이터를
 
 데이터를 마우스 오버하면 보여지는 툴팁에서 각각의 오류 갯수와 총 갯수를 확인할 수 있다.
 
-<a href="{{ site.url }}/images/works/20160514/image-8.jpg"><img src="{{ site.url }}/images/works/20160514/image-8.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-1.jpg"><img src="{{ site.url }}/images/works/20160514/image-1.jpg" alt="fd-ta"></a>
 <br>
 
 상세한 정보를 보고자 하는 그래프를 클릭 & drill down하여 슬라이드 되어 오픈된 Application List에서 해당되는 Application을 클릭하여 데이터를 분석할 수 있다.
 
-<a href="{{ site.url }}/images/works/20160514/image-12.jpg"><img src="{{ site.url }}/images/works/20160514/image-12.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-2.jpg"><img src="{{ site.url }}/images/works/20160514/image-2.jpg" alt="fd-ta"></a>
 <br>
-<a href="{{ site.url }}/images/works/20160514/image-13.jpg"><img src="{{ site.url }}/images/works/20160514/image-13.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-3.jpg"><img src="{{ site.url }}/images/works/20160514/image-3.jpg" alt="fd-ta"></a>
 <br>
-<a href="{{ site.url }}/images/works/20160514/image-16.jpg"><img src="{{ site.url }}/images/works/20160514/image-16.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-4.jpg"><img src="{{ site.url }}/images/works/20160514/image-4.jpg" alt="fd-ta"></a>
 <br>
-<a href="{{ site.url }}/images/works/20160514/image-18.jpg"><img src="{{ site.url }}/images/works/20160514/image-18.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-5.jpg"><img src="{{ site.url }}/images/works/20160514/image-5.jpg" alt="fd-ta"></a>
 <br>
-<a href="{{ site.url }}/images/works/20160514/image-19.jpg"><img src="{{ site.url }}/images/works/20160514/image-19.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-6.jpg"><img src="{{ site.url }}/images/works/20160514/image-6.jpg" alt="fd-ta"></a>
 <br>
-<a href="{{ site.url }}/images/works/20160514/image-20.jpg"><img src="{{ site.url }}/images/works/20160514/image-20.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-7.jpg"><img src="{{ site.url }}/images/works/20160514/image-7.jpg" alt="fd-ta"></a>
 <br>
-<a href="{{ site.url }}/images/works/20160514/image-22.jpg"><img src="{{ site.url }}/images/works/20160514/image-22.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-8.jpg"><img src="{{ site.url }}/images/works/20160514/image-8.jpg" alt="fd-ta"></a>
 <br>
-<a href="{{ site.url }}/images/works/20160514/image-23.jpg"><img src="{{ site.url }}/images/works/20160514/image-23.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-9.jpg"><img src="{{ site.url }}/images/works/20160514/image-9.jpg" alt="fd-ta"></a>
 <br>
-<a href="{{ site.url }}/images/works/20160514/image-25.jpg"><img src="{{ site.url }}/images/works/20160514/image-25.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-10.jpg"><img src="{{ site.url }}/images/works/20160514/image-10.jpg" alt="fd-ta"></a>
 <br>
-<a href="{{ site.url }}/images/works/20160514/image-26.jpg"><img src="{{ site.url }}/images/works/20160514/image-26.jpg" alt="fd-ta"></a>
+<a href="{{ site.url }}/images/works/20160514/image-11.jpg"><img src="{{ site.url }}/images/works/20160514/image-11.jpg" alt="fd-ta"></a>
