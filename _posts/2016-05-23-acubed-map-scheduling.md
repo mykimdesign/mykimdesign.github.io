@@ -25,14 +25,14 @@ published: true
 ⑩ User가 직접 검색창을 이용하여 Workspace를 조회할 수 있다.<br>
 ⑪ Share된 Dashboard와 Workspace는 Logo 옆에 아이콘이 등록되여 보여진다.
 
-<a href="{{ site.url }}/images/works/20160523/image-1.jpg"><img src="{{ site.url }}/images/works/20160523/image-1.jpg" alt="map"></a>
+<a href="{{ site.url }}/images/works/20160523/image-1.JPG"><img src="{{ site.url }}/images/works/20160523/image-1.JPG" alt="map"></a>
 <br>
 
 ⑫ 위 이미지 ⑧번을 선택하면 좌측에서 share 사이드바가 슬라이딩 되어 보여진다.<br>
 ⑬ Invitator는 나를 초대 한 dashboard & workspace list이다.<br>
 ⑭ Receiver는 나의 dashboard & workspace를 다른 User에게 공유한 List이다.
 
-<a href="{{ site.url }}/images/works/20160523/image-2.jpg"><img src="{{ site.url }}/images/works/20160523/image-2.jpg" alt="map"></a>
+<a href="{{ site.url }}/images/works/20160523/image-2.JPG"><img src="{{ site.url }}/images/works/20160523/image-2.JPG" alt="map"></a>
 <br>
 <br>
 
@@ -48,7 +48,7 @@ published: true
 ⑩ Save 버튼을 클릭하면 저장되고 Cancel 버튼을 클릭하면 취소되며 카드로 등록되지 않는다.<br>
 ⑪ 등록된 Schedule은 해당 시간단위로 Reporting 되고 카드 Header 좌측에 카운트 된다.
 
-<a href="{{ site.url }}/images/works/20160523/image-3.jpg"><img src="{{ site.url }}/images/works/20160523/image-3.jpg" alt="scheduling"></a>
+<a href="{{ site.url }}/images/works/20160523/image-3.JPG"><img src="{{ site.url }}/images/works/20160523/image-3.JPG" alt="scheduling"></a>
 <br>
 <br>
 
@@ -57,7 +57,7 @@ published: true
 ① 등록된 카드의 X 버튼을 클릭하면 삭제가 가능하다.<br>
 ② 취소 버튼을 누르면 삭제 되지 않고 삭제 버튼을 누르면 최종 삭제 된다.
 
-<a href="{{ site.url }}/images/works/20160523/image-4.jpg"><img src="{{ site.url }}/images/works/20160523/image-4.jpg" alt="schedule remove"></a>
+<a href="{{ site.url }}/images/works/20160523/image-4.JPG"><img src="{{ site.url }}/images/works/20160523/image-4.JPG" alt="schedule remove"></a>
 <br>
 <br>
 
