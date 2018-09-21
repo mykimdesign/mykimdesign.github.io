@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-22T00:58:52+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UI/UX Designer</subtitle><entry><title type="html">FW: Global Control</title><link href="http://localhost:4000/fw-global-control/" rel="alternate" type="text/html" title="FW: Global Control" /><published>2017-04-18T00:00:00+09:00</published><updated>2017-04-18T00:00:00+09:00</updated><id>http://localhost:4000/fw-global-control</id><content type="html" xml:base="http://localhost:4000/fw-global-control/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-22T01:20:15+09:00</updated><id>http://localhost:4000/</id><title type="html">MinYoung Kim</title><subtitle>Web Designer, UI/UX Designer</subtitle><entry><title type="html">FW: Global Control</title><link href="http://localhost:4000/fw-global-control/" rel="alternate" type="text/html" title="FW: Global Control" /><published>2017-04-18T00:00:00+09:00</published><updated>2017-04-18T00:00:00+09:00</updated><id>http://localhost:4000/fw-global-control</id><content type="html" xml:base="http://localhost:4000/fw-global-control/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170418/image-8.png&quot; alt=&quot;global control&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;select-task&quot;&gt;Select Task&lt;/h3&gt;
@@ -192,21 +192,15 @@ Password: 111111
 
 &lt;h3 id=&quot;wqp&quot;&gt;WQP&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20160801/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160801/image-1.jpg&quot; alt=&quot;wqp&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170301/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170301/image-1.jpg&quot; alt=&quot;wqp&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160801/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160801/image-2.jpg&quot; alt=&quot;wqp&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170301/image-2.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170301/image-2.jpg&quot; alt=&quot;wqp&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160801/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160801/image-3.jpg&quot; alt=&quot;wqp&quot; /&gt;&lt;/a&gt;
-&lt;!--
-&lt;br&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160801/image-4.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160801/image-4.jpg&quot; alt=&quot;wqp&quot;&gt;&lt;/a&gt;
-&lt;br&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160801/image-5.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160801/image-5.jpg&quot; alt=&quot;wqp&quot;&gt;&lt;/a&gt;
---&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170301/image-3.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170301/image-3.jpg&quot; alt=&quot;wqp&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160801/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160801/image-6.jpg&quot; alt=&quot;wqp&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170301/image-6.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170301/image-6.jpg&quot; alt=&quot;wqp&quot; /&gt;&lt;/a&gt;
 &lt;br /&gt;
-&lt;a href=&quot;http://localhost:4000/images/works/20160801/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20160801/image-7.jpg&quot; alt=&quot;wqp&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="MI" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">Wafer의 품질을 측정하여 Low Quality Wafer들을 다르게 다루어서 시간과 비용을 절약하게 해주는 제품</summary></entry><entry><title type="html">Guide: A-Cubed Color</title><link href="http://localhost:4000/color-guide/" rel="alternate" type="text/html" title="Guide: A-Cubed Color" /><published>2017-02-28T00:00:00+09:00</published><updated>2017-02-28T00:00:00+09:00</updated><id>http://localhost:4000/color-guide</id><content type="html" xml:base="http://localhost:4000/color-guide/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170228/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170228/image-1.jpg&quot; alt=&quot;color guide&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;http://localhost:4000/images/works/20170301/image-7.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170301/image-7.jpg&quot; alt=&quot;wqp&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="MI" /><category term="guide" /><category term="html" /><category term="css" /><summary type="html">Wafer의 품질을 측정하여 Low Quality Wafer들을 다르게 다루어서 시간과 비용을 절약하게 해주는 제품</summary></entry><entry><title type="html">Guide: A-Cubed Color</title><link href="http://localhost:4000/color-guide/" rel="alternate" type="text/html" title="Guide: A-Cubed Color" /><published>2017-02-28T00:00:00+09:00</published><updated>2017-02-28T00:00:00+09:00</updated><id>http://localhost:4000/color-guide</id><content type="html" xml:base="http://localhost:4000/color-guide/">&lt;p&gt;&lt;a href=&quot;http://localhost:4000/images/works/20170228/image-1.jpg&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/works/20170228/image-1.jpg&quot; alt=&quot;color guide&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;chart-fonts--grid&quot;&gt;Chart Fonts &amp;amp; Grid&lt;/h3&gt;
 

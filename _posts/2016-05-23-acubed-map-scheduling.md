@@ -23,14 +23,14 @@ published: true
 ⑧ Shared User List 버튼 클릭시 좌측에서 Shared된 User List 메뉴 ⑬이 슬라이딩 되며 열린다.<br>
 ⑨ Map 상에 User가 등록한 Workspace 목록들을 볼 수 있다.<br>
 ⑩ User가 직접 검색창을 이용하여 Workspace를 조회할 수 있다.<br>
-⑪ Share된 Dashboard와 Workspace는 Logo 옆에 아이콘이 등록되여 보여진다.<br>
+⑪ Share된 Dashboard와 Workspace는 Logo 옆에 아이콘이 등록되여 보여진다.
 
 <a href="{{ site.url }}/images/works/20160523/image-1.jpg"><img src="{{ site.url }}/images/works/20160523/image-1.jpg" alt="map"></a>
 <br>
 
 ⑫ 위 이미지 ⑧번을 선택하면 좌측에서 share 사이드바가 슬라이딩 되어 보여진다.<br>
 ⑬ Invitator는 나를 초대 한 dashboard & workspace list이다.<br>
-⑭ Receiver는 나의 dashboard & workspace를 다른 User에게 공유한 List이다.<br>
+⑭ Receiver는 나의 dashboard & workspace를 다른 User에게 공유한 List이다.
 
 <a href="{{ site.url }}/images/works/20160523/image-2.jpg"><img src="{{ site.url }}/images/works/20160523/image-2.jpg" alt="map"></a>
 <br>
@@ -46,7 +46,7 @@ published: true
 ⑧ Repeat > Week 선택 시, 요일과 시간이 선택 가능하다.<br>
 ⑨ Day, Week 단위로 설정 가능하다. (원하는 요일과 시간을 설정할 수 있다.)<br>
 ⑩ Save 버튼을 클릭하면 저장되고 Cancel 버튼을 클릭하면 취소되며 카드로 등록되지 않는다.<br>
-⑪ 등록된 Schedule은 해당 시간단위로 Reporting 되고 카드 Header 좌측에 카운트 된다.<br>
+⑪ 등록된 Schedule은 해당 시간단위로 Reporting 되고 카드 Header 좌측에 카운트 된다.
 
 <a href="{{ site.url }}/images/works/20160523/image-3.jpg"><img src="{{ site.url }}/images/works/20160523/image-3.jpg" alt="scheduling"></a>
 <br>
@@ -55,7 +55,7 @@ published: true
 ### 2-2. Remove the schedule.
 
 ① 등록된 카드의 X 버튼을 클릭하면 삭제가 가능하다.<br>
-② 취소 버튼을 누르면 삭제 되지 않고 삭제 버튼을 누르면 최종 삭제 된다.<br>
+② 취소 버튼을 누르면 삭제 되지 않고 삭제 버튼을 누르면 최종 삭제 된다.
 
 <a href="{{ site.url }}/images/works/20160523/image-4.jpg"><img src="{{ site.url }}/images/works/20160523/image-4.jpg" alt="schedule remove"></a>
 <br>
