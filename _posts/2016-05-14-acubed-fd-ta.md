@@ -39,6 +39,6 @@ FD-TA(Fault Detection Trace Analysis): 실시간으로 올라오는 데이터를
 <br>
 <a href="{{ site.url }}/images/works/20160514/image-8.jpg"><img src="{{ site.url }}/images/works/20160514/image-8.jpg" alt="fd-ta"></a>
 <br>
-<a href="{{ site.url }}/images/works/20160514/image-9.jpg"><img src="{{ site.url }}/images/works/20160514/image-9.jpg" alt="fd-ta-raw"></a> 
+<a href="{{ site.url }}/images/works/20160514/image-9.JPG"><img src="{{ site.url }}/images/works/20160514/image-9.JPG" alt="fd-ta"></a> 
 <br>
 <a href="{{ site.url }}/images/works/20160514/image-10.jpg"><img src="{{ site.url }}/images/works/20160514/image-10.jpg" alt="fd-ta-raw"></a>
