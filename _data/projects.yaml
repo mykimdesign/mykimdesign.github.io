@@ -1,13 +1,13 @@
-- url: portfolio/test.html
+- title: A3
+  url: portfolio/a3.html
+  image: images/portfolio/a3-main.jpg
+  completed: true
+
+- url: portfolio/mi.html
   image: images/portfolio/mi-main.jpg
   completed: true
   
 - title: FW
   url: images/portfolio/fw-detail.jpg
   image: images/portfolio/fw-main.jpg
-  completed: true
-  
-- title: A3
-  url: images/portfolio/a3-detail.jpg
-  image: images/portfolio/a3-main.jpg
   completed: true
