@@ -845,11 +845,25 @@ img.mfp-img {
   }
   
   .a3-header {
-    height: 500px;
-    background-color: #f9f9f9;
+    height: 600px;
+    padding-top: 90px;
+    background-color: #f1f5f9;
+    
+    .desktop {
+      width: 69%;
+      height: 80%;
+      margin: 0 auto;
+      box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
+      border-radius: 20px;
+      border: 50px solid #fff;
+    }
   }
   
-  .a3-body1 , .a3-body3, .a3-body5 {
+  .a3-body1 {
+    padding: 45px 60px 0px 60px;
+  }
+  
+  .a3-body3, .a3-body5 {
     padding: 0px 60px;
   }
   
