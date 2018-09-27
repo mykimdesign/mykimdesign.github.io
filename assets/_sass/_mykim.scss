@@ -851,11 +851,16 @@ img.mfp-img {
     
     .desktop {
       width: 69%;
-      height: 80%;
+      height: 74%;
       margin: 0 auto;
       box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.08);
       border-radius: 20px;
       border: 50px solid #fff;
+      
+      img {
+        width: 100%;
+        height: 100%;
+      }
     }
   }
   
