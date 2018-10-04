@@ -1534,7 +1534,7 @@ img.mfp-img {
     float: left;
     width: 100%;
     padding-top: 700px;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     
     .explain {
       width: 100%;
@@ -1548,11 +1548,41 @@ img.mfp-img {
       padding: 0 60px;
     }
     
-    li {
+    strong, p {
+      display: block;
+      text-align: center;
+    }
+
+    strong {
+      padding-top: 145px;
+      margin-bottom: 3px;
+    }
+
+    p {
+      font-size: 0.8em;
+    }
+    
+    .development {
+      li {
+        height: 130px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+      }
+    }
+    
+    .planning {
+      width: 29%;
+      background-image: url(/images/portfolio/fw/fw-planning.png);
+    }
+    
+    .design {
       width: 30%;
-      height: 200px;
-      background-color: #fff;
-      border-radius: 2px;
+      background-image: url(/images/portfolio/fw/fw-design.png);
+    }
+    
+    .publishing {
+      width: 30%;
+      background-image: url(/images/portfolio/fw/fw-publishing.png);
     }
   }
 }
