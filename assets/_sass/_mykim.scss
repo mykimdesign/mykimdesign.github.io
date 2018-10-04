@@ -1364,7 +1364,7 @@ img.mfp-img {
       font-weight: bold;
     }
     span {
-      font-size: 0.7em;
+      font-size: 0.8em;
       line-height: 0.8em;
      }
   }
@@ -1554,7 +1554,7 @@ img.mfp-img {
     }
 
     strong {
-      padding-top: 145px;
+      margin-top: 10px;
       margin-bottom: 3px;
     }
 
@@ -1562,27 +1562,131 @@ img.mfp-img {
       font-size: 0.8em;
     }
     
-    .development {
-      li {
-        height: 130px;
-        background-size: 100%;
-        background-repeat: no-repeat;
-      }
-    }
-    
     .planning {
       width: 29%;
-      background-image: url(/images/portfolio/fw/fw-planning.png);
     }
     
     .design {
       width: 30%;
-      background-image: url(/images/portfolio/fw/fw-design.png);
     }
     
     .publishing {
       width: 30%;
-      background-image: url(/images/portfolio/fw/fw-publishing.png);
+    }
+  }
+}
+
+@media screen and (min-width: 1081px) and (max-width: 1230px) {
+  .fw {
+    .fw-body1, .fw-body2 {
+      .explain {
+        display: block;
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      
+      ul {
+        float: initial;
+        display: block;
+        margin: 0 auto;
+      }
+      
+      img {
+        float: initial;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .fw {
+    .fw-body2 {
+      div {
+        margin-right: 100px;
+      }
+      ul {
+        margin-left: 100px;
+      }
+    }
+    .fw-body4 {
+      padding-top: 800px;
+    }
+  }
+}
+
+@media screen and (max-width: 910px) {
+  .fw {
+    .fw-body1, .fw-body2 {
+      .explain {
+        display: block;
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      
+      ul {
+        float: initial;
+        display: block;
+        margin: 0 auto;
+      }
+      
+      img {
+        float: initial;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 610px) {
+  .fw {
+    .fw-body2 {
+      ul {
+        width: 428px;
+      }
+      li {
+        width: 120px;
+        height: 80px;
+        
+        &:nth-child(1), &:nth-child(4),
+        &:nth-child(5), &:nth-child(6),
+        &:nth-child(7), &:nth-child(8),
+        &:nth-child(9) {
+          span {
+            position: absolute;
+            top: 30px;
+            left: 42px;
+          } 
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 510px) {
+  .fw {
+    .fw-body2 {
+      ul {
+        width: 338px;
+      }
+      li {
+        width: 90px;
+        height: 65px;
+        
+        &:nth-child(1), &:nth-child(4),
+        &:nth-child(5), &:nth-child(6),
+        &:nth-child(7), &:nth-child(8),
+        &:nth-child(9) {
+          span {
+            position: absolute;
+            top: 22px;
+            left: 28px;
+          } 
+        }
+      }
     }
   }
 }
