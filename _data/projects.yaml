@@ -1,13 +1,13 @@
 - title: A3
   url: portfolio/a3.html
   image: images/portfolio/a3-main.jpg
-  completed: true
+  completed: false
 
 - url: portfolio/mi.html
   image: images/portfolio/mi-main.jpg
-  completed: true
+  completed: false
   
 - title: FW
   url: portfolio/fw.html
   image: images/portfolio/fw-main.jpg
-  completed: true
+  completed: false

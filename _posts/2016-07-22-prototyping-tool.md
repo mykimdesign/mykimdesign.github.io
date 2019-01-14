@@ -10,7 +10,7 @@ tags:
   - axure
   - justinmind
   - uxpin
-published: true
+published: false
 ---
     
  프로젝트를 진행하기 전에 와이어 프레임, 목업의 프로토타입을 미리 만들어두면 프로젝트의 큰 리스크를 미리 줄일 수 있고 업무 협업에도 큰 도움이 됩니다.
